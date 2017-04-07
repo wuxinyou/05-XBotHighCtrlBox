@@ -118,6 +118,7 @@ void SerialPortThread::remoteDataIncoming()
         
         //接收数据并显示
         receiveData(c);
+        
 
        
 }
