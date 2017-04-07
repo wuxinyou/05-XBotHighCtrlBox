@@ -1,0 +1,19 @@
+<RCC>
+	<qresource prefix="/" >
+		<file>images/back11.jpg</file>
+		<file>images/back22.jpg</file>
+		<file>images/back33.jpg</file>
+		<file>data/dipan.3DS</file>
+		<file>data/zhibi.3DS</file>
+		<file>data/dabi.3DS</file>
+		<file>data/dabixuanzhuan.3DS</file>
+		<file>data/xiangji.3DS</file>
+		<file>data/xiaobi.3DS</file>
+		<file>data/shouwan.3DS</file>
+		<file>data/shouzhuaxuanzhuan.3DS</file>
+		<file>data/shouzhua1.3DS</file>
+		<file>data/shouzhua2.3DS</file>
+		<file>data/yuntai.3DS</file>
+		<file>data/yuntaixuanzhuan.3DS</file>
+	</qresource>
+</RCC>
