@@ -1,0 +1,19 @@
+Qt4.7.1移植到开发板显示中文问题
+
+1.首先cd  /opt/qt-4.7.1/lib/fonts下，将里面原来的字库全部删除，把下载的温泉译字库复制到该文件下。
+2.在编写Qt程序时在main.cpp中进行字体设置，主要有以下改变
+
+QTextCodec::setCodecForLocale(QTextCodec::codecForName("UTF-8"));
+QTextCodec::setCodecForTr(QTextCodec::codecForName("UTF-8")); //支持Tr中文
+QTextCodec::setCodecForCStrings(QTextCodec::codecForName("UTF-8"));//支持中文文件名显示
+
+
+QFont font;
+font.setPointSize(120);				//可根据显示设置字体大小120或更大或更小
+font.setFamily(("wenquanyi"));
+font.setBold(false);
+a.setFont(font);
+
+uarttest w;   //此句说明一定要放到字体设置之后
+w.show();
+

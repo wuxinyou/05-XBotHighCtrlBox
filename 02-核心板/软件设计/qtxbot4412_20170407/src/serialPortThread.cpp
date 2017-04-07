@@ -48,7 +48,7 @@ SerialPortThread::SerialPortThread(ReceiveFrame *recData,SendFrame *sendData)
     }
 
     m_notifier = new QSocketNotifier(m_fd, QSocketNotifier::Read, this);
-    connect (m_notifier, SIGNAL(activated(int)), this, SLOT(remoteDataIncoming()));
+  //  connect (m_notifier, SIGNAL(activated(int)), this, SLOT(remoteDataIncoming()));
 	
 	timerSend = new QTimer(this);
     connect(timerSend,SIGNAL(timeout()),this,SLOT(sendData()));
@@ -78,8 +78,8 @@ void SerialPortThread::run()
     {  
 
 	
-
-    QThread::msleep (1);
+	remoteDataIncoming();    //将接收放到线程中
+    QThread::msleep (2);
     }
 } 
 

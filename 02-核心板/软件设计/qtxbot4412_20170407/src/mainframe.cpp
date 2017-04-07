@@ -39,6 +39,12 @@ Mainframe::Mainframe( QWidget * parent, Qt::WindowFlags f)
 	signalCountTimer->start(1000);
 	
 	
+	//<一些测试  完成后必须删除>
+	
+	//</测试完成>
+	
+	
+	
 	
 }
 //初始化界面背景
@@ -148,6 +154,7 @@ void Mainframe::initComponent()
 	sendFrame    = new SendFrame;
 	receiveFrame = new ReceiveFrame;
     serialPortThread = new SerialPortThread(receiveFrame,sendFrame);
+    serialPortThread->start();   //打开线程
 
 	
 	
@@ -2624,7 +2631,7 @@ void Mainframe::showSignal()
 {
 	if(!mysignalshow->wiredflag)   //如果是有线，则直接退出
 		return;
-	mysignalshow->setValue(signalCount/10);
+	mysignalshow->setValue(signalCount%10);
 	
 	
 	signalCount=0;       //显示完后立马置0
