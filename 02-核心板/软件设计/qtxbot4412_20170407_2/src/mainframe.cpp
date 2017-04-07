@@ -136,6 +136,7 @@ void Mainframe::initComponent()
 	mybattery_5=new Battery(this);
 	myroll=new Roll(this);
 	mywid_2d=new Modle_2d(this);
+	mywid_2d->disflag=true;  //
 	// mywid=new mymodel(this);
 	mysignalshow=new SignalShow(this);
 	myarms=new SpeedGrade(this);
@@ -2631,7 +2632,7 @@ void Mainframe::showSignal()
 {
 	if(!mysignalshow->wiredflag)   //如果是有线，则直接退出
 		return;
-	mysignalshow->setValue(signalCount%10);
+	mysignalshow->setValue(signalCount);
 	
 	
 	signalCount=0;       //显示完后立马置0

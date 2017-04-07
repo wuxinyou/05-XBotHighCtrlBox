@@ -29,11 +29,11 @@ Modle_2d::Modle_2d( QWidget* parent)
 	value_11=0;
 	
 	//<背景贴图加载>         
-	if(!pix.load(":/images/Modle2DWin.jpg",0,Qt::AvoidDither|Qt::ThresholdDither|Qt::ThresholdAlphaDither))
-	{
-		QMessageBox::information(this, "", "Modle2DWin.jpg failed load file");
-	}
-	update();
+	//if(!pix.load(":/images/Modle2DWin.jpg",0,Qt::AvoidDither|Qt::ThresholdDither|Qt::ThresholdAlphaDither))
+	//{
+		//QMessageBox::information(this, "", "Modle2DWin.jpg failed load file");
+	//}
+	//update();
 	//</背景贴图加载>
 	
 }
@@ -204,21 +204,21 @@ void Modle_2d::paintEvent(QPaintEvent *event)
 	//<打印角度信息>
 	painter.setPen(QColor(255,255,255));
 	
-	painter.drawText(70,19,QString::number(value_1*2));//"大臂俯仰:"+
+	painter.drawText(6,19,"大臂俯仰: "+QString::number(value_1*2));//"大臂俯仰:"+
 	
-	painter.drawText(70,41,QString::number(value_2*2));//"小臂俯仰:"+
+	painter.drawText(6,41,"小臂俯仰: "+QString::number(value_2*2));//"小臂俯仰:"+
 	
-	painter.drawText(70,63,QString::number(value_3*2));//"手腕俯仰:"+
+	painter.drawText(6,63,"手腕俯仰: "+QString::number(value_3*2));//"手腕俯仰:"+
 	
-	painter.drawText(70,85,QString::number(value_4*2));//"云台俯仰:"+
+	painter.drawText(6,85,"云台俯仰: "+QString::number(value_4*2));//"云台俯仰:"+
 	
-	painter.drawText(304,19,QString::number(value_5*2));//"手抓捏合:"+
+	painter.drawText(240,19,"手抓捏合: "+QString::number(value_5*2));//"手抓捏合:"+
 	
-	painter.drawText(304,41,QString::number(value_6*2));//"手抓旋转:"+
+	painter.drawText(240,41,"手抓旋转: "+QString::number(value_6*2));//"手抓旋转:"+
 	
-	painter.drawText(304,63,QString::number(value_7*2));//"大臂旋转:"+
+	painter.drawText(240,63,"大臂旋转: "+QString::number(value_7*2));//"大臂旋转:"+
 	
-	painter.drawText(304,85,QString::number(value_8*2));//"云台旋转:"+
+	painter.drawText(240,85,"云台旋转: "+QString::number(value_8*2));//"云台旋转:"+
 	
 	painter.setPen(Qt::NoPen);
 	//</打印角度信息>
