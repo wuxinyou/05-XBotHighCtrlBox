@@ -1,0 +1,12 @@
+Added Component: Designator=C5(CAPPR-100uF/100V)
+Added Component: Designator=J3(HT-M3)
+Added Component: Designator=J11(HT-M3)
+Added Component: Designator=P14(DS1X2-2.54)
+Added Pin To Net: NetName=+PWR_S Pin=C5-1
+Added Pin To Net: NetName=SGND Pin=C5-2
+Added Pin To Net: NetName=CAN1H Pin=P14-1
+Added Pin To Net: NetName=CAN1L Pin=P14-2
+Added Member To Class: ClassName=PowerManager Member=Component C5 470uF/50V
+Added Member To Class: ClassName=FrameWork Member=Component J3 Socket
+Added Member To Class: ClassName=FrameWork Member=Component J11 Socket
+Added Member To Class: ClassName=OmapSystem Member=Component P14 备用CAN接口

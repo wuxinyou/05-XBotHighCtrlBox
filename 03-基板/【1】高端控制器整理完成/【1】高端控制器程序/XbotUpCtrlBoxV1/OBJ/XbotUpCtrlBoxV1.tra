@@ -1,0 +1,46 @@
+*** Creating Trace Output File '.\OBJ\XbotUpCtrlBoxV1.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\obj\stm32_irq_fun.o"'
+### List of Objects: adding '".\obj\batteryadcread.o"'
+### List of Objects: adding '".\obj\joystickadcread.o"'
+### List of Objects: adding '".\obj\keyread.o"'
+### List of Objects: adding '".\obj\cbctrl.o"'
+### List of Objects: adding '".\obj\chain.o"'
+### List of Objects: adding '".\obj\stm32_adc.o"'
+### List of Objects: adding '".\obj\stm32_leddisp.o"'
+### List of Objects: adding '".\obj\stm32_systick.o"'
+### List of Objects: adding '".\obj\stm32_usartdriver.o"'
+### List of Objects: adding '".\obj\stm32_usartinit.o"'
+### List of Objects: adding '".\obj\stm32_timinit.o"'
+### List of Objects: adding '".\obj\stm32_gpioinit.o"'
+### List of Objects: adding '".\obj\stm32_dac.o"'
+### List of Objects: adding '".\obj\stm32f10x_dac.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_adc.o"'
+### List of Objects: adding '".\obj\stm32f10x_dma.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\startup_stm32f10x_hd.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\main.o" ".\obj\stm32f10x_it.o" ".\obj\stm32_irq_fun.o" ".\obj\batteryadcread.o" ".\obj\joystickadcread.o" ".\obj\keyread.o" ".\obj\cbctrl.o" ".\obj\chain.o" ".\obj\stm32_adc.o" ".\obj\stm32_leddisp.o" ".\obj\stm32_systick.o" ".\obj\stm32_usartdriver.o" ".\obj\stm32_usartinit.o" ".\obj\stm32_timinit.o" ".\obj\stm32_gpioinit.o" ".\obj\stm32_dac.o" ".\obj\stm32f10x_dac.o" ".\obj\misc.o" ".\obj\stm32f10x_adc.o" ".\obj\stm32f10x_dma.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_usart.o" ".\obj\core_cm3.o" ".\obj\system_stm32f10x.o" ".\obj\startup_stm32f10x_hd.o" 
+--strict --scatter ".\OBJ\XbotUpCtrlBoxV1.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\OBJ\XbotUpCtrlBoxV1.map" -o .\OBJ\XbotUpCtrlBoxV1.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\OBJ\XbotUpCtrlBoxV1.axf'
+### ADS-LD Command File: '.\OBJ\XbotUpCtrlBoxV1.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\OBJ\XbotUpCtrlBoxV1.lnp', Handle=0x00000310
+### Writing '.lnp' file
+### ADS-LD Command file '.\OBJ\XbotUpCtrlBoxV1.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

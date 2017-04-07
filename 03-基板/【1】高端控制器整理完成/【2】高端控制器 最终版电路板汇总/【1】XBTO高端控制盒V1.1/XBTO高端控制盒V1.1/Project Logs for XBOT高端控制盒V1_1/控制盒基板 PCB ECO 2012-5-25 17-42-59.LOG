@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=A_RY Pin=U5-25
+Removed Pin From Net: NetName=A_RX Pin=U5-26
+Added Pin To Net: NetName=A_RY Pin=U5-23
+Added Pin To Net: NetName=A_RX Pin=U5-24
+Added Pin To Net: NetName=UART3_T Pin=U5-25
+Added Pin To Net: NetName=UART3_R Pin=U5-26
+Added Pin To Net: NetName=KEYSWIN_EL Pin=U5-81
+Added Pin To Net: NetName=KEYSWIN_ED Pin=U5-82
+Added Pin To Net: NetName=KEYSWIN_EM Pin=U5-83
+Added Pin To Net: NetName=KEYSWIN_ER Pin=U5-84
+Added Pin To Net: NetName=KEYSWIN_EU Pin=U5-85

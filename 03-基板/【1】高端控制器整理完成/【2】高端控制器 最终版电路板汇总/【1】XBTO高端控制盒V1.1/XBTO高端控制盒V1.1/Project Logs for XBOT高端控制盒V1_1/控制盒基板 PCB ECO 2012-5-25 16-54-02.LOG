@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=KEYSWIN_M2 Pin=U5-7
+Removed Pin From Net: NetName=KEYSWIN_M3 Pin=U5-8
+Removed Pin From Net: NetName=KEYSWIN_M4 Pin=U5-9
+Change Component Comment : Designator=C94 Old Comment=0.1uF New Comment=100pF
+Added Pin To Net: NetName=KEYSWIN_M4 Pin=U5-1
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=U5-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=U5-3
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=U5-4
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=U5-5
+Added Pin To Net: NetName=KEYSWIN_M2 Pin=U5-97
+Added Pin To Net: NetName=KEYSWIN_M3 Pin=U5-98

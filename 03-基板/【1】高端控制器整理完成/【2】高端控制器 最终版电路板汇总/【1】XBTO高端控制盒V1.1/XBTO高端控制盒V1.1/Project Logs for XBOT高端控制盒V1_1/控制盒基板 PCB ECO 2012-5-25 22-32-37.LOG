@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+2.5V_S Pin=C17-2
+Removed Pin From Net: NetName=+2.5V_S Pin=C19-2
+Removed Pin From Net: NetName=+2.5V_S Pin=C23-2
+Removed Pin From Net: NetName=+2.5V_S Pin=D9-2
+Removed Pin From Net: NetName=+2.5V_S Pin=R10-2
+Removed Pin From Net: NetName=+2.5V_S Pin=R12-1
+Added Pin To Net: NetName=BAT1_ADC Pin=U5-23
+Added Pin To Net: NetName=BAT2_ADC Pin=C17-2
+Added Pin To Net: NetName=BAT2_ADC Pin=C19-2
+Added Pin To Net: NetName=BAT2_ADC Pin=C23-2
+Added Pin To Net: NetName=BAT2_ADC Pin=D9-2
+Added Pin To Net: NetName=BAT2_ADC Pin=R10-2
+Added Pin To Net: NetName=BAT2_ADC Pin=R12-1
+Added Pin To Net: NetName=BAT2_ADC Pin=U5-24
+Added Net: Name=BAT2_ADC

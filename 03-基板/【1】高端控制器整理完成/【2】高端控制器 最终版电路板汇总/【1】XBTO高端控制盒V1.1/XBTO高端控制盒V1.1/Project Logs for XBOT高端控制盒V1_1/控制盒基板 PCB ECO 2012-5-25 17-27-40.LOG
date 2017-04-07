@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MT2_CTRL Pin=U5-93
+Added Pin To Net: NetName=KEYSWIN_A8 Pin=U5-86
+Added Pin To Net: NetName=KEYSWIN_A7 Pin=U5-87
+Added Pin To Net: NetName=KEYSWIN_A6 Pin=U5-88
+Added Pin To Net: NetName=KEYSWIN_A5 Pin=U5-91
+Added Pin To Net: NetName=KEYSWIN_A4 Pin=U5-92
+Added Pin To Net: NetName=KEYSWIN_A3 Pin=U5-93
+Added Pin To Net: NetName=KEYSWIN_A2 Pin=U5-95
+Added Pin To Net: NetName=KEYSWIN_A1 Pin=U5-96

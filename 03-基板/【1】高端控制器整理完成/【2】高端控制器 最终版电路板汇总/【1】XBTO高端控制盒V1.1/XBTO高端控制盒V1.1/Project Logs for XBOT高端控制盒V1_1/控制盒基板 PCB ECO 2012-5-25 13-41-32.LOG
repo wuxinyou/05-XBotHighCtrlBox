@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=KEYSWIN_H4 Pin=U5-39
+Removed Pin From Net: NetName=KEYSWIN_H5 Pin=U5-40
+Removed Pin From Net: NetName=KEYSWIN_I1 Pin=U5-47
+Removed Pin From Net: NetName=KEYSWIN_I2 Pin=U5-48
+Removed Pin From Net: NetName=KEYSWIN_J1 Pin=U5-51
+Removed Pin From Net: NetName=KEYSWIN_J2 Pin=U5-52
+Added Pin To Net: NetName=KEYSWIN_FD Pin=U5-33
+Added Pin To Net: NetName=KEYSWIN_H4 Pin=U5-38
+Added Pin To Net: NetName=KEYSWIN_H5 Pin=U5-39
+Added Pin To Net: NetName=KEYSWIN_B1 Pin=U5-40
+Added Pin To Net: NetName=KEYSWIN_B2 Pin=U5-41
+Added Pin To Net: NetName=KEYSWIN_B3 Pin=U5-42
+Added Pin To Net: NetName=KEYSWIN_B4 Pin=U5-43
+Added Pin To Net: NetName=KEYSWIN_B5 Pin=U5-44
+Added Pin To Net: NetName=KEYSWIN_B6 Pin=U5-45
+Added Pin To Net: NetName=KEYSWIN_B7 Pin=U5-46
+Added Pin To Net: NetName=KEYSWIN_B8 Pin=U5-47

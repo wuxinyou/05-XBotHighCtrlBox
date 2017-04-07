@@ -1,0 +1,128 @@
+[Project Header]
+Version = 811
+Pathname Line0001 = "/e/1-项目管理/02-XBOT机器人/2 通用控制器/4-软件设计/XBOT高级控制盒 CVI/UpCtrlBox"
+Pathname Line0002 = "Dis.prj"
+CVI Dir = "/c/program files/national instruments/cvi81"
+IVI Standard Root Dir = "/C/Program Files/IVI"
+VXIplug&play Framework Dir = "/c/vxipnp/winnt"
+Number of Files = 3
+Target Type = "Executable"
+Flags = 16
+
+[File 0001]
+File Type = "Include"
+Res Id = 1
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "command.h"
+Path = "/e/1-项目管理/02-XBOT机器人/2 通用控制器/4-软件设计/XBOT高级控制盒 CVI/command.h"
+Exclude = False
+Project Flags = 0
+Folder = "Includes"
+
+[File 0002]
+File Type = "CSource"
+Res Id = 2
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "UpCtrlBoxDis.c"
+Path Line0001 = "/e/1-项目管理/02-XBOT机器人/2 通用控制器/4-软件设计/XBOT高级控制盒 CVI/UpCtrlBox"
+Path Line0002 = "Dis.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0003]
+File Type = "User Interface Resource"
+Res Id = 3
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "UpCtrlBoxDis.uir"
+Path Line0001 = "/e/1-项目管理/02-XBOT机器人/2 通用控制器/4-软件设计/XBOT高级控制盒 CVI/UpCtrlBox"
+Path Line0002 = "Dis.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[Folders]
+Include Files Folder Not Added Yet = True
+Instrument Files Folder Not Added Yet = True
+Folder 0 = "User Interface Files"
+Folder 1 = "Source Files"
+Folder 2 = "Includes"
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Enable Unreferenced Identifiers Warning = False
+Enable Assignment In Conditional Warning = False
+O Option Compatible With 5.0 = False
+Uninitialized Locals Compile Warning = "Conservative"
+
+[Run Options]
+Stack Size = 250000
+Image Base Address = 4194304
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Create Executable]
+Executable File_Debug Is Rel = True
+Executable File_Debug Rel To = "Project"
+Executable File_Debug Rel Path = "UpCtrlBoxDis_dbg.exe"
+Executable File_Debug Line0001 = "/e/1-项目管理/02-XBOT机器人/2 通用控制器/4-软件设计/XBOT高级控制盒 CVI/UpCtrlBox"
+Executable File_Debug Line0002 = "Dis_dbg.exe"
+Executable File_Release Is Rel = True
+Executable File_Release Rel To = "Project"
+Executable File_Release Rel Path = "UpCtrlBoxDis.exe"
+Executable File_Release Line0001 = "/e/1-项目管理/02-XBOT机器人/2 通用控制器/4-软件设计/XBOT高级控制盒 CVI/UpCtrlBox"
+Executable File_Release Line0002 = "Dis.exe"
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+DLL Exports = "Include File Symbols"
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Type Lib Guid = ""
+Runtime Support = "Full Runtime Support"
+Instrument Driver Support Only = False
+Embed Project .UIRs = False
+Generate Map File = False
+
+[External Compiler Support]
+UIR Callbacks File Option = 0
+Using LoadExternalModule = False
+Create Project Symbols File = True
+UIR Callbacks Obj File Is Rel = False
+UIR Callbacks Obj File = ""
+Project Symbols H File Is Rel = False
+Project Symbols H File = ""
+Project Symbols Obj File Is Rel = False
+Project Symbols Obj File = ""
+
+[ActiveX Server Options]
+Specification File Is Rel = False
+Specification File = ""
+Source File Is Rel = False
+Source File = ""
+Include File Is Rel = False
+Include File = ""
+IDL File Is Rel = False
+IDL File = ""
+Register ActiveX Server = False
+
+[tpcSection]
+tpcEnabled = 0
+tpcOverrideEnvironment = 0
+

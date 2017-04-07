@@ -1,0 +1,81 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~XBOT高端控制盒V1_1.PrjPcb|ReportField=ProjectFullPath~E:\01-WorkItem\32-Xbot高端控制器\基板\【1】高端控制器整理完成\【2】高端控制器 最终版电路板汇总\【1】XBTO高端控制盒V1.1\XBTO高端控制盒V1.1\XBOT高端控制盒V1_1.PrjPcb|ReportField=Title~Bill of Materials For Project [XBOT高端控制盒V1_1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~371|ReportField=ReportTime~10:56:42|ReportField=ReportDate~2017/3/10|ReportField=ReportDateTime~2017/3/10 10:56:42|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/3/10|ReportField=CurrentTime~10:56:38|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\01-WorkItem\32-Xbot高端控制器\基板\【1】高端控制器整理完成\【2】高端控制器 最终版电路板汇总\【1】XBTO高端控制盒V1.1\XBTO高端控制盒V1.1\FrameWork.SchDoc|ReportField=DocumentName~FrameWork.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/3/10|ReportField=Organization~|ReportField=ProjectName~XBOT高端控制盒V1_1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~XBOT高端控制盒V1_1.PrjPcb|ReportField=DataSourceFullPath~E:\01-WorkItem\32-Xbot高端控制器\基板\【1】高端控制器整理完成\【2】高端控制器 最终版电路板汇总\【1】XBTO高端控制盒V1.1\XBTO高端控制盒V1.1\XBOT高端控制盒V1_1.PrjPcb
+0.1uF|CAP, CAP, CERAMIC, 0.1UF, 16V, X5R, 0603, CAP, CERAMIC, 0.1UF, 16V, X5R, 0603, CAP, CAP, CAP, CAP, Capacitor, CAP, Capacitor, Capacitor, CAP, CAP, CAP, CAP, CAP, CAP, CAP|C1, C4, C9, C12, C13, C24, C25, C79, C80, C85, C86, C105, C106, C108, C110, C113, C114, C115|C0805|CAP|18
+10uF|CAP|C2, C16, C17, C78, C81, C82, C87, C88, C112, C116, C117, C118|C1206|CAP|12
+15nF|CAP, CERAMIC, 15nF, 16V, X5R, 0603|C3|C0805|Cap|1
+470uF/50V|Electrolytic Capacitor|C5|CT7343-E|ELECTRO|1
+22pF|Capacitor|C6|R0805|Cap|1
+2200pF|Capacitor|C7|C0805|Cap|1
+100uF, 16V|Polarized Capacitor (Radial)|C8|CT7343-E|Cap Pol1|1
+22uF|CAP|C10, C11, C20, C26|C1206|CAP|4
+100pF|CAP, CAP, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor, Capacitor|C14, C21, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C58, C59, C60, C61, C62, C63, C64, C65, C66, C67, C68, C71, C72, C73, C74|C0805|CAP|48
+100uF/16V|Electrolytic Capacitor|C15|CT7343-E|CAP-ELECTRO|1
+0.1uF|CAP|C18, C19, C119, C120, C121|C1206|CAP|5
+100pF|CAP|C22, C23|C1206|CAP|2
+1uF|Capacitor|C69, C70|C0805|Cap|2
+470uF/35V|Electrolytic Capacitor|C77, C83|CT7343-E|ELECTRO|2
+47uF/35V|Electrolytic Capacitor|C84|CT7343-D|ELECTRO|1
+0.1uF|CAP, CAP, CAP, Capacitor, CAP, CAP, CAP, CAP, CAP, CAP|C89, C91, C92, C93, C97, C98, C100, C101, C102, C104|C0603|CAP|10
+10uF|CAP|C90, C95, C96, C99|C0805|CAP|4
+100pF|CAP|C94, C103|C0603|CAP|2
+15pF|Capacitor|C107, C109, C111|C0805|Cap|3
+SM8S14A|Small Signal Zener Diodes|D1, D2|DO-218AB|DIODE-ZENER|2
+MBRS410LT3|Small Signal Zener Diodes|D3, D4, D5, D6|SMC|DIODE-ZENER|4
+MBRS3201T3G|Small Signal Zener Diodes|D7|DO-218AB|DIODE-ZENER|1
+1SMA5.0AT3G|Silicon Epitaxial Planar Diodes|D8, D9|SMA-S|DIODE-SWITCHING|2
+1SMA5.0AT3G|Diode|D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D57, D59|SMA|DIODE1|46
+1.5SMC15AT3G|Small Signal Zener Diodes|D56, D58|SMC|DIODE-ZENER|2
+LED-G||D60, D61|LED0805|LED|2
+1.5SMC6.8CA||D62, D63, D64|SMC|P0080_1|3
+2A|Fuse|F1, F2, F3, F4|F1812|FUSE2|4
+SP3232EEN|+5V Powered, Multi-Channel RS-232 Driver/Receiver|IC1|SO16-150|MAX232ACPE|1
+SP3078EEN-L/TR||IC2, IC3, IC4|SO-8|SP3078EEN|3
+HD1X8-2.00||J2|SHD1X8-2.00|HEADER1X8|1
+Socket|Socket|J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14|HT-M3|Socket|12
+SW4||K_H1, K_H2, K_H3, K_H4, K_H5|SW-MEC|SW-key|5
+15uH,1.5A|Inductor|L1|L5050-P|Inductor|1
+15uH,1.5A|Inductor|L2, L3|L3030-P|Inductor|2
+10uH|INDUCTOR|L4|L0603-C|INDUCTOR|1
+Header 6|Header, 6-Pin|P1, P20|DS1X6-2.54|Header 6|2
+KEY_A|Header, 9-Pin|P2, P3|HDR1X9|Header 9|2
+Header 8|Header, 8-Pin|P6|FFC/SM1.0-8|Header 8|1
+SMT-8P||P8|1MM25_8PIN_SMT_R90|SMT-8P|1
+Header 6|Header, 6-Pin|P9, P10|FFC/SM1.0-6|Header 6|2
+五线触摸屏接口|Header, 5-Pin|P11|DS1X5-2.54|Header 5|1
+RTC备用电池|Header, 2-Pin|P12|CR2428|Header 2|1
+备用视频输入输出|Header, 4-Pin|P13|DS1X4-2.54|Header 4|1
+备用CAN接口|Header, 2-Pin|P14|DS1X2-2.54|Header 2|1
+振动电机1|Header, 2-Pin|P15|1MM25_2PIN_SMT_R90|Header 2|1
+Header 10|Header, 10-Pin|P16, P21|DS1X10-2.54|Header 10|2
+音频接口|Header, 8-Pin|P17|DS1X8-2.54|Header 8|1
+振动电机2|Header, 2-Pin|P18|1MM25_2PIN_SMT_R90|Header 2|1
+8R 喇叭接口|Header, 2-Pin|P19|DS1X2-2.54|Header 2|1
+17W2|Connector|P22|17W2_FEMALE|17W2|1
+Header 8|Header, 8-Pin|P23, P25|DS1X8-2.54|Header 8|2
+Header 4|Header, 4-Pin|P24|DS1X4-2.54|Header 4|1
+Header 15X2|Header, 15-Pin, Dual row|PA1, PB1|HDR2X15|Header 15X2|2
+8050|NPN General Purpose Amplifier|Q1, Q2|SOT-23|NPN|2
+BCP54|BCP54|Q3, Q4|SOT-223|BCP54|2
+0K|Resistor|R0|R0603|Res|1
+1K|Resistor|R1, R83, R84, R95, R96, R122, R123|R0805|Res1, RES, RES, RES, RES, RES, RES|7
+348K|Resistor|R2|R0805|Res1|1
+64.9K|Resistor|R3|R0805|Res1|1
+205K|Resistor|R4|R0805|Res1|1
+35.7K,1%|Resistor|R5|R0805|Res1|1
+53.6K,1%|Resistor|R6|R0805|Res1|1
+10K|Resistor|R7, R8, R11, R12, R104, R105, R106|R0805|Res1, Res1, Res1, Res1, RES, RES, RES|7
+100K|Resistor|R9, R10|R0805|Res1|2
+4.7K|Resistor|R13, R14, R15, R16, R17, R23, R24, R25, R26, R31, R32, R33, R34, R39, R40, R41, R42, R47, R48, R49, R50, R55, R56, R59, R60, R61, R65, R66, R67, R71, R72, R73, R77, R78, R79, R85, R86, R89, R90, R93|R0805|RES|40
+0.33K|Resistor|R18, R19, R20, R21, R22, R27, R28, R29, R30, R35, R36, R37, R38, R43, R44, R45, R46, R51, R52, R53, R54, R57, R58, R62, R63, R64, R68, R69, R70, R74, R75, R76, R80, R81, R82, R87, R88, R91, R92, R94|R0805|RES|40
+10K|Resistor|R97, R98, R99|R0603|Res|3
+470R|Resistor|R100, R101|R0805|Res|2
+4.7R|Resistor|R102, R103|R0805|RES|2
+2K|Resistor|R107, R109, R110, R112, R113, R115|R0805|RES|6
+120R(不焊)|Resistor|R108, R111, R114|R0805|RES|3
+10R|Resistor|R116, R117, R118, R119, R120, R121|R0805|RES|6
+SW-4||S1, S2|SW-MEC-5|SW-4|2
+TPS54160-C1||U1|TSSO3X5-G10|TPS54160-C1|1
+MC33275DT-3.3|3-Terminal 0.5A Positive Voltage Regulator|U2|TO-252|MC78MXX|1
+REF192||U3|SO-8|REF192/5/7|1
+TDA7267|2W功放芯片|U4|DIP8|TDA7267|1
+STM32F103VCT6||U5|STM32F103VCT6|STM32F103VCT6|1
+XTAL 8MHz||Y1|XTAL 5.0X7.0-SM|XTAL|1

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=A_RY Pin=U5-23
+Removed Pin From Net: NetName=A_RX Pin=U5-24
+Added Pin To Net: NetName=+2.5V_S Pin=C17-2
+Added Pin To Net: NetName=+2.5V_S Pin=C19-2
+Added Pin To Net: NetName=+2.5V_S Pin=C23-2
+Added Pin To Net: NetName=+2.5V_S Pin=D9-2
+Added Pin To Net: NetName=+2.5V_S Pin=R10-2
+Added Pin To Net: NetName=+2.5V_S Pin=R12-1
+Added Pin To Net: NetName=A_LX Pin=U5-16
+Added Pin To Net: NetName=A_LY Pin=U5-17
+Added Pin To Net: NetName=A_RY Pin=U5-25
+Added Pin To Net: NetName=A_RX Pin=U5-26

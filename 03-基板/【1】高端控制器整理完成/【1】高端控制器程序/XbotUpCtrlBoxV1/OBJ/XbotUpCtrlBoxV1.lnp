@@ -1,0 +1,5 @@
+--cpu Cortex-M3 ".\obj\main.o" ".\obj\stm32f10x_it.o" ".\obj\stm32_irq_fun.o" ".\obj\batteryadcread.o" ".\obj\joystickadcread.o" ".\obj\keyread.o" ".\obj\cbctrl.o" ".\obj\chain.o" ".\obj\stm32_adc.o" ".\obj\stm32_leddisp.o" ".\obj\stm32_systick.o" ".\obj\stm32_usartdriver.o" ".\obj\stm32_usartinit.o" ".\obj\stm32_timinit.o" ".\obj\stm32_gpioinit.o" ".\obj\stm32_dac.o" ".\obj\stm32f10x_dac.o" ".\obj\misc.o" ".\obj\stm32f10x_adc.o" ".\obj\stm32f10x_dma.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_usart.o" ".\obj\core_cm3.o" ".\obj\system_stm32f10x.o" ".\obj\startup_stm32f10x_hd.o" 
+--strict --scatter ".\OBJ\XbotUpCtrlBoxV1.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\OBJ\XbotUpCtrlBoxV1.map" -o .\OBJ\XbotUpCtrlBoxV1.axf

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=KEYSWLED_G2 Pin=U5-63
+Removed Pin From Net: NetName=KEYSWLED_G1 Pin=U5-64
+Removed Pin From Net: NetName=KEYSWIN_G1 Pin=U5-65
+Removed Pin From Net: NetName=KEYSWIN_G2 Pin=U5-66
+Added Pin To Net: NetName=KEYSWIN_G2 Pin=U5-63
+Added Pin To Net: NetName=KEYSWIN_G1 Pin=U5-64
+Added Pin To Net: NetName=KEYSWLED_G1 Pin=U5-65
+Added Pin To Net: NetName=KEYSWLED_G2 Pin=U5-66

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=RJ45 TX+ Pin=P24-1
+Removed Pin From Net: NetName=RJ45 TX- Pin=P24-2
+Removed Pin From Net: NetName=RJ45 RX+ Pin=P24-3
+Removed Pin From Net: NetName=RJ45 RX- Pin=P24-4
+Added Pin To Net: NetName=SGND Pin=C116-1
+Added Pin To Net: NetName=SGND Pin=C117-1
+Added Pin To Net: NetName=SGND Pin=C118-1
+Added Pin To Net: NetName=SGND Pin=C119-1
+Added Pin To Net: NetName=SGND Pin=C120-1
+Added Pin To Net: NetName=SGND Pin=C121-1
+Added Pin To Net: NetName=RJ45 RX+ Pin=P24-1
+Added Pin To Net: NetName=RJ45 RX- Pin=P24-2
+Added Pin To Net: NetName=RJ45 TX+ Pin=P24-3
+Added Pin To Net: NetName=RJ45 TX- Pin=P24-4
+Added Pin To Net: NetName=SGND Pin=R104-2
+Added Pin To Net: NetName=SGND Pin=R105-2
+Added Pin To Net: NetName=SGND Pin=R106-2

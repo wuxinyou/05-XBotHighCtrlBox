@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [XBOT¸ß¶Ë¿ØÖÆºĞV1_1.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At ÉÏÎç 10:31:41 On 2012-9-20

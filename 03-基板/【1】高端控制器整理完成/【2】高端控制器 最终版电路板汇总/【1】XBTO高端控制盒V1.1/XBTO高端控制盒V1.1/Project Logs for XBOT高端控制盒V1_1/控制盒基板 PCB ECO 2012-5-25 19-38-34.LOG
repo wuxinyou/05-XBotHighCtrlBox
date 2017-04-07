@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=KEYSWIN_EL Pin=U5-61
+Removed Pin From Net: NetName=KEYSWIN_ED Pin=U5-62
+Removed Pin From Net: NetName=KEYSWIN_EM Pin=U5-81
+Removed Pin From Net: NetName=KEYSWIN_ER Pin=U5-82
+Removed Pin From Net: NetName=KEYSWIN_EU Pin=U5-83
+Added Pin To Net: NetName=KEYSWIN_EL Pin=U5-60
+Added Pin To Net: NetName=KEYSWIN_ED Pin=U5-61
+Added Pin To Net: NetName=KEYSWIN_EM Pin=U5-62
+Added Pin To Net: NetName=KEYSWIN_ER Pin=U5-81
+Added Pin To Net: NetName=KEYSWIN_EU Pin=U5-82
+Added Pin To Net: NetName=MT2_CTRL Pin=U5-83
