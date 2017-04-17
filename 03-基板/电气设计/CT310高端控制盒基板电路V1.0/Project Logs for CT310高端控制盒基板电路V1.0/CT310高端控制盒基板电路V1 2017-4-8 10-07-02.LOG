@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=SGND Pin=D31-1
+Removed Pin From Net: NetName=SGND Pin=D32-1
+Removed Pin From Net: NetName=SGND Pin=D34-1
+Removed Pin From Net: NetName=SGND Pin=D35-1
+Removed Pin From Net: NetName=SGND Pin=D37-1
+Removed Pin From Net: NetName=SGND Pin=D38-1
+Removed Pin From Net: NetName=SGND Pin=D40-1
+Removed Pin From Net: NetName=SGND Pin=D41-1
+Removed Pin From Net: NetName=SGND Pin=D43-1
+Removed Pin From Net: NetName=SGND Pin=D44-1
+Removed Pin From Net: NetName=KEYSWIN_EU Pin=R57-1
+Removed Pin From Net: NetName=KEYSWIN_FU Pin=R58-1
+Removed Pin From Net: NetName=KEYSWIN_ED Pin=R63-1
+Removed Pin From Net: NetName=KEYSWIN_FD Pin=R64-1
+Removed Pin From Net: NetName=KEYSWIN_EL Pin=R69-1
+Removed Pin From Net: NetName=KEYSWIN_FL Pin=R70-1
+Removed Pin From Net: NetName=KEYSWIN_ER Pin=R75-1
+Removed Pin From Net: NetName=KEYSWIN_FR Pin=R76-1
+Removed Pin From Net: NetName=KEYSWIN_EM Pin=R81-1
+Removed Pin From Net: NetName=KEYSWIN_FM Pin=R82-1
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D31
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D32
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D34
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D35
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D37
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D38
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D40
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D41
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D43
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D44
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R57
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R58
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R63
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R64
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R69
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R70
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R75
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R76
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R81
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R82
+Added Pin To Net: NetName=KEYSWIN_EU Pin=R55-1
+Added Pin To Net: NetName=KEYSWIN_FU Pin=R56-1
+Added Pin To Net: NetName=KEYSWIN_ED Pin=R60-1
+Added Pin To Net: NetName=KEYSWIN_FD Pin=R61-1
+Added Pin To Net: NetName=KEYSWIN_EL Pin=R66-1
+Added Pin To Net: NetName=KEYSWIN_FL Pin=R67-1
+Added Pin To Net: NetName=KEYSWIN_ER Pin=R72-1
+Added Pin To Net: NetName=KEYSWIN_FR Pin=R73-1
+Added Pin To Net: NetName=KEYSWIN_EM Pin=R78-1
+Added Pin To Net: NetName=KEYSWIN_FM Pin=R79-1
+Added Pin To Net: NetName=KEYSWIN_EU Pin=S1-2
+Added Pin To Net: NetName=KEYSWIN_EU Pin=S1-2
+Added Pin To Net: NetName=KEYSWIN_ED Pin=S1-4
+Added Pin To Net: NetName=KEYSWIN_ED Pin=S1-4
+Added Pin To Net: NetName=KEYSWIN_ER Pin=S1-6
+Added Pin To Net: NetName=KEYSWIN_ER Pin=S1-6
+Added Pin To Net: NetName=KEYSWIN_EL Pin=S1-8
+Added Pin To Net: NetName=KEYSWIN_EL Pin=S1-8
+Added Pin To Net: NetName=KEYSWIN_EM Pin=S1-10
+Added Pin To Net: NetName=KEYSWIN_EM Pin=S1-10
+Added Pin To Net: NetName=KEYSWIN_FU Pin=S2-2
+Added Pin To Net: NetName=KEYSWIN_FU Pin=S2-2
+Added Pin To Net: NetName=KEYSWIN_FD Pin=S2-4
+Added Pin To Net: NetName=KEYSWIN_FD Pin=S2-4
+Added Pin To Net: NetName=KEYSWIN_FR Pin=S2-6
+Added Pin To Net: NetName=KEYSWIN_FR Pin=S2-6
+Added Pin To Net: NetName=KEYSWIN_FL Pin=S2-8
+Added Pin To Net: NetName=KEYSWIN_FL Pin=S2-8
+Added Pin To Net: NetName=KEYSWIN_FM Pin=S2-10
+Added Pin To Net: NetName=KEYSWIN_FM Pin=S2-10
+Added Room: Name=FrameWork
+Added Room: Name=JoyStickAdcInput
+Added Room: Name=KeyInput_ABH
+Added Room: Name=KeyInput_IJMEF
+Added Room: Name=KeyInput_MG
+Added Room: Name=LeftInterface
+Added Room: Name=OmapSystem
+Added Room: Name=PowerManager
+Added Room: Name=Processor
+Added Room: Name=RightInterface
+Added Room: Name=TTL_TO_RS232
+Added Room: Name=TTL_TO_RS485

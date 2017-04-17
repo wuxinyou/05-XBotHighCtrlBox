@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=SGND Pin=C?-1
+Removed Pin From Net: NetName=BAT2_IN Pin=F2-1
+Removed Pin From Net: NetName=SGND Pin=P20-3
+Removed Pin From Net: NetName=SGND Pin=P20-4
+Removed Pin From Net: NetName=+PWR_S Pin=P20-5
+Removed Pin From Net: NetName=SGND Pin=P20-6
+Removed Pin From Net: NetName=RS485-A3 Pin=P21-1
+Removed Pin From Net: NetName=RS485-B3 Pin=P21-2
+Removed Pin From Net: NetName=CVBS1 Pin=P21-3
+Removed Pin From Net: NetName=SGND Pin=P21-4
+Removed Pin From Net: NetName=LINE_IN_L Pin=P21-5
+Removed Pin From Net: NetName=SGND Pin=P21-6
+Removed Pin From Net: NetName=BAT2_IN Pin=P21-7
+Removed Pin From Net: NetName=SGND Pin=P21-8
+Removed Pin From Net: NetName=12V Pin=P21-9
+Removed Pin From Net: NetName=BAT2_IN Pin=P22-1
+Removed Pin From Net: NetName=BAT2_IN Pin=P22-2
+Removed Pin From Net: NetName=SGND Pin=P22-3
+Removed Pin From Net: NetName=SGND Pin=P22-4
+Removed Pin From Net: NetName=+PWR_S Pin=P22-5
+Removed Pin From Net: NetName=SGND Pin=P22-6
+Removed Pin From Net: NetName=SGND Pin=P22-8
+Removed Pin From Net: NetName=LINE_IN_L Pin=P22-9
+Removed Pin From Net: NetName=SGND Pin=P22-10
+Removed Pin From Net: NetName=RS485-B4 Pin=P22-12
+Removed Pin From Net: NetName=RS485-A4 Pin=P22-13
+Removed Pin From Net: NetName=RS485-B3 Pin=P22-14
+Removed Pin From Net: NetName=RS485-A3 Pin=P22-15
+Removed Pin From Net: NetName=CVBS1 Pin=P22-16
+Removed Pin From Net: NetName=SGND Pin=P22-17
+Removed Pin From Net: NetName=SGND Pin=P22-17
+Removed Pin From Net: NetName=TV_OUT1 Pin=P22-18
+Removed Pin From Net: NetName=SGND Pin=P22-19
+Removed Pin From Net: NetName=SGND Pin=P22-19
+Removed Pin From Net: NetName=+PWR_S Pin=P23-1
+Removed Pin From Net: NetName=+5V_S Pin=P23-2
+Removed Pin From Net: NetName=SGND Pin=P23-3
+Removed Pin From Net: NetName=SGND Pin=P23-6
+Removed Pin From Net: NetName=RS485-A2 Pin=P23-7
+Removed Pin From Net: NetName=RS485-B2 Pin=P23-8
+Removed Pin From Net: NetName=RJ45 RX- Pin=P24-1
+Removed Pin From Net: NetName=RJ45 RX+ Pin=P24-2
+Removed Pin From Net: NetName=RJ45 TX- Pin=P24-3
+Removed Pin From Net: NetName=RJ45 TX+ Pin=P24-4
+Removed Pin From Net: NetName=USB_0_VBUS Pin=P25-1
+Removed Pin From Net: NetName=USB_0_DM Pin=P25-2
+Removed Pin From Net: NetName=USB_0_DP Pin=P25-3
+Removed Pin From Net: NetName=USB_0_ID Pin=P25-4
+Removed Pin From Net: NetName=SGND Pin=P25-5
+Removed Pin From Net: NetName=USB_1_DM Pin=P25-6
+Removed Pin From Net: NetName=USB_1_DP Pin=P25-7
+Removed Pin From Net: NetName=SGND Pin=P25-8
+Removed Member From Class: ClassName=PowerConvert Member=C?
+Removed Member From Class: ClassName=RightInterface Member=P20
+Removed Member From Class: ClassName=RightInterface Member=P21
+Removed Member From Class: ClassName=RightInterface Member=P22
+Removed Member From Class: ClassName=LeftInterface Member=P24
+Removed Member From Class: ClassName=LeftInterface Member=P25
+Added Component: Designator=C75(C0805)
+Added Component: Designator=J6(DS1X7-2.54)
+Added Component: Designator=J12(DS1X6-2.54)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=BAT2_IN Pin=J6-1
+Added Pin To Net: NetName=SGND Pin=J6-2
+Added Pin To Net: NetName=12V Pin=J6-3
+Added Pin To Net: NetName=SGND Pin=J6-4
+Added Pin To Net: NetName=+7.2V_S Pin=J6-5
+Added Pin To Net: NetName=SGND Pin=J6-6
+Added Pin To Net: NetName=RS485-A3 Pin=J12-1
+Added Pin To Net: NetName=RS485-B3 Pin=J12-2
+Added Pin To Net: NetName=SGND Pin=J12-3
+Added Pin To Net: NetName=SGND Pin=J12-5
+Added Pin To Net: NetName=LINE_IN_L Pin=J12-6
+Added Pin To Net: NetName=RJ45 RX- Pin=P23-1
+Added Pin To Net: NetName=RJ45 RX+ Pin=P23-2
+Added Pin To Net: NetName=RJ45 TX- Pin=P23-3
+Added Pin To Net: NetName=RJ45 TX+ Pin=P23-4
+Added Pin To Net: NetName=RS485-A2 Pin=P23-5
+Added Pin To Net: NetName=RS485-B2 Pin=P23-6
+Added Pin To Net: NetName=+5V_S Pin=P23-7
+Added Pin To Net: NetName=SGND Pin=P23-8
+Added Pin To Net: NetName=BAT1+ Pin=F1-1
+Added Net: Name=BAT1+
+Added Pin To Net: NetName=BAT2+ Pin=F2-1
+Added Net: Name=BAT2+
+Added Pin To Net: NetName=CVBS Pin=J12-4
+Added Net: Name=CVBS
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=NetC75_2 Pin=R30-2
+Added Net: Name=NetC75_2
+Added Member To Class: ClassName=PowerConvert Member=Component C6 22uF
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=RightInterface Member=Component J6 DS1X7-2.54
+Added Member To Class: ClassName=RightInterface Member=Component J12 DS1X6-2.54

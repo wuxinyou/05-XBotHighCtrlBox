@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=RS485-A4 Pin=P21-3
+Removed Pin From Net: NetName=RS485-B4 Pin=P21-4
+Removed Pin From Net: NetName=CVBS1 Pin=P21-5
+Removed Pin From Net: NetName=LINE_IN_L Pin=P21-7
+Removed Pin From Net: NetName=TV_OUT1 Pin=P21-9
+Removed Pin From Net: NetName=SGND Pin=P21-10
+Change Component Comment : Designator=L2 Old Comment=100uH New Comment=22uH
+Added Component: Designator=C6(C0805)
+Added Component: Designator=C8(CAPPR-6.6X6.6-SM)
+Added Component: Designator=C53(C1206)
+Added Component: Designator=C68(C0805)
+Added Component: Designator=C70(CAPPR-6.6X6.6-SM)
+Added Component: Designator=C72(CAPPR-6.6X6.6-SM)
+Added Component: Designator=C73(C1206)
+Added Component: Designator=C74(C0805)
+Added Component: Designator=D8(SMB-S)
+Added Component: Designator=R30(R0805)
+Added Component: Designator=R35(R0805)
+Added Component: Designator=R36(R0805)
+Added Component: Designator=U3(TO263)
+Added Pin To Net: NetName=SGND Pin=C6-1
+Added Pin To Net: NetName=+5V_S Pin=C8-1
+Added Pin To Net: NetName=SGND Pin=C8-2
+Added Pin To Net: NetName=+5V_S Pin=C53-1
+Added Pin To Net: NetName=SGND Pin=C53-2
+Added Pin To Net: NetName=SGND Pin=C68-1
+Added Pin To Net: NetName=+5V_S Pin=C68-2
+Added Pin To Net: NetName=SGND Pin=C70-2
+Added Pin To Net: NetName=SGND Pin=C72-2
+Added Pin To Net: NetName=SGND Pin=C73-2
+Added Pin To Net: NetName=SGND Pin=C74-1
+Added Pin To Net: NetName=CVBS1 Pin=P21-3
+Added Pin To Net: NetName=SGND Pin=P21-4
+Added Pin To Net: NetName=LINE_IN_L Pin=P21-5
+Added Pin To Net: NetName=BAT2_IN Pin=P21-7
+Added Pin To Net: NetName=12V Pin=P21-9
+Added Pin To Net: NetName=SGND Pin=R36-2
+Added Pin To Net: NetName=SGND Pin=U3-0
+Added Pin To Net: NetName=SGND Pin=U3-3
+Added Pin To Net: NetName=+5V_S Pin=U3-5
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R30-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC70_1 Pin=C70-1
+Added Pin To Net: NetName=NetC70_1 Pin=C72-1
+Added Pin To Net: NetName=NetC70_1 Pin=C73-1
+Added Pin To Net: NetName=NetC70_1 Pin=C74-2
+Added Pin To Net: NetName=NetC70_1 Pin=D8-2
+Added Pin To Net: NetName=NetC70_1 Pin=R35-1
+Added Net: Name=NetC70_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=U3-4
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=U3-1
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=R36-1
+Added Pin To Net: NetName=NetR35_2 Pin=U3-2
+Added Net: Name=NetR35_2
+Added Member To Class: ClassName=PowerConvert Member=Component C8 100uF/16V
+Added Member To Class: ClassName=PowerConvert Member=Component C53 22uF
+Added Member To Class: ClassName=PowerConvert Member=Component C68 0.1uF
+Added Member To Class: ClassName=PowerConvert Member=Component C70 100uF/16V
+Added Member To Class: ClassName=PowerConvert Member=Component C72 100uF/16V
+Added Member To Class: ClassName=PowerConvert Member=Component C73 22uF
+Added Member To Class: ClassName=PowerConvert Member=Component C74 0.1uF
+Added Member To Class: ClassName=PowerConvert Member=Component D8 SK58
+Added Member To Class: ClassName=PowerConvert Member=Component R30 2K
+Added Member To Class: ClassName=PowerConvert Member=Component R35 10K
+Added Member To Class: ClassName=PowerConvert Member=Component R36 2K
+Added Member To Class: ClassName=PowerConvert Member=Component U3 LM2577_ADJ

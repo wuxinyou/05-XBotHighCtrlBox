@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Change Component Footprint: Designator=D8 Old Footprint=SMB-S New Footprint=SMB
+Added Component: Designator=C75(C0805)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2

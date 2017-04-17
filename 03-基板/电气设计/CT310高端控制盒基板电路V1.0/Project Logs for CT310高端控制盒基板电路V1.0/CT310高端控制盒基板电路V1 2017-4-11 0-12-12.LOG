@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=BAT_IN Pin=P1-1
+Removed Pin From Net: NetName=BAT_IN Pin=P1-2
+Removed Pin From Net: NetName=12V Pin=P1-3
+Removed Pin From Net: NetName=12V Pin=P1-4
+Removed Pin From Net: NetName=SGND Pin=P1-6
+Removed Pin From Net: NetName=12V Pin=R1-1
+Removed Member From Class: ClassName=PowerManager Member=P1
+Removed Member From Class: ClassName=PowerManager Member=R1
+Added Component: Designator=C75(C0805)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component C67 100pF
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component C69 1uF
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF

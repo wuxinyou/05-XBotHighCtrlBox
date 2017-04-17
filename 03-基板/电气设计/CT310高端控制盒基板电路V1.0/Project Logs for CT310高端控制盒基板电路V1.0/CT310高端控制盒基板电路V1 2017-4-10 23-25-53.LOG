@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=SGND Pin=C40-2
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=DC33V Pin=R32-2
+Removed Pin From Net: NetName=VDD_ETHNET_1.8 Pin=R43-1
+Removed Pin From Net: NetName=DC33V Pin=R48-1
+Removed Member From Class: ClassName=LeftInterface Member=C40
+Removed Member From Class: ClassName=LeftInterface Member=R32
+Removed Member From Class: ClassName=LeftInterface Member=R43
+Removed Member From Class: ClassName=LeftInterface Member=R48
+Change Component DesignItemId : Designator=C40 Old DesignItemId=C0603_0 New DesignItemId=Cap
+Change Component DesignItemId : Designator=R32 Old DesignItemId=R0603_0 New DesignItemId=RES
+Change Component DesignItemId : Designator=R48 Old DesignItemId=R0603_0 New DesignItemId=RES
+Change Component Footprint: Designator=C40 Old Footprint=C0603 New Footprint=C0805
+Change Component Footprint: Designator=R32 Old Footprint=R0603 New Footprint=R0805
+Change Component Footprint: Designator=R48 Old Footprint=R0603 New Footprint=R0805
+Change Component Comment : Designator=C40 Old Comment=0.1uF New Comment=100pF
+Change Component Comment : Designator=R32 Old Comment=330R New Comment=4.7K
+Change Component Comment : Designator=R48 Old Comment=330R New Comment=4.7K
+Added Component: Designator=C75(C0805)
+Added Component: Designator=RJ1(RJ8-SRLBY)
+Added Pin To Net: NetName=KJ_A3 Pin=C40-1
+Added Pin To Net: NetName=SGND Pin=C40-2
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=KJ_A6 Pin=R32-1
+Added Pin To Net: NetName=+3.3V_S Pin=R32-2
+Added Pin To Net: NetName=KJ_A8 Pin=R48-1
+Added Pin To Net: NetName=+3.3V_S Pin=R48-2
+Added Pin To Net: NetName=RJ45_TX+ Pin=RJ1-1
+Added Pin To Net: NetName=RJ45_TX- Pin=RJ1-2
+Added Pin To Net: NetName=RJ45_RX+ Pin=RJ1-3
+Added Pin To Net: NetName=NetC76_2 Pin=RJ1-4
+Added Pin To Net: NetName=NetC76_2 Pin=RJ1-5
+Added Pin To Net: NetName=RJ45_RX- Pin=RJ1-6
+Added Pin To Net: NetName=NetR38_2 Pin=RJ1-9
+Added Pin To Net: NetName=SPEED Pin=RJ1-10
+Added Pin To Net: NetName=LINK&ACT Pin=RJ1-11
+Added Pin To Net: NetName=NetR44_1 Pin=RJ1-12
+Added Pin To Net: NetName=GND Pin=RJ1-13
+Added Pin To Net: NetName=GND Pin=RJ1-14
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=OmapSystem Member=Component RJ1 HR911105A

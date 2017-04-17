@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=+3.3V_S Pin=R0-1
+Removed Pin From Net: NetName=GND Pin=R97-2
+Removed Member From Class: ClassName=Processor Member=R0
+Added Component: Designator=C75(C0805)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=SGND Pin=R97-2
+Added Pin To Net: NetName=NetR98_2 Pin=R98-2
+Added Pin To Net: NetName=NetR98_2 Pin=U5-94
+Added Net: Name=NetR98_2
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF

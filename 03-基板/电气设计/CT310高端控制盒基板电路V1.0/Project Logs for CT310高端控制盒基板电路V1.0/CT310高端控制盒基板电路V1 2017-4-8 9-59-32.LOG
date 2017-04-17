@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=SGND Pin=D33-1
+Removed Pin From Net: NetName=KJ_I1 Pin=D33-2
+Removed Pin From Net: NetName=SGND Pin=D36-1
+Removed Pin From Net: NetName=KJ_I2 Pin=D36-2
+Removed Pin From Net: NetName=SGND Pin=D39-1
+Removed Pin From Net: NetName=KJ_J1 Pin=D39-2
+Removed Pin From Net: NetName=SGND Pin=D42-1
+Removed Pin From Net: NetName=KJ_J2 Pin=D42-2
+Removed Pin From Net: NetName=KJ_I1 Pin=R62-2
+Removed Pin From Net: NetName=KJ_I2 Pin=R68-2
+Removed Pin From Net: NetName=KJ_J1 Pin=R74-2
+Removed Pin From Net: NetName=KJ_J2 Pin=R80-2
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D33
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D36
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D39
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=D42
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R62
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R68
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R74
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=R80
+Change Component Footprint: Designator=D7 Old Footprint=SMC New Footprint=DO-218AB
+Added Component: Designator=J3(HT-M3)
+Added Component: Designator=J11(HT-M3)
+Added Component: Designator=P14(DS1X2-2.54)
+Added Pin To Net: NetName=KJ_I1 Pin=C50-1
+Added Pin To Net: NetName=KJ_I2 Pin=C53-1
+Added Pin To Net: NetName=KJ_J1 Pin=C56-1
+Added Pin To Net: NetName=KJ_J2 Pin=C59-1
+Added Pin To Net: NetName=CAN1H Pin=P14-1
+Added Pin To Net: NetName=CAN1L Pin=P14-2
+Added Pin To Net: NetName=KJ_I1 Pin=U5-2
+Added Pin To Net: NetName=KJ_I2 Pin=U5-3
+Added Pin To Net: NetName=KJ_J1 Pin=U5-4
+Added Pin To Net: NetName=KJ_J2 Pin=U5-5
+Added Member To Class: ClassName=FrameWork Member=Component J3 Socket
+Added Member To Class: ClassName=FrameWork Member=Component J11 Socket
+Added Member To Class: ClassName=OmapSystem Member=Component P14 备用CAN接口
+Added Room: Name=FrameWork
+Added Room: Name=JoyStickAdcInput
+Added Room: Name=KeyInput_ABH
+Added Room: Name=KeyInput_IJMEF
+Added Room: Name=KeyInput_MG
+Added Room: Name=LeftInterface
+Added Room: Name=OmapSystem
+Added Room: Name=PowerManager
+Added Room: Name=Processor
+Added Room: Name=RightInterface
+Added Room: Name=TTL_TO_RS232
+Added Room: Name=TTL_TO_RS485

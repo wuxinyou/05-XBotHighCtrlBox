@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=SGND Pin=C8-1
+Removed Pin From Net: NetName=+5V_S Pin=C8-2
+Removed Pin From Net: NetName=KEYSWIN_I2 Pin=C53-1
+Removed Pin From Net: NetName=SGND Pin=C53-2
+Removed Member From Class: ClassName=PowerConvert Member=C8
+Change Component Designator: OldDesignator=C50 NewDesignator=C8
+Change Component Designator: OldDesignator=C56 NewDesignator=C68
+Change Component Designator: OldDesignator=C59 NewDesignator=C70
+Added Component: Designator=C71(C0805)
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=C8-1
+Added Pin To Net: NetName=SGND Pin=C8-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=C53-1
+Added Pin To Net: NetName=SGND Pin=C53-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=C68-1
+Added Pin To Net: NetName=SGND Pin=C68-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=C70-1
+Added Pin To Net: NetName=SGND Pin=C70-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=C71-1
+Added Pin To Net: NetName=SGND Pin=C71-2
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=R59-1
+Added Pin To Net: NetName=+3.3V_S Pin=R59-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=R65-1
+Added Pin To Net: NetName=+3.3V_S Pin=R65-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=R71-1
+Added Pin To Net: NetName=+3.3V_S Pin=R71-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=R77-1
+Added Pin To Net: NetName=+3.3V_S Pin=R77-2
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component C8 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C50 100pF
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component C53 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C56 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C59 100pF
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component C68 100pF
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component C70 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C71 100pF
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R59 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R59 4.7K
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R65 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R65 4.7K
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R71 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R71 4.7K
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R77 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R77 4.7K

@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=KeyInput_MG Member=C8
+Removed Member From Class: ClassName=KeyInput_MG Member=C68
+Removed Member From Class: ClassName=KeyInput_MG Member=C70
+Added Component: Designator=R59(R0805)
+Added Component: Designator=R65(R0805)
+Added Component: Designator=R71(R0805)
+Added Component: Designator=R77(R0805)
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=R59-1
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=R59-1
+Added Pin To Net: NetName=+3.3V_S Pin=R59-2
+Added Pin To Net: NetName=+3.3V_S Pin=R59-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=R65-1
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=R65-1
+Added Pin To Net: NetName=+3.3V_S Pin=R65-2
+Added Pin To Net: NetName=+3.3V_S Pin=R65-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=R71-1
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=R71-1
+Added Pin To Net: NetName=+3.3V_S Pin=R71-2
+Added Pin To Net: NetName=+3.3V_S Pin=R71-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=R77-1
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=R77-1
+Added Pin To Net: NetName=+3.3V_S Pin=R77-2
+Added Pin To Net: NetName=+3.3V_S Pin=R77-2
+Added Member To Class: ClassName=KeyInput_MG Member=Component C50 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C56 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C59 100pF

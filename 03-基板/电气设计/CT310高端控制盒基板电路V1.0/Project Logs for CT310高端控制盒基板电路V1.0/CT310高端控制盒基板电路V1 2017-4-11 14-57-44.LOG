@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Change Component Footprint: Designator=C8 Old Footprint=CAPPR-6.6X6.6-SM New Footprint=CT7343-E-S
+Change Component Footprint: Designator=C70 Old Footprint=CAPPR-6.6X6.6-SM New Footprint=CT7343-E-S
+Change Component Footprint: Designator=C72 Old Footprint=CAPPR-6.6X6.6-SM New Footprint=CT7343-E-S
+Change Component Footprint: Designator=C1 Old Footprint=CAPPR-10X10-SM New Footprint=CT7343-E-S
+Change Component Footprint: Designator=C7 Old Footprint=CAPPR-10X10-SM New Footprint=CT7343-E-S
+Change Component Footprint: Designator=C19 Old Footprint=CAPPR-10X10-SM New Footprint=CT7343-E-S
+Change Component Footprint: Designator=C20 Old Footprint=CAPPR-10X10-SM New Footprint=CT7343-E-S
+Change Component Comment : Designator=C8 Old Comment=100uF/16V New Comment=100uF/25V
+Change Component Comment : Designator=C70 Old Comment=100uF/16V New Comment=100uF/25V
+Change Component Comment : Designator=C72 Old Comment=100uF/16V New Comment=100uF/25V
+Change Component Comment : Designator=C1 Old Comment=470uF/35V New Comment=100uF/25V
+Change Component Comment : Designator=C7 Old Comment=470uF/35V New Comment=100uF/25V
+Change Component Comment : Designator=C19 Old Comment=470uF/35V New Comment=100uF/25V
+Change Component Comment : Designator=C20 Old Comment=470uF/35V New Comment=100uF/25V
+Added Component: Designator=C75(C0805)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF

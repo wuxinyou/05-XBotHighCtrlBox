@@ -1,0 +1,263 @@
+Removed Pin From Net: NetName=KJ_A3 Pin=C40-1
+Removed Pin From Net: NetName=SGND Pin=C40-2
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=+PWR_S Pin=C77-1
+Removed Pin From Net: NetName=SGND Pin=C77-2
+Removed Pin From Net: NetName=SGND Pin=C78-1
+Removed Pin From Net: NetName=+PWR_S Pin=C78-2
+Removed Pin From Net: NetName=SGND Pin=C80-1
+Removed Pin From Net: NetName=+PWR_S Pin=C80-2
+Removed Pin From Net: NetName=SGND Pin=P12-2
+Removed Pin From Net: NetName=SGND Pin=P13-2
+Removed Pin From Net: NetName=SGND Pin=P13-4
+Removed Pin From Net: NetName=SGND Pin=P16-2
+Removed Pin From Net: NetName=SGND Pin=P16-4
+Removed Pin From Net: NetName=SGND Pin=P16-6
+Removed Pin From Net: NetName=SGND Pin=P16-8
+Removed Pin From Net: NetName=SGND Pin=P16-10
+Removed Pin From Net: NetName=SGND Pin=P17-2
+Removed Pin From Net: NetName=LINE_IN_L Pin=P17-3
+Removed Pin From Net: NetName=SGND Pin=P17-5
+Removed Pin From Net: NetName=SGND Pin=P17-8
+Removed Pin From Net: NetName=SGND Pin=PA1-7
+Removed Pin From Net: NetName=SGND Pin=PA1-9
+Removed Pin From Net: NetName=SGND Pin=PA1-10
+Removed Pin From Net: NetName=SGND Pin=PA1-11
+Removed Pin From Net: NetName=SGND Pin=PA1-12
+Removed Pin From Net: NetName=SGND Pin=PA1-15
+Removed Pin From Net: NetName=SGND Pin=PA1-27
+Removed Pin From Net: NetName=+PWR_S Pin=PA1-28
+Removed Pin From Net: NetName=SGND Pin=PA1-29
+Removed Pin From Net: NetName=+PWR_S Pin=PA1-30
+Removed Pin From Net: NetName=LCD_PWM Pin=PB1-2
+Removed Pin From Net: NetName=LINE_IN_L Pin=PB1-8
+Removed Pin From Net: NetName=SGND Pin=PB1-17
+Removed Pin From Net: NetName=SGND Pin=PB1-18
+Removed Pin From Net: NetName=SGND Pin=PB1-29
+Removed Pin From Net: NetName=SGND Pin=PB1-30
+Removed Pin From Net: NetName=KJ_A6 Pin=R32-1
+Removed Pin From Net: NetName=+3.3V_S Pin=R32-2
+Removed Pin From Net: NetName=KJ_A8 Pin=R48-1
+Removed Pin From Net: NetName=+3.3V_S Pin=R48-2
+Removed Pin From Net: NetName=RS232_RXD1 Pin=R102-2
+Removed Pin From Net: NetName=RS232_TXD1 Pin=R103-2
+Removed Member From Class: ClassName=OmapSystem Member=C77
+Removed Member From Class: ClassName=OmapSystem Member=C78
+Removed Member From Class: ClassName=OmapSystem Member=C80
+Removed Member From Class: ClassName=OmapSystem Member=P11
+Removed Member From Class: ClassName=OmapSystem Member=P12
+Removed Member From Class: ClassName=OmapSystem Member=P13
+Removed Member From Class: ClassName=OmapSystem Member=P14
+Removed Member From Class: ClassName=OmapSystem Member=P16
+Removed Member From Class: ClassName=OmapSystem Member=P17
+Removed Member From Class: ClassName=OmapSystem Member=PA1
+Removed Member From Class: ClassName=OmapSystem Member=PB1
+Change Component DesignItemId : Designator=C40 Old DesignItemId=Cap New DesignItemId=C0603_0
+Change Component DesignItemId : Designator=R32 Old DesignItemId=RES New DesignItemId=R0603_0
+Change Component DesignItemId : Designator=R48 Old DesignItemId=RES New DesignItemId=R0603_0
+Change Component Footprint: Designator=C40 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=R32 Old Footprint=R0805 New Footprint=R0603
+Change Component Footprint: Designator=R48 Old Footprint=R0805 New Footprint=R0603
+Change Component Comment : Designator=R32 Old Comment=4.7K New Comment=330R
+Change Component Comment : Designator=R48 Old Comment=4.7K New Comment=330R
+Change Component Comment : Designator=C40 Old Comment=100pF New Comment=0.1uF
+Added Component: Designator=C40(C0805)
+Added Component: Designator=C75(C0805)
+Added Component: Designator=C76(C0603)
+Added Component: Designator=J13(HD2X30-2.00)
+Added Component: Designator=J14(HD2X20-2.00)
+Added Component: Designator=R32(R0805)
+Added Component: Designator=R37(R1206)
+Added Component: Designator=R38(R1206)
+Added Component: Designator=R43(0805)
+Added Component: Designator=R44(R0805)
+Added Component: Designator=R45(R1206)
+Added Component: Designator=R46(R1206)
+Added Component: Designator=R48(R0805)
+Added Component: Designator=R51(R1206)
+Added Component: Designator=R52(R1206)
+Added Component: Designator=R53(R1206)
+Added Component: Designator=R54(R1206)
+Added Component: Designator=R57(R1206)
+Added Component: Designator=R58(R1206)
+Added Pin To Net: NetName=KJ_A3 Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=SGND Pin=C40-2
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=+5V_S Pin=J13-1
+Added Pin To Net: NetName=+5V_S Pin=J13-2
+Added Pin To Net: NetName=+5V_S Pin=J13-3
+Added Pin To Net: NetName=+5V_S Pin=J13-4
+Added Pin To Net: NetName=GND Pin=J13-5
+Added Pin To Net: NetName=GND Pin=J13-6
+Added Pin To Net: NetName=GND Pin=J13-7
+Added Pin To Net: NetName=GND Pin=J13-8
+Added Pin To Net: NetName=12V Pin=J14-7
+Added Pin To Net: NetName=12V Pin=J14-8
+Added Pin To Net: NetName=12V Pin=J14-9
+Added Pin To Net: NetName=12V Pin=J14-10
+Added Pin To Net: NetName=GND Pin=J14-11
+Added Pin To Net: NetName=GND Pin=J14-12
+Added Pin To Net: NetName=GND Pin=J14-13
+Added Pin To Net: NetName=GND Pin=J14-14
+Added Pin To Net: NetName=RS232_RXD1 Pin=J14-23
+Added Pin To Net: NetName=RS232_RXD1 Pin=J14-24
+Added Pin To Net: NetName=RS232_TXD1 Pin=J14-25
+Added Pin To Net: NetName=RS232_TXD1 Pin=J14-26
+Added Pin To Net: NetName=GND Pin=J14-33
+Added Pin To Net: NetName=GND Pin=J14-37
+Added Pin To Net: NetName=KJ_A6 Pin=R32-1
+Added Pin To Net: NetName=+3.3V_S Pin=R32-2
+Added Pin To Net: NetName=+3.3V_S Pin=R45-1
+Added Pin To Net: NetName=CVBS Pin=R46-2
+Added Pin To Net: NetName=KJ_A8 Pin=R48-1
+Added Pin To Net: NetName=+3.3V_S Pin=R48-2
+Added Pin To Net: NetName=CVBS Pin=R51-2
+Added Pin To Net: NetName=RS232_TXD1 Pin=R52-2
+Added Pin To Net: NetName=+3.3V_S Pin=R53-1
+Added Pin To Net: NetName=LCD_PWM Pin=R53-2
+Added Pin To Net: NetName=RS232_RXD1 Pin=R57-2
+Added Pin To Net: NetName=LCD_PWM Pin=R58-2
+Added Pin To Net: NetName=RS232_TXD1 Pin=R102-2
+Added Pin To Net: NetName=RS232_RXD1 Pin=R103-2
+Added Pin To Net: NetName=DC33V Pin=J13-11
+Added Pin To Net: NetName=DC33V Pin=J13-12
+Added Pin To Net: NetName=DC33V Pin=R32-2
+Added Pin To Net: NetName=DC33V Pin=R38-1
+Added Pin To Net: NetName=DC33V Pin=R44-2
+Added Pin To Net: NetName=DC33V Pin=R48-1
+Added Net: Name=DC33V
+Added Pin To Net: NetName=LCD_ONOFF Pin=R45-2
+Added Pin To Net: NetName=LCD_ONOFF Pin=R54-2
+Added Net: Name=LCD_ONOFF
+Added Pin To Net: NetName=LINK&ACT Pin=J13-13
+Added Pin To Net: NetName=LINK&ACT Pin=J13-14
+Added Net: Name=LINK&ACT
+Added Pin To Net: NetName=MD_USBDN Pin=J13-29
+Added Pin To Net: NetName=MD_USBDN Pin=J13-30
+Added Net: Name=MD_USBDN
+Added Pin To Net: NetName=MD_USBDP Pin=J13-27
+Added Pin To Net: NetName=MD_USBDP Pin=J13-28
+Added Net: Name=MD_USBDP
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetC40_1 Pin=R43-2
+Added Net: Name=NetC40_1
+Added Pin To Net: NetName=NetC76_2 Pin=C76-2
+Added Pin To Net: NetName=NetC76_2 Pin=R37-1
+Added Net: Name=NetC76_2
+Added Pin To Net: NetName=NetJ14_15 Pin=J14-15
+Added Pin To Net: NetName=NetJ14_15 Pin=R54-1
+Added Net: Name=NetJ14_15
+Added Pin To Net: NetName=NetJ14_17 Pin=J14-17
+Added Pin To Net: NetName=NetJ14_17 Pin=R58-1
+Added Net: Name=NetJ14_17
+Added Pin To Net: NetName=NetJ14_27 Pin=J14-27
+Added Pin To Net: NetName=NetJ14_27 Pin=R52-1
+Added Net: Name=NetJ14_27
+Added Pin To Net: NetName=NetJ14_29 Pin=J14-29
+Added Pin To Net: NetName=NetJ14_29 Pin=R57-1
+Added Net: Name=NetJ14_29
+Added Pin To Net: NetName=NetJ14_35 Pin=J14-35
+Added Pin To Net: NetName=NetJ14_35 Pin=R46-1
+Added Net: Name=NetJ14_35
+Added Pin To Net: NetName=NetJ14_39 Pin=J14-39
+Added Pin To Net: NetName=NetJ14_39 Pin=R51-1
+Added Net: Name=NetJ14_39
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Net: Name=NetR32_1
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Net: Name=NetR44_1
+Added Pin To Net: NetName=NetR48_2 Pin=R48-2
+Added Net: Name=NetR48_2
+Added Pin To Net: NetName=RJ45_RX+ Pin=J13-19
+Added Pin To Net: NetName=RJ45_RX+ Pin=J13-20
+Added Pin To Net: NetName=RJ45_RX+ Pin=P23-2
+Added Net: Name=RJ45_RX+
+Added Pin To Net: NetName=RJ45_RX- Pin=J13-17
+Added Pin To Net: NetName=RJ45_RX- Pin=J13-18
+Added Pin To Net: NetName=RJ45_RX- Pin=P23-1
+Added Net: Name=RJ45_RX-
+Added Pin To Net: NetName=RJ45_TX+ Pin=J13-23
+Added Pin To Net: NetName=RJ45_TX+ Pin=J13-24
+Added Pin To Net: NetName=RJ45_TX+ Pin=P23-4
+Added Net: Name=RJ45_TX+
+Added Pin To Net: NetName=RJ45_TX- Pin=J13-21
+Added Pin To Net: NetName=RJ45_TX- Pin=J13-22
+Added Pin To Net: NetName=RJ45_TX- Pin=P23-3
+Added Net: Name=RJ45_TX-
+Added Net: Name=RX+
+Added Net: Name=RX-
+Added Pin To Net: NetName=SPEED Pin=J13-15
+Added Pin To Net: NetName=SPEED Pin=J13-16
+Added Net: Name=SPEED
+Added Pin To Net: NetName=STM_LCD_ONOFF Pin=J14-16
+Added Net: Name=STM_LCD_ONOFF
+Added Pin To Net: NetName=STM_LCD_PWM Pin=J14-18
+Added Net: Name=STM_LCD_PWM
+Added Net: Name=TX+
+Added Net: Name=TX-
+Added Pin To Net: NetName=UH_DM3 Pin=J13-33
+Added Pin To Net: NetName=UH_DM3 Pin=J13-34
+Added Net: Name=UH_DM3
+Added Pin To Net: NetName=UH_DP3 Pin=J13-31
+Added Pin To Net: NetName=UH_DP3 Pin=J13-32
+Added Net: Name=UH_DP3
+Added Pin To Net: NetName=VDD1V8_EXT Pin=J13-53
+Added Pin To Net: NetName=VDD1V8_EXT Pin=J13-54
+Added Net: Name=VDD1V8_EXT
+Added Pin To Net: NetName=VDD_ETHNET_1.8 Pin=J13-9
+Added Pin To Net: NetName=VDD_ETHNET_1.8 Pin=J13-10
+Added Pin To Net: NetName=VDD_ETHNET_1.8 Pin=R37-2
+Added Pin To Net: NetName=VDD_ETHNET_1.8 Pin=R43-1
+Added Net: Name=VDD_ETHNET_1.8
+Added Pin To Net: NetName=VDD_TF Pin=J13-37
+Added Pin To Net: NetName=VDD_TF Pin=J13-38
+Added Net: Name=VDD_TF
+Added Pin To Net: NetName=VSYS Pin=J13-35
+Added Pin To Net: NetName=VSYS Pin=J13-36
+Added Net: Name=VSYS
+Added Pin To Net: NetName=XEINT7/GPX0_7 Pin=J13-39
+Added Pin To Net: NetName=XEINT7/GPX0_7 Pin=J13-40
+Added Net: Name=XEINT7/GPX0_7
+Added Pin To Net: NetName=XMMC2CLK Pin=J13-47
+Added Pin To Net: NetName=XMMC2CLK Pin=J13-48
+Added Net: Name=XMMC2CLK
+Added Pin To Net: NetName=XMMC2CMD Pin=J13-45
+Added Pin To Net: NetName=XMMC2CMD Pin=J13-46
+Added Net: Name=XMMC2CMD
+Added Pin To Net: NetName=XMMC2DATA0 Pin=J13-49
+Added Pin To Net: NetName=XMMC2DATA0 Pin=J13-50
+Added Net: Name=XMMC2DATA0
+Added Pin To Net: NetName=XMMC2DATA1 Pin=J13-51
+Added Pin To Net: NetName=XMMC2DATA1 Pin=J13-52
+Added Net: Name=XMMC2DATA1
+Added Pin To Net: NetName=XMMC2DATA2 Pin=J13-41
+Added Pin To Net: NetName=XMMC2DATA2 Pin=J13-42
+Added Net: Name=XMMC2DATA2
+Added Pin To Net: NetName=XMMC2DATA3 Pin=J13-43
+Added Pin To Net: NetName=XMMC2DATA3 Pin=J13-44
+Added Net: Name=XMMC2DATA3
+Added Member To Class: ClassName=LeftInterface Member=Component C40 0.1uF
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=OmapSystem Member=Component C76 0.1uF
+Added Member To Class: ClassName=OmapSystem Member=Component J13 HEADER 30X2
+Added Member To Class: ClassName=OmapSystem Member=Component J14 HEADER 2X20
+Added Member To Class: ClassName=LeftInterface Member=Component R32 330R
+Added Member To Class: ClassName=OmapSystem Member=Component R37 10R
+Added Member To Class: ClassName=OmapSystem Member=Component R38 330R
+Added Member To Class: ClassName=LeftInterface Member=Component R43 10R
+Added Member To Class: ClassName=OmapSystem Member=Component R44 330R
+Added Member To Class: ClassName=OmapSystem Member=Component R45 330R
+Added Member To Class: ClassName=OmapSystem Member=Component R46 0R
+Added Member To Class: ClassName=LeftInterface Member=Component R48 330R
+Added Member To Class: ClassName=OmapSystem Member=Component R51 0R(NC)
+Added Member To Class: ClassName=OmapSystem Member=Component R52 330R
+Added Member To Class: ClassName=OmapSystem Member=Component R53 330R
+Added Member To Class: ClassName=OmapSystem Member=Component R54 330R
+Added Member To Class: ClassName=OmapSystem Member=Component R57 330R
+Added Member To Class: ClassName=OmapSystem Member=Component R58 330R

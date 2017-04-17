@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=R59 NewDesignator=R30
+Change Component Designator: OldDesignator=R65 NewDesignator=R35
+Change Component Designator: OldDesignator=R71 NewDesignator=R36
+Change Component Designator: OldDesignator=R77 NewDesignator=R37
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=R30-1
+Added Pin To Net: NetName=+3.3V_S Pin=R30-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=R35-1
+Added Pin To Net: NetName=+3.3V_S Pin=R35-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=R36-1
+Added Pin To Net: NetName=+3.3V_S Pin=R36-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=R37-1
+Added Pin To Net: NetName=+3.3V_S Pin=R37-2
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R30 4.7K
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R35 4.7K
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R36 4.7K
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R37 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R59 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R65 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R71 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R77 4.7K

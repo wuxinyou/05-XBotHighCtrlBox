@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=JoyStickAdcInput Member=C20
+Change Component Footprint: Designator=D3 Old Footprint=SMC New Footprint=SOD-80
+Added Component: Designator=D5(SOD-80)
+Added Component: Designator=D6(SOD-80)
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=C50-1
+Added Pin To Net: NetName=SGND Pin=C50-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=C53-1
+Added Pin To Net: NetName=SGND Pin=C53-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=C56-1
+Added Pin To Net: NetName=SGND Pin=C56-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=C59-1
+Added Pin To Net: NetName=SGND Pin=C59-2
+Added Pin To Net: NetName=SGND Pin=D5-1
+Added Pin To Net: NetName=SWADC Pin=D5-2
+Added Pin To Net: NetName=SGND Pin=D6-1
+Added Pin To Net: NetName=NetC12_2 Pin=D6-2
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=R59-1
+Added Pin To Net: NetName=+3.3V_S Pin=R59-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=R65-1
+Added Pin To Net: NetName=+3.3V_S Pin=R65-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=R71-1
+Added Pin To Net: NetName=+3.3V_S Pin=R71-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=R77-1
+Added Pin To Net: NetName=+3.3V_S Pin=R77-2
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component C23 100pF
+Added Member To Class: ClassName=PowerManager Member=Component D5 ZMM1
+Added Member To Class: ClassName=PowerManager Member=Component D6 ZMM1
+Added Member To Class: ClassName=KeyInput_MG Member=Component R5 1K

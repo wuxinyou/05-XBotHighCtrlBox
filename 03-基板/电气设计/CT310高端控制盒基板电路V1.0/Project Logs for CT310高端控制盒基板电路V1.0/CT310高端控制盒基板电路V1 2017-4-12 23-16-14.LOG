@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Change Component Footprint: Designator=J19 Old Footprint=DS1X8H-2.54 New Footprint=ZH1X4WT-1.5
+Added Component: Designator=C75(C0805)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=TX+ Pin=J19-1
+Added Pin To Net: NetName=RX+ Pin=J19-3
+Added Pin To Net: NetName=RX- Pin=J19-4
+Change Net Name : Old Net Name=RJ45 TX- New Net Name=TX-
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF

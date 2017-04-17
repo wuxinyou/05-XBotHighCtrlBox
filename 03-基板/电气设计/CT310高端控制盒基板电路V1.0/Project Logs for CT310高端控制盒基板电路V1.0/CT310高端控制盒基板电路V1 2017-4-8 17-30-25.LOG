@@ -1,0 +1,10 @@
+Added Component: Designator=P8(ZH1X8WT-1.5)
+Added Pin To Net: NetName=KJ_G1 Pin=P8-1
+Added Pin To Net: NetName=SGND Pin=P8-2
+Added Pin To Net: NetName=KJ_G2 Pin=P8-3
+Added Pin To Net: NetName=SGND Pin=P8-4
+Added Pin To Net: NetName=NetP8_5 Pin=P8-5
+Added Pin To Net: NetName=LJ_G1 Pin=P8-6
+Added Pin To Net: NetName=NetP8_7 Pin=P8-7
+Added Pin To Net: NetName=LJ_G2 Pin=P8-8
+Added Member To Class: ClassName=KeyInput_MG Member=Component P8 SMT-8P

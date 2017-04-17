@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=RS232_RXD1 Pin=J14-23
+Removed Pin From Net: NetName=RS232_RXD1 Pin=J14-24
+Removed Pin From Net: NetName=RS232_TXD1 Pin=J14-25
+Removed Pin From Net: NetName=RS232_TXD1 Pin=J14-26
+Removed Pin From Net: NetName=TX+ Pin=J19-1
+Removed Pin From Net: NetName=TX- Pin=J19-2
+Removed Pin From Net: NetName=RX+ Pin=J19-3
+Removed Pin From Net: NetName=RX- Pin=J19-4
+Change Component DesignItemId : Designator=J19 Old DesignItemId=HEADER1X4 New DesignItemId=HEADER1X7
+Change Component Footprint: Designator=J19 Old Footprint=ZH1X4WT-1.5 New Footprint=ZH1X7WT-1.5
+Change Component Comment : Designator=J19 Old Comment=HEADER1X4 New Comment=ZH1X7WT-1.5
+Added Component: Designator=C75(C0805)
+Added Component: Designator=R38(R1206)
+Added Component: Designator=R43(R1206)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=RX- Pin=J19-1
+Added Pin To Net: NetName=RX+ Pin=J19-2
+Added Pin To Net: NetName=TX- Pin=J19-3
+Added Pin To Net: NetName=TX+ Pin=J19-4
+Added Pin To Net: NetName=SGND Pin=J19-7
+Added Pin To Net: NetName=NetJ14_23 Pin=J14-23
+Added Pin To Net: NetName=NetJ14_23 Pin=R38-1
+Added Net: Name=NetJ14_23
+Added Pin To Net: NetName=NetJ14_25 Pin=J14-25
+Added Pin To Net: NetName=NetJ14_25 Pin=R43-1
+Added Net: Name=NetJ14_25
+Added Pin To Net: NetName=RS232_RXD2 Pin=J14-24
+Added Pin To Net: NetName=RS232_RXD2 Pin=J19-5
+Added Pin To Net: NetName=RS232_RXD2 Pin=R43-2
+Added Net: Name=RS232_RXD2
+Added Pin To Net: NetName=RS232_TXD2 Pin=J14-26
+Added Pin To Net: NetName=RS232_TXD2 Pin=J19-6
+Added Pin To Net: NetName=RS232_TXD2 Pin=R38-2
+Added Net: Name=RS232_TXD2
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=OmapSystem Member=Component R38 330R
+Added Member To Class: ClassName=OmapSystem Member=Component R43 330R

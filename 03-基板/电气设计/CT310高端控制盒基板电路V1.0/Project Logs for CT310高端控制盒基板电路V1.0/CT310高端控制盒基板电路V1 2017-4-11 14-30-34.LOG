@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=12V Pin=J18-3
+Removed Pin From Net: NetName=+7.2V_S Pin=J18-5
+Removed Pin From Net: NetName=SGND Pin=J18-14
+Removed Pin From Net: NetName=CVBS Pin=J18-16
+Removed Pin From Net: NetName=SGND Pin=J18-18
+Removed Pin From Net: NetName=LINE_IN_L Pin=J18-20
+Change Component DesignItemId : Designator=J18 Old DesignItemId=HEADER2X10 New DesignItemId=HEADER2X16
+Change Component Footprint: Designator=J18 Old Footprint=HD2X10-2.54 New Footprint=HD2X16-2.00
+Change Component Comment : Designator=J18 Old Comment=HEADER2X10 New Comment=HEADER2X16
+Added Component: Designator=C75(C0805)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=BAT1_IN Pin=J18-2
+Added Pin To Net: NetName=SGND Pin=J18-3
+Added Pin To Net: NetName=SGND Pin=J18-4
+Added Pin To Net: NetName=12V Pin=J18-5
+Added Pin To Net: NetName=12V Pin=J18-6
+Added Pin To Net: NetName=SGND Pin=J18-7
+Added Pin To Net: NetName=SGND Pin=J18-8
+Added Pin To Net: NetName=+7.2V_S Pin=J18-9
+Added Pin To Net: NetName=+7.2V_S Pin=J18-10
+Added Pin To Net: NetName=SGND Pin=J18-11
+Added Pin To Net: NetName=SGND Pin=J18-12
+Added Pin To Net: NetName=RS485_A4 Pin=J18-13
+Added Pin To Net: NetName=RS485_A4 Pin=J18-14
+Added Pin To Net: NetName=RS485_B4 Pin=J18-15
+Added Pin To Net: NetName=RS485_B4 Pin=J18-16
+Added Pin To Net: NetName=RS485_A3 Pin=J18-17
+Added Pin To Net: NetName=RS485_A3 Pin=J18-18
+Added Pin To Net: NetName=RS485_B3 Pin=J18-19
+Added Pin To Net: NetName=RS485_B3 Pin=J18-20
+Added Pin To Net: NetName=SGND Pin=J18-21
+Added Pin To Net: NetName=SGND Pin=J18-22
+Added Pin To Net: NetName=CVBS Pin=J18-23
+Added Pin To Net: NetName=CVBS Pin=J18-24
+Added Pin To Net: NetName=SGND Pin=J18-25
+Added Pin To Net: NetName=SGND Pin=J18-26
+Added Pin To Net: NetName=LINE_IN_L Pin=J18-27
+Added Pin To Net: NetName=LINE_IN_L Pin=J18-28
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF

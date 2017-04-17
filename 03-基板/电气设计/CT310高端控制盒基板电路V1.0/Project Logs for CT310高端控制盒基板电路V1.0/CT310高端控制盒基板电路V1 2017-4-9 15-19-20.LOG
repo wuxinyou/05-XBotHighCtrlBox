@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SGND Pin=C6-1
+Change Component Footprint: Designator=C6 Old Footprint=C0805 New Footprint=C1206
+Change Component Comment : Designator=C6 Old Comment=0.1uF New Comment=22uF
+Added Component: Designator=C?(C0805)
+Added Component: Designator=L3(L5050-P)
+Added Pin To Net: NetName=+3.3V_S Pin=C6-1
+Added Pin To Net: NetName=SGND Pin=C6-2
+Added Pin To Net: NetName=SGND Pin=C?-1
+Added Pin To Net: NetName=+5V_S Pin=L3-1
+Added Pin To Net: NetName=NetD8_1 Pin=L3-2
+Change Net Name : Old Net Name=NetC70_1 New Net Name=+7.2V_S
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R30-2
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=PowerConvert Member=Component C? 0.1uF
+Added Member To Class: ClassName=PowerConvert Member=Component L3 100uH

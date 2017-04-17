@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Added Component: Designator=C75(C0805)
+Added Component: Designator=C79(C1206)
+Added Component: Designator=C80(C0805)
+Added Component: Designator=C81(C0805)
+Added Component: Designator=C82(C0805)
+Added Component: Designator=C83(C0805)
+Added Component: Designator=C84(C1206)
+Added Component: Designator=U4(SO-8)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=SGND Pin=C79-1
+Added Pin To Net: NetName=+5V_S Pin=C79-2
+Added Pin To Net: NetName=SGND Pin=C80-1
+Added Pin To Net: NetName=+5V_S Pin=C80-2
+Added Pin To Net: NetName=SGND Pin=C81-1
+Added Pin To Net: NetName=+5V_S Pin=C81-2
+Added Pin To Net: NetName=SGND Pin=C82-1
+Added Pin To Net: NetName=+2.5V_S Pin=C82-2
+Added Pin To Net: NetName=SGND Pin=C83-1
+Added Pin To Net: NetName=+2.5V_S Pin=C83-2
+Added Pin To Net: NetName=SGND Pin=C84-1
+Added Pin To Net: NetName=+2.5V_S Pin=C84-2
+Added Pin To Net: NetName=+5V_S Pin=U4-2
+Added Pin To Net: NetName=+5V_S Pin=U4-3
+Added Pin To Net: NetName=SGND Pin=U4-4
+Added Pin To Net: NetName=+2.5V_S Pin=U4-6
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=PowerConvert Member=Component C79 22uF
+Added Member To Class: ClassName=PowerConvert Member=Component C80 0.1uF
+Added Member To Class: ClassName=PowerConvert Member=Component C81 100pF
+Added Member To Class: ClassName=PowerConvert Member=Component C82 100pF
+Added Member To Class: ClassName=PowerConvert Member=Component C83 0.1uF
+Added Member To Class: ClassName=PowerConvert Member=Component C84 22uF
+Added Member To Class: ClassName=PowerConvert Member=Component U4 REF192

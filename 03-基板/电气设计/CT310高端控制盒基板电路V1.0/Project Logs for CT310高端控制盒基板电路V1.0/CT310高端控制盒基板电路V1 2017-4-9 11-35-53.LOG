@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R18 Old Footprint=R1206-S New Footprint=R1206
+Change Component Footprint: Designator=R19 Old Footprint=R1206-S New Footprint=R1206
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=R59-1
+Added Pin To Net: NetName=+3.3V_S Pin=R59-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=R65-1
+Added Pin To Net: NetName=+3.3V_S Pin=R65-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=R71-1
+Added Pin To Net: NetName=+3.3V_S Pin=R71-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=R77-1
+Added Pin To Net: NetName=+3.3V_S Pin=R77-2

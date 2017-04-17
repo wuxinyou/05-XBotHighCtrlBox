@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=GND Pin=C76-1
+Removed Pin From Net: NetName=VDD_ETHNET_1.8 Pin=R37-2
+Removed Pin From Net: NetName=DC33V Pin=R38-1
+Removed Pin From Net: NetName=DC33V Pin=R44-2
+Removed Pin From Net: NetName=RJ45_TX+ Pin=RJ1-1
+Removed Pin From Net: NetName=RJ45_TX- Pin=RJ1-2
+Removed Pin From Net: NetName=RJ45_RX+ Pin=RJ1-3
+Removed Pin From Net: NetName=RJ45_RX- Pin=RJ1-6
+Removed Pin From Net: NetName=SPEED Pin=RJ1-10
+Removed Pin From Net: NetName=LINK&ACT Pin=RJ1-11
+Removed Pin From Net: NetName=GND Pin=RJ1-13
+Removed Pin From Net: NetName=GND Pin=RJ1-14
+Removed Member From Class: ClassName=OmapSystem Member=C76
+Removed Member From Class: ClassName=OmapSystem Member=R37
+Removed Member From Class: ClassName=OmapSystem Member=R38
+Removed Member From Class: ClassName=OmapSystem Member=R44
+Removed Member From Class: ClassName=OmapSystem Member=RJ1
+Added Component: Designator=C75(C0805)
+Added Component: Designator=J6(DS1X7-2.54)
+Added Component: Designator=J12(DS1X6-2.54)
+Added Component: Designator=J17(DS1X4-2.54)
+Added Component: Designator=J18(HD2X10-2.54)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=BAT2_IN Pin=J6-1
+Added Pin To Net: NetName=SGND Pin=J6-2
+Added Pin To Net: NetName=12V Pin=J6-3
+Added Pin To Net: NetName=SGND Pin=J6-4
+Added Pin To Net: NetName=+7.2V_S Pin=J6-5
+Added Pin To Net: NetName=SGND Pin=J6-6
+Added Pin To Net: NetName=RS485-A3 Pin=J12-1
+Added Pin To Net: NetName=RS485-B3 Pin=J12-2
+Added Pin To Net: NetName=SGND Pin=J12-3
+Added Pin To Net: NetName=CVBS Pin=J12-4
+Added Pin To Net: NetName=SGND Pin=J12-5
+Added Pin To Net: NetName=LINE_IN_L Pin=J12-6
+Added Pin To Net: NetName=RJ45_TX+ Pin=J17-1
+Added Pin To Net: NetName=RJ45_TX- Pin=J17-2
+Added Pin To Net: NetName=RJ45_RX+ Pin=J17-3
+Added Pin To Net: NetName=RJ45_RX- Pin=J17-4
+Added Pin To Net: NetName=12V Pin=J18-3
+Added Pin To Net: NetName=+7.2V_S Pin=J18-5
+Added Pin To Net: NetName=RS485-A3 Pin=J18-10
+Added Pin To Net: NetName=RS485-B3 Pin=J18-12
+Added Pin To Net: NetName=SGND Pin=J18-14
+Added Pin To Net: NetName=CVBS Pin=J18-16
+Added Pin To Net: NetName=SGND Pin=J18-18
+Added Pin To Net: NetName=LINE_IN_L Pin=J18-20
+Added Pin To Net: NetName=BAT1_IN Pin=J18-1
+Added Net: Name=BAT1_IN
+Added Class: Name=DataVideoPort
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=OmapSystem Member=Component J17 HEADER1X4

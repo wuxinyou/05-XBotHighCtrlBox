@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=RS485-B2 Pin=D62-1
+Removed Pin From Net: NetName=RS485-A2 Pin=D62-2
+Removed Pin From Net: NetName=RS485-A3 Pin=J18-10
+Removed Pin From Net: NetName=RS485-B3 Pin=J18-12
+Removed Pin From Net: NetName=RS485-B2 Pin=R116-1
+Removed Pin From Net: NetName=RS485-A2 Pin=R117-1
+Added Component: Designator=C75(C0805)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Change Net Name : Old Net Name=RS485-A3 New Net Name=RS485_A3
+Change Net Name : Old Net Name=RS485-A4 New Net Name=RS485_A4
+Change Net Name : Old Net Name=RS485-B3 New Net Name=RS485_B3
+Change Net Name : Old Net Name=RS485-B4 New Net Name=RS485_B4
+Added Pin To Net: NetName=RS485-A3 Pin=J18-10
+Added Net: Name=RS485-A3
+Added Pin To Net: NetName=RS485-B3 Pin=J18-12
+Added Net: Name=RS485-B3
+Added Pin To Net: NetName=RS485_A2 Pin=D62-2
+Added Pin To Net: NetName=RS485_A2 Pin=R117-1
+Added Net: Name=RS485_A2
+Added Pin To Net: NetName=RS485_B2 Pin=D62-1
+Added Pin To Net: NetName=RS485_B2 Pin=R116-1
+Added Net: Name=RS485_B2
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=RightInterface Member=Component J6 DS1X7-2.54
+Added Member To Class: ClassName=RightInterface Member=Component J12 DS1X6-2.54

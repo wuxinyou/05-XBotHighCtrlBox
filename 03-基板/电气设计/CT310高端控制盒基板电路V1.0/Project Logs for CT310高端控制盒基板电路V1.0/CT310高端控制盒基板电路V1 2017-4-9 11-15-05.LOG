@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=D7 Old Footprint=SMB-S New Footprint=SMB
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=C50-1
+Added Pin To Net: NetName=SGND Pin=C50-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=C53-1
+Added Pin To Net: NetName=SGND Pin=C53-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=C56-1
+Added Pin To Net: NetName=SGND Pin=C56-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=C59-1
+Added Pin To Net: NetName=SGND Pin=C59-2
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=R59-1
+Added Pin To Net: NetName=+3.3V_S Pin=R59-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=R65-1
+Added Pin To Net: NetName=+3.3V_S Pin=R65-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=R71-1
+Added Pin To Net: NetName=+3.3V_S Pin=R71-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=R77-1
+Added Pin To Net: NetName=+3.3V_S Pin=R77-2
+Added Pin To Net: NetName=SWADC Pin=U5-15
+Added Pin To Net: NetName=POWERCNT Pin=U5-52

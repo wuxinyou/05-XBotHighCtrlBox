@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=KeyInput_MG Member=R30
+Removed Member From Class: ClassName=KeyInput_MG Member=R35
+Removed Member From Class: ClassName=KeyInput_MG Member=R36
+Removed Member From Class: ClassName=KeyInput_MG Member=R37
+Change Component Footprint: Designator=R18 Old Footprint=R1206 New Footprint=R0805
+Change Component Footprint: Designator=R19 Old Footprint=R1206 New Footprint=R0805
+Added Member To Class: ClassName=KeyInput_MG Member=Component R59 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R65 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R71 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R77 4.7K

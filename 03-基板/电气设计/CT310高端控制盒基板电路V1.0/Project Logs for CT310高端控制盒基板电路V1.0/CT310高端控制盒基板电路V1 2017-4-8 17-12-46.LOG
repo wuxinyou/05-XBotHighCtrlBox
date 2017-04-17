@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SGND Pin=C110-1
+Removed Pin From Net: NetName=+3.3V_S Pin=C110-2
+Removed Member From Class: ClassName=TTL_TO_RS232 Member=C110
+Change Component Comment : Designator=R102 Old Comment=4.7R New Comment=10R
+Change Component Comment : Designator=R103 Old Comment=4.7R New Comment=10R

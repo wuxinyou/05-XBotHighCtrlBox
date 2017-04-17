@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=RJ45_TX+ Pin=J17-1
+Removed Pin From Net: NetName=RJ45_TX- Pin=J17-2
+Removed Pin From Net: NetName=RJ45_RX+ Pin=J17-3
+Removed Pin From Net: NetName=RJ45_RX- Pin=J17-4
+Removed Pin From Net: NetName=RJ45_RX- Pin=J19-1
+Removed Pin From Net: NetName=RJ45_RX+ Pin=J19-2
+Removed Pin From Net: NetName=RJ45_TX- Pin=J19-3
+Removed Pin From Net: NetName=RJ45_TX+ Pin=J19-4
+Removed Pin From Net: NetName=+5V_S Pin=J19-7
+Removed Pin From Net: NetName=SGND Pin=J19-8
+Removed Member From Class: ClassName=OmapSystem Member=J17
+Change Component DesignItemId : Designator=J17 Old DesignItemId=HEADER1X4 New DesignItemId=HEADER1X7
+Change Component DesignItemId : Designator=J19 Old DesignItemId=Header 8 New DesignItemId=HEADER1X4
+Change Component Footprint: Designator=J17 Old Footprint=DS1X4H-2.54 New Footprint=DS1X7H-2.54
+Change Component Comment : Designator=J17 Old Comment=HEADER1X4 New Comment=DS1X7-2.54
+Change Component Comment : Designator=J19 Old Comment=Header 8 New Comment=HEADER1X4
+Change Component Description : Designator=J19 Old Description=Header, 8-Pin New Description=
+Change Component Library : Designator=J19 Old Library=Miscellaneous Connectors.IntLib New Library=Connector Class.SchLib
+Added Component: Designator=C75(C0805)
+Added Component: Designator=C76(C0805)
+Added Component: Designator=C85(C0805)
+Added Component: Designator=J20(RJ45)
+Added Component: Designator=R1(R1206)
+Added Component: Designator=R37(R1206)
+Added Component: Designator=R38(R1206)
+Added Component: Designator=R43(R1206)
+Added Component: Designator=U6(SOP16)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=SGND Pin=C76-2
+Added Pin To Net: NetName=SGND Pin=C85-2
+Added Pin To Net: NetName=RS485_B2 Pin=J17-1
+Added Pin To Net: NetName=RS485_A2 Pin=J17-2
+Added Pin To Net: NetName=SGND Pin=J17-3
+Added Pin To Net: NetName=+5V_S Pin=J17-4
+Added Pin To Net: NetName=SGND Pin=J17-5
+Added Pin To Net: NetName=12V Pin=J17-6
+Added Pin To Net: NetName=SGND Pin=R1-2
+Added Pin To Net: NetName=SGND Pin=R37-2
+Added Pin To Net: NetName=SGND Pin=R38-2
+Added Pin To Net: NetName=SGND Pin=R43-2
+Added Pin To Net: NetName=LCD_ONOFF Pin=U5-58
+Added Pin To Net: NetName=LCD_PWM Pin=U5-59
+Added Pin To Net: NetName=RJ45_TX+ Pin=U6-1
+Added Pin To Net: NetName=RJ45_TX- Pin=U6-3
+Added Pin To Net: NetName=RJ45_RX+ Pin=U6-6
+Added Pin To Net: NetName=RJ45_RX- Pin=U6-8
+Added Pin To Net: NetName=NetC76_1 Pin=C76-1
+Added Pin To Net: NetName=NetC76_1 Pin=U6-2
+Added Net: Name=NetC76_1
+Added Pin To Net: NetName=NetC85_1 Pin=C85-1
+Added Pin To Net: NetName=NetC85_1 Pin=U6-7
+Added Net: Name=NetC85_1
+Added Pin To Net: NetName=NetJ20_2 Pin=J20-2
+Added Pin To Net: NetName=NetJ20_2 Pin=U6-14
+Added Net: Name=NetJ20_2
+Added Pin To Net: NetName=NetJ20_4 Pin=J20-4
+Added Pin To Net: NetName=NetJ20_4 Pin=J20-5
+Added Pin To Net: NetName=NetJ20_4 Pin=R38-1
+Added Net: Name=NetJ20_4
+Added Pin To Net: NetName=NetJ20_7 Pin=J20-7
+Added Pin To Net: NetName=NetJ20_7 Pin=J20-8
+Added Pin To Net: NetName=NetJ20_7 Pin=R43-1
+Added Net: Name=NetJ20_7
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U6-10
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=U6-15
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=RJ45 RX+ Pin=J19-3
+Added Net: Name=RJ45 RX+
+Added Pin To Net: NetName=RJ45 RX- Pin=J19-4
+Added Net: Name=RJ45 RX-
+Added Pin To Net: NetName=RJ45 TX+ Pin=J19-1
+Added Net: Name=RJ45 TX+
+Added Pin To Net: NetName=RJ45 TX- Pin=J19-2
+Added Net: Name=RJ45 TX-
+Added Pin To Net: NetName=RX+ Pin=J20-3
+Added Pin To Net: NetName=RX+ Pin=U6-11
+Added Net: Name=RX+
+Added Pin To Net: NetName=RX- Pin=J20-6
+Added Pin To Net: NetName=RX- Pin=U6-9
+Added Net: Name=RX-
+Added Pin To Net: NetName=TX+ Pin=J20-1
+Added Pin To Net: NetName=TX+ Pin=U6-16
+Added Net: Name=TX+
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=LeftInterface Member=Component C76 0.01uF
+Added Member To Class: ClassName=LeftInterface Member=Component C85 0.01uF
+Added Member To Class: ClassName=LeftInterface Member=Component J17 DS1X7-2.54
+Added Member To Class: ClassName=LeftInterface Member=Component J20 RJ45
+Added Member To Class: ClassName=LeftInterface Member=Component R1 75R
+Added Member To Class: ClassName=LeftInterface Member=Component R37 75R
+Added Member To Class: ClassName=LeftInterface Member=Component R38 75R
+Added Member To Class: ClassName=LeftInterface Member=Component R43 75R
+Added Member To Class: ClassName=LeftInterface Member=Component U6 H1102NL

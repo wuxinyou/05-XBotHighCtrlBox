@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=SGND Pin=C10-1
+Removed Pin From Net: NetName=+5V_S Pin=C10-2
+Removed Pin From Net: NetName=SGND Pin=C12-1
+Removed Pin From Net: NetName=+5V_S Pin=C12-2
+Removed Pin From Net: NetName=SGND Pin=C14-1
+Removed Pin From Net: NetName=+5V_S Pin=C14-2
+Removed Pin From Net: NetName=+2.5V_S Pin=C15-1
+Removed Pin From Net: NetName=SGND Pin=C15-2
+Removed Pin From Net: NetName=SGND Pin=C16-1
+Removed Pin From Net: NetName=BAT1_ADC Pin=C16-2
+Removed Pin From Net: NetName=SGND Pin=C17-1
+Removed Pin From Net: NetName=BAT2_ADC Pin=C17-2
+Removed Pin From Net: NetName=SGND Pin=C21-1
+Removed Pin From Net: NetName=+2.5V_S Pin=C21-2
+Removed Pin From Net: NetName=SGND Pin=C24-1
+Removed Pin From Net: NetName=+2.5V_S Pin=C24-2
+Removed Pin From Net: NetName=SGND Pin=C26-1
+Removed Pin From Net: NetName=+2.5V_S Pin=C26-2
+Removed Pin From Net: NetName=SGND Pin=C81-1
+Removed Pin From Net: NetName=+PWR_S Pin=C81-2
+Removed Pin From Net: NetName=SGND Pin=C87-1
+Removed Pin From Net: NetName=+PWR_S Pin=C87-2
+Removed Pin From Net: NetName=SGND Pin=D8-1
+Removed Pin From Net: NetName=BAT1_ADC Pin=D8-2
+Removed Pin From Net: NetName=SGND Pin=D9-1
+Removed Pin From Net: NetName=BAT2_ADC Pin=D9-2
+Removed Pin From Net: NetName=SGND Pin=D57-1
+Removed Pin From Net: NetName=MT1_CTRL Pin=D57-2
+Removed Pin From Net: NetName=SGND Pin=D59-1
+Removed Pin From Net: NetName=MT2_CTRL Pin=D59-2
+Removed Pin From Net: NetName=+PWR_S Pin=L2-2
+Removed Pin From Net: NetName=+PWR_S Pin=L3-2
+Removed Pin From Net: NetName=SGND Pin=Q3-3
+Removed Pin From Net: NetName=SGND Pin=Q4-3
+Removed Pin From Net: NetName=MT1_CTRL Pin=R95-2
+Removed Pin From Net: NetName=MT2_CTRL Pin=R96-2
+Removed Pin From Net: NetName=+5V_S Pin=U3-2
+Removed Pin From Net: NetName=+5V_S Pin=U3-3
+Removed Pin From Net: NetName=SGND Pin=U3-4
+Removed Pin From Net: NetName=+2.5V_S Pin=U3-6
+Removed Member From Class: ClassName=PowerManager Member=C10
+Removed Member From Class: ClassName=PowerManager Member=C12
+Removed Member From Class: ClassName=PowerManager Member=C14
+Removed Member From Class: ClassName=PowerManager Member=C15
+Removed Member From Class: ClassName=PowerManager Member=C16
+Removed Member From Class: ClassName=PowerManager Member=C17
+Removed Member From Class: ClassName=PowerManager Member=C21
+Removed Member From Class: ClassName=PowerManager Member=C24
+Removed Member From Class: ClassName=PowerManager Member=C26
+Removed Member From Class: ClassName=OmapSystem Member=C79
+Removed Member From Class: ClassName=OmapSystem Member=C81
+Removed Member From Class: ClassName=OmapSystem Member=C82
+Removed Member From Class: ClassName=OmapSystem Member=C86
+Removed Member From Class: ClassName=OmapSystem Member=C87
+Removed Member From Class: ClassName=OmapSystem Member=C88
+Removed Member From Class: ClassName=PowerManager Member=D8
+Removed Member From Class: ClassName=PowerManager Member=D9
+Removed Member From Class: ClassName=OmapSystem Member=D56
+Removed Member From Class: ClassName=OmapSystem Member=D57
+Removed Member From Class: ClassName=OmapSystem Member=D58
+Removed Member From Class: ClassName=OmapSystem Member=D59
+Removed Member From Class: ClassName=OmapSystem Member=L2
+Removed Member From Class: ClassName=OmapSystem Member=L3
+Removed Member From Class: ClassName=OmapSystem Member=P15
+Removed Member From Class: ClassName=OmapSystem Member=P18
+Removed Member From Class: ClassName=OmapSystem Member=Q3
+Removed Member From Class: ClassName=OmapSystem Member=Q4
+Removed Member From Class: ClassName=OmapSystem Member=R95
+Removed Member From Class: ClassName=OmapSystem Member=R96
+Removed Member From Class: ClassName=PowerManager Member=U3
+Change Component Footprint: Designator=D62 Old Footprint=SMC New Footprint=SMB-S
+Change Component Footprint: Designator=D63 Old Footprint=SMC New Footprint=SMB-S
+Change Component Footprint: Designator=D64 Old Footprint=SMC New Footprint=SMB-S
+Change Component Comment : Designator=R107 Old Comment=2K New Comment=10K
+Change Component Comment : Designator=R109 Old Comment=2K New Comment=10K
+Change Component Comment : Designator=R110 Old Comment=2K New Comment=10K
+Change Component Comment : Designator=R112 Old Comment=2K New Comment=10K
+Change Component Comment : Designator=R113 Old Comment=2K New Comment=10K
+Change Component Comment : Designator=R115 Old Comment=2K New Comment=10K
+Added Component: Designator=J1(ZH1X6WT-1.5)
+Added Component: Designator=J?(ZH1X5LT-1.5)
+Added Pin To Net: NetName=KEYSWIN_H1 Pin=J1-1
+Added Pin To Net: NetName=KEYSWIN_H2 Pin=J1-2
+Added Pin To Net: NetName=KEYSWIN_H3 Pin=J1-3
+Added Pin To Net: NetName=KEYSWIN_H4 Pin=J1-4
+Added Pin To Net: NetName=KEYSWIN_H5 Pin=J1-5
+Added Pin To Net: NetName=SGND Pin=J1-6
+Added Pin To Net: NetName=KEYSWIN_FU Pin=J15-1
+Added Pin To Net: NetName=KEYSWIN_FD Pin=J15-2
+Added Pin To Net: NetName=KEYSWIN_FL Pin=J15-3
+Added Pin To Net: NetName=KEYSWIN_FR Pin=J15-4
+Added Pin To Net: NetName=KEYSWIN_FM Pin=J15-5
+Added Pin To Net: NetName=KEYSWIN_EU Pin=J16-1
+Added Pin To Net: NetName=KEYSWIN_ED Pin=J16-2
+Added Pin To Net: NetName=KEYSWIN_EL Pin=J16-3
+Added Pin To Net: NetName=KEYSWIN_ER Pin=J16-4
+Added Pin To Net: NetName=KEYSWIN_EM Pin=J16-5
+Added Pin To Net: NetName=SGND Pin=J?-5
+Added Pin To Net: NetName=KEY_IJ1 Pin=J?-1
+Added Net: Name=KEY_IJ1
+Added Pin To Net: NetName=KEY_IJ2 Pin=J?-2
+Added Net: Name=KEY_IJ2
+Added Pin To Net: NetName=KEY_M1 Pin=J?-3
+Added Net: Name=KEY_M1
+Added Pin To Net: NetName=KEY_M2 Pin=J?-4
+Added Net: Name=KEY_M2
+Added Member To Class: ClassName=KeyInput_ABH Member=Component J1 ZH1X6WT-1.5
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component J? HEADER1X5

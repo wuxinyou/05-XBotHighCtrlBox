@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=BAT2_IN Pin=J6-1
+Removed Pin From Net: NetName=SGND Pin=J6-2
+Removed Pin From Net: NetName=12V Pin=J6-3
+Removed Pin From Net: NetName=SGND Pin=J6-4
+Removed Pin From Net: NetName=+7.2V_S Pin=J6-5
+Removed Pin From Net: NetName=SGND Pin=J6-6
+Removed Pin From Net: NetName=RS485-A3 Pin=J12-1
+Removed Pin From Net: NetName=RS485-B3 Pin=J12-2
+Removed Pin From Net: NetName=SGND Pin=J12-3
+Removed Pin From Net: NetName=CVBS Pin=J12-4
+Removed Pin From Net: NetName=SGND Pin=J12-5
+Removed Pin From Net: NetName=LINE_IN_L Pin=J12-6
+Removed Member From Class: ClassName=DataVideoPort Member=J6
+Removed Member From Class: ClassName=DataVideoPort Member=J12
+Added Component: Designator=C75(C0805)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF

@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=SGND Pin=C?-1
+Removed Pin From Net: NetName=SGND Pin=C?-2
+Removed Pin From Net: NetName=SW+ Pin=J?-1
+Removed Pin From Net: NetName=SW- Pin=J?-2
+Removed Pin From Net: NetName=KEYSWIN_M3 Pin=J?-3
+Removed Pin From Net: NetName=SGND Pin=J?-4
+Removed Pin From Net: NetName=JOYSTICK_RIGHTY Pin=R?-1
+Removed Member From Class: ClassName=PowerManager Member=C?
+Removed Member From Class: ClassName=JoyStickAdcInput Member=R?
+Change Component DesignItemId : Designator=J? Old DesignItemId=Header 2 New DesignItemId=HEADER1X4
+Change Component Footprint: Designator=C? Old Footprint=C0603-S New Footprint=C0805
+Change Component Footprint: Designator=J? Old Footprint=DS1X2-2.54 New Footprint=ZH1X4WT-1.5
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=100pF
+Change Component Comment : Designator=J? Old Comment=DS1X2-2.54 New Comment=ZH1X4WT-1.5
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Added Component: Designator=C21(C0603-S)
+Added Component: Designator=J3(DS1X2-2.54)
+Added Pin To Net: NetName=12V Pin=C19-1
+Added Pin To Net: NetName=SGND Pin=C19-2
+Added Pin To Net: NetName=12V Pin=C20-1
+Added Pin To Net: NetName=SGND Pin=C20-2
+Added Pin To Net: NetName=SGND Pin=C21-1
+Added Pin To Net: NetName=12V Pin=C21-2
+Added Pin To Net: NetName=SGND Pin=C22-1
+Added Pin To Net: NetName=12V Pin=C22-2
+Added Pin To Net: NetName=JOYSTICK_LEFTX Pin=C23-1
+Added Pin To Net: NetName=JOYSTICK_RIGHTX Pin=C24-1
+Added Pin To Net: NetName=SGND Pin=C24-2
+Added Pin To Net: NetName=JOYSTICK_LEFTY Pin=C25-1
+Added Pin To Net: NetName=SGND Pin=C25-2
+Added Pin To Net: NetName=JOYSTICK_RIGHTY Pin=C26-1
+Added Pin To Net: NetName=SGND Pin=C26-2
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=C50-1
+Added Pin To Net: NetName=SGND Pin=C50-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=C53-1
+Added Pin To Net: NetName=SGND Pin=C53-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=C56-1
+Added Pin To Net: NetName=SGND Pin=C56-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=C59-1
+Added Pin To Net: NetName=SGND Pin=C59-2
+Added Pin To Net: NetName=SW+ Pin=J3-1
+Added Pin To Net: NetName=SW- Pin=J3-2
+Added Pin To Net: NetName=KEY_IJ1 Pin=J6-1
+Added Pin To Net: NetName=KEY_IJ2 Pin=J6-2
+Added Pin To Net: NetName=KEY_M1 Pin=J6-3
+Added Pin To Net: NetName=KEY_M2 Pin=J6-4
+Added Pin To Net: NetName=SGND Pin=J6-5
+Added Pin To Net: NetName=SGND Pin=J7-1
+Added Pin To Net: NetName=KEYSWIN_M4 Pin=J7-2
+Added Pin To Net: NetName=KEYSWIN_M3 Pin=J7-3
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=J7-4
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=J7-5
+Added Pin To Net: NetName=SGND Pin=J8-1
+Added Pin To Net: NetName=KEYSWIN_M2 Pin=J8-3
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=J8-4
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=J8-5
+Added Pin To Net: NetName=KEYSWIN_G1 Pin=J9-1
+Added Pin To Net: NetName=SGND Pin=J9-2
+Added Pin To Net: NetName=KEYSWIN_G2 Pin=J9-3
+Added Pin To Net: NetName=SGND Pin=J9-4
+Added Pin To Net: NetName=LJ_G1 Pin=J9-6
+Added Pin To Net: NetName=LJ_G2 Pin=J9-8
+Added Pin To Net: NetName=+2.5V_S Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=+2.5V_S Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Pin To Net: NetName=+PWR_S Pin=R5-1
+Added Pin To Net: NetName=JOYSTICK_LEFTX Pin=R6-1
+Added Pin To Net: NetName=JOYSTICK_RIGHTX Pin=R7-1
+Added Pin To Net: NetName=JOYSTICK_LEFTY Pin=R8-1
+Added Pin To Net: NetName=JOYSTICK_RIGHTY Pin=R29-1
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=R59-1
+Added Pin To Net: NetName=+3.3V_S Pin=R59-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=R65-1
+Added Pin To Net: NetName=+3.3V_S Pin=R65-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=R71-1
+Added Pin To Net: NetName=+3.3V_S Pin=R71-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=R77-1
+Added Pin To Net: NetName=+3.3V_S Pin=R77-2
+Added Pin To Net: NetName=NetJ9_5 Pin=J9-5
+Added Pin To Net: NetName=NetJ9_5 Pin=R4-2
+Added Net: Name=NetJ9_5
+Added Pin To Net: NetName=NetJ9_7 Pin=J9-7
+Added Pin To Net: NetName=NetJ9_7 Pin=R5-2
+Added Net: Name=NetJ9_7
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=R6-2
+Added Net: Name=NetJ10_2
+Added Pin To Net: NetName=NetJ10_4 Pin=J10-4
+Added Pin To Net: NetName=NetJ10_4 Pin=R8-2
+Added Net: Name=NetJ10_4
+Added Pin To Net: NetName=NetJ11_2 Pin=J11-2
+Added Pin To Net: NetName=NetJ11_2 Pin=R7-2
+Added Net: Name=NetJ11_2
+Added Pin To Net: NetName=NetJ11_4 Pin=J11-4
+Added Pin To Net: NetName=NetJ11_4 Pin=R29-2
+Added Net: Name=NetJ11_4
+Added Member To Class: ClassName=PowerManager Member=Component C19 470uF/35V
+Added Member To Class: ClassName=PowerManager Member=Component C20 470uF/35V
+Added Member To Class: ClassName=PowerManager Member=Component C21 0.1uF
+Added Member To Class: ClassName=PowerManager Member=Component C22 10uF
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component C24 100pF
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component C25 100pF
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component C26 100pF
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component C50 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C50 100pF
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component C53 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C53 100pF
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component C56 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C56 100pF
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component C59 100pF
+Added Member To Class: ClassName=KeyInput_MG Member=Component C59 100pF
+Added Member To Class: ClassName=PowerManager Member=Component J3 DS1X2-2.54
+Added Member To Class: ClassName=KeyInput_ABH Member=Component J4 ZH1X9WT-1.5
+Added Member To Class: ClassName=KeyInput_ABH Member=Component J5 ZH1X9WT-1.5
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component J6 HEADER1X5
+Added Member To Class: ClassName=KeyInput_MG Member=Component J7 ZH1X5WT-1.5
+Added Member To Class: ClassName=KeyInput_MG Member=Component J8 HEADER1X5
+Added Member To Class: ClassName=KeyInput_MG Member=Component J9 Header 8
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component J10 ZH1X4WT-1.5
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component J11 ZH1X4WT-1.5
+Added Member To Class: ClassName=KeyInput_MG Member=Component R4 1K
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component R6 10R
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component R7 10R
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component R8 10R
+Added Member To Class: ClassName=JoyStickAdcInput Member=Component R29 10R
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R59 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R59 4.7K
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R65 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R65 4.7K
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R71 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R71 4.7K
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component R77 4.7K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R77 4.7K

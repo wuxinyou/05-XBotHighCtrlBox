@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetIC2_6 Pin=R108-1
+Removed Pin From Net: NetName=NetIC2_7 Pin=R108-2
+Removed Pin From Net: NetName=NetIC3_6 Pin=R111-1
+Removed Pin From Net: NetName=NetIC3_7 Pin=R111-2
+Removed Pin From Net: NetName=NetIC4_6 Pin=R114-1
+Removed Pin From Net: NetName=NetIC4_7 Pin=R114-2
+Removed Member From Class: ClassName=TTL_TO_RS485 Member=R108
+Removed Member From Class: ClassName=TTL_TO_RS485 Member=R111
+Removed Member From Class: ClassName=TTL_TO_RS485 Member=R114

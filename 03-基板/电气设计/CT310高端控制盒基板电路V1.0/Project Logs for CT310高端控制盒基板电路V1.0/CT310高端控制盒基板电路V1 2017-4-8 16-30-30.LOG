@@ -1,0 +1,171 @@
+Removed Pin From Net: NetName=KJ_M2 Pin=C62-1
+Removed Pin From Net: NetName=KJ_G1 Pin=C63-1
+Removed Pin From Net: NetName=KJ_M3 Pin=C64-1
+Removed Pin From Net: NetName=KJ_G2 Pin=C65-1
+Removed Pin From Net: NetName=KJ_M4 Pin=C66-1
+Removed Pin From Net: NetName=SGND Pin=C84-2
+Removed Pin From Net: NetName=AUDIO_OUT_L Pin=C85-1
+Removed Pin From Net: NetName=SGND Pin=K_H1-1
+Removed Pin From Net: NetName=SGND Pin=K_H1-1
+Removed Pin From Net: NetName=KEYSWIN_H1 Pin=K_H1-2
+Removed Pin From Net: NetName=KEYSWIN_H1 Pin=K_H1-2
+Removed Pin From Net: NetName=SGND Pin=K_H2-1
+Removed Pin From Net: NetName=SGND Pin=K_H2-1
+Removed Pin From Net: NetName=KEYSWIN_H2 Pin=K_H2-2
+Removed Pin From Net: NetName=KEYSWIN_H2 Pin=K_H2-2
+Removed Pin From Net: NetName=SGND Pin=K_H3-1
+Removed Pin From Net: NetName=SGND Pin=K_H3-1
+Removed Pin From Net: NetName=KEYSWIN_H3 Pin=K_H3-2
+Removed Pin From Net: NetName=KEYSWIN_H3 Pin=K_H3-2
+Removed Pin From Net: NetName=SGND Pin=K_H4-1
+Removed Pin From Net: NetName=SGND Pin=K_H4-1
+Removed Pin From Net: NetName=KEYSWIN_H4 Pin=K_H4-2
+Removed Pin From Net: NetName=KEYSWIN_H4 Pin=K_H4-2
+Removed Pin From Net: NetName=SGND Pin=K_H5-1
+Removed Pin From Net: NetName=SGND Pin=K_H5-1
+Removed Pin From Net: NetName=KEYSWIN_H5 Pin=K_H5-2
+Removed Pin From Net: NetName=KEYSWIN_H5 Pin=K_H5-2
+Removed Pin From Net: NetName=SGND Pin=P19-2
+Removed Pin From Net: NetName=SGND Pin=S1-1
+Removed Pin From Net: NetName=SGND Pin=S1-1
+Removed Pin From Net: NetName=KEYSWIN_EU Pin=S1-2
+Removed Pin From Net: NetName=KEYSWIN_EU Pin=S1-2
+Removed Pin From Net: NetName=SGND Pin=S1-3
+Removed Pin From Net: NetName=SGND Pin=S1-3
+Removed Pin From Net: NetName=KEYSWIN_ED Pin=S1-4
+Removed Pin From Net: NetName=KEYSWIN_ED Pin=S1-4
+Removed Pin From Net: NetName=SGND Pin=S1-5
+Removed Pin From Net: NetName=SGND Pin=S1-5
+Removed Pin From Net: NetName=KEYSWIN_ER Pin=S1-6
+Removed Pin From Net: NetName=KEYSWIN_ER Pin=S1-6
+Removed Pin From Net: NetName=SGND Pin=S1-7
+Removed Pin From Net: NetName=SGND Pin=S1-7
+Removed Pin From Net: NetName=KEYSWIN_EL Pin=S1-8
+Removed Pin From Net: NetName=KEYSWIN_EL Pin=S1-8
+Removed Pin From Net: NetName=SGND Pin=S1-9
+Removed Pin From Net: NetName=SGND Pin=S1-9
+Removed Pin From Net: NetName=KEYSWIN_EM Pin=S1-10
+Removed Pin From Net: NetName=KEYSWIN_EM Pin=S1-10
+Removed Pin From Net: NetName=SGND Pin=S2-1
+Removed Pin From Net: NetName=SGND Pin=S2-1
+Removed Pin From Net: NetName=KEYSWIN_FU Pin=S2-2
+Removed Pin From Net: NetName=KEYSWIN_FU Pin=S2-2
+Removed Pin From Net: NetName=SGND Pin=S2-3
+Removed Pin From Net: NetName=SGND Pin=S2-3
+Removed Pin From Net: NetName=KEYSWIN_FD Pin=S2-4
+Removed Pin From Net: NetName=KEYSWIN_FD Pin=S2-4
+Removed Pin From Net: NetName=SGND Pin=S2-5
+Removed Pin From Net: NetName=SGND Pin=S2-5
+Removed Pin From Net: NetName=KEYSWIN_FR Pin=S2-6
+Removed Pin From Net: NetName=KEYSWIN_FR Pin=S2-6
+Removed Pin From Net: NetName=SGND Pin=S2-7
+Removed Pin From Net: NetName=SGND Pin=S2-7
+Removed Pin From Net: NetName=KEYSWIN_FL Pin=S2-8
+Removed Pin From Net: NetName=KEYSWIN_FL Pin=S2-8
+Removed Pin From Net: NetName=SGND Pin=S2-9
+Removed Pin From Net: NetName=SGND Pin=S2-9
+Removed Pin From Net: NetName=KEYSWIN_FM Pin=S2-10
+Removed Pin From Net: NetName=KEYSWIN_FM Pin=S2-10
+Removed Pin From Net: NetName=+PWR_S Pin=U4-1
+Removed Pin From Net: NetName=SGND Pin=U4-5
+Removed Pin From Net: NetName=SGND Pin=U4-6
+Removed Pin From Net: NetName=SGND Pin=U4-7
+Removed Pin From Net: NetName=SGND Pin=U4-8
+Removed Pin From Net: NetName=KJ_M4 Pin=U5-1
+Removed Pin From Net: NetName=KJ_G1 Pin=U5-63
+Removed Pin From Net: NetName=KJ_G2 Pin=U5-64
+Removed Pin From Net: NetName=KJ_M2 Pin=U5-97
+Removed Pin From Net: NetName=KJ_M3 Pin=U5-98
+Removed Member From Class: ClassName=OmapSystem Member=C83
+Removed Member From Class: ClassName=OmapSystem Member=C84
+Removed Member From Class: ClassName=OmapSystem Member=C85
+Removed Member From Class: ClassName=KeyInput_ABH Member=K_H1
+Removed Member From Class: ClassName=KeyInput_ABH Member=K_H2
+Removed Member From Class: ClassName=KeyInput_ABH Member=K_H3
+Removed Member From Class: ClassName=KeyInput_ABH Member=K_H4
+Removed Member From Class: ClassName=KeyInput_ABH Member=K_H5
+Removed Member From Class: ClassName=OmapSystem Member=P19
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=S1
+Removed Member From Class: ClassName=KeyInput_IJMEF Member=S2
+Removed Member From Class: ClassName=OmapSystem Member=U4
+Added Component: Designator=D45(SMA)
+Added Component: Designator=D46(SMA)
+Added Component: Designator=D47(SMA)
+Added Component: Designator=D48(SMA)
+Added Component: Designator=D49(SMA)
+Added Component: Designator=J1(ZH1X6WT-1.5)
+Added Component: Designator=J15(ZH1X6WT-1.5)
+Added Component: Designator=J16(ZH1X6WT-1.5)
+Added Component: Designator=R87(R0805)
+Added Component: Designator=R88(R0805)
+Added Component: Designator=R91(R0805)
+Added Component: Designator=R92(R0805)
+Added Component: Designator=R94(R0805)
+Added Pin To Net: NetName=SGND Pin=D45-1
+Added Pin To Net: NetName=KJ_M2 Pin=D45-2
+Added Pin To Net: NetName=SGND Pin=D46-1
+Added Pin To Net: NetName=KJ_G1 Pin=D46-2
+Added Pin To Net: NetName=SGND Pin=D47-1
+Added Pin To Net: NetName=KJ_M3 Pin=D47-2
+Added Pin To Net: NetName=SGND Pin=D48-1
+Added Pin To Net: NetName=KJ_G2 Pin=D48-2
+Added Pin To Net: NetName=SGND Pin=D49-1
+Added Pin To Net: NetName=KJ_M4 Pin=D49-2
+Added Pin To Net: NetName=KEYSWIN_H1 Pin=J1-1
+Added Pin To Net: NetName=KEYSWIN_H2 Pin=J1-2
+Added Pin To Net: NetName=KEYSWIN_H3 Pin=J1-3
+Added Pin To Net: NetName=KEYSWIN_H4 Pin=J1-4
+Added Pin To Net: NetName=KEYSWIN_H5 Pin=J1-5
+Added Pin To Net: NetName=SGND Pin=J1-6
+Added Pin To Net: NetName=SGND Pin=J15-6
+Added Pin To Net: NetName=SGND Pin=J16-6
+Added Pin To Net: NetName=KJ_M2 Pin=R87-2
+Added Pin To Net: NetName=KJ_G1 Pin=R88-2
+Added Pin To Net: NetName=KJ_M3 Pin=R91-2
+Added Pin To Net: NetName=KJ_G2 Pin=R92-2
+Added Pin To Net: NetName=KJ_M4 Pin=R94-2
+Added Pin To Net: NetName=KEYSWIN_G1 Pin=C63-1
+Added Pin To Net: NetName=KEYSWIN_G1 Pin=R88-1
+Added Pin To Net: NetName=KEYSWIN_G1 Pin=U5-63
+Added Net: Name=KEYSWIN_G1
+Added Pin To Net: NetName=KEYSWIN_G2 Pin=C65-1
+Added Pin To Net: NetName=KEYSWIN_G2 Pin=R92-1
+Added Pin To Net: NetName=KEYSWIN_G2 Pin=U5-64
+Added Net: Name=KEYSWIN_G2
+Added Pin To Net: NetName=KEYSWIN_M2 Pin=C62-1
+Added Pin To Net: NetName=KEYSWIN_M2 Pin=R87-1
+Added Pin To Net: NetName=KEYSWIN_M2 Pin=U5-97
+Added Net: Name=KEYSWIN_M2
+Added Pin To Net: NetName=KEYSWIN_M3 Pin=C64-1
+Added Pin To Net: NetName=KEYSWIN_M3 Pin=R91-1
+Added Pin To Net: NetName=KEYSWIN_M3 Pin=U5-98
+Added Net: Name=KEYSWIN_M3
+Added Pin To Net: NetName=KEYSWIN_M4 Pin=C66-1
+Added Pin To Net: NetName=KEYSWIN_M4 Pin=R94-1
+Added Pin To Net: NetName=KEYSWIN_M4 Pin=U5-1
+Added Net: Name=KEYSWIN_M4
+Added Member To Class: ClassName=KeyInput_MG Member=Component D45 1SMA5.0AT3G
+Added Member To Class: ClassName=KeyInput_MG Member=Component D46 1SMA5.0AT3G
+Added Member To Class: ClassName=KeyInput_MG Member=Component D47 1SMA5.0AT3G
+Added Member To Class: ClassName=KeyInput_MG Member=Component D48 1SMA5.0AT3G
+Added Member To Class: ClassName=KeyInput_MG Member=Component D49 1SMA5.0AT3G
+Added Member To Class: ClassName=KeyInput_ABH Member=Component J1 ZH1X6WT-1.5
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component J15 HEADER1X6
+Added Member To Class: ClassName=KeyInput_IJMEF Member=Component J16 HEADER1X6
+Added Member To Class: ClassName=KeyInput_MG Member=Component R87 0.33K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R88 0.33K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R91 0.33K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R92 0.33K
+Added Member To Class: ClassName=KeyInput_MG Member=Component R94 0.33K
+Added Room: Name=FrameWork
+Added Room: Name=JoyStickAdcInput
+Added Room: Name=KeyInput_ABH
+Added Room: Name=KeyInput_IJMEF
+Added Room: Name=KeyInput_MG
+Added Room: Name=LeftInterface
+Added Room: Name=OmapSystem
+Added Room: Name=PowerManager
+Added Room: Name=Processor
+Added Room: Name=RightInterface
+Added Room: Name=TTL_TO_RS232
+Added Room: Name=TTL_TO_RS485

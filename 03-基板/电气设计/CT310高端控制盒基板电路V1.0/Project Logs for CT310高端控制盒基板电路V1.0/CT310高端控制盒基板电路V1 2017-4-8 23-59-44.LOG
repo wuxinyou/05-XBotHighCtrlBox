@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=12V Pin=C10-1
+Removed Pin From Net: NetName=SGND Pin=C10-2
+Removed Pin From Net: NetName=KEYSWIN_I1 Pin=C50-1
+Removed Pin From Net: NetName=SGND Pin=C50-2
+Removed Pin From Net: NetName=KEYSWIN_I2 Pin=C53-1
+Removed Pin From Net: NetName=SGND Pin=C53-2
+Removed Pin From Net: NetName=KEYSWIN_J1 Pin=C56-1
+Removed Pin From Net: NetName=SGND Pin=C56-2
+Removed Pin From Net: NetName=KEYSWIN_J2 Pin=C59-1
+Removed Pin From Net: NetName=SGND Pin=C59-2
+Removed Pin From Net: NetName=KEYSWIN_I1 Pin=R59-1
+Removed Pin From Net: NetName=+3.3V_S Pin=R59-2
+Removed Pin From Net: NetName=KEYSWIN_I2 Pin=R65-1
+Removed Pin From Net: NetName=+3.3V_S Pin=R65-2
+Removed Pin From Net: NetName=KEYSWIN_J1 Pin=R71-1
+Removed Pin From Net: NetName=+3.3V_S Pin=R71-2
+Removed Pin From Net: NetName=KEYSWIN_J2 Pin=R77-1
+Removed Pin From Net: NetName=+3.3V_S Pin=R77-2
+Removed Member From Class: ClassName=PowerConvert Member=C5
+Change Component Description : Designator=J? Old Description=Header, 8-Pin New Description=Header, 9-Pin
+Added Component: Designator=C10(CT7343-E)
+Added Component: Designator=C50(C0805)
+Added Component: Designator=C53(C0805)
+Added Component: Designator=C56(C0805)
+Added Component: Designator=C59(C0805)
+Added Component: Designator=J?(ZH1X5LT-1.5)
+Added Component: Designator=Q4(TO-262)
+Added Component: Designator=R59(R0805)
+Added Component: Designator=R65(R0805)
+Added Component: Designator=R71(R0805)
+Added Component: Designator=R77(R0805)
+Added Pin To Net: NetName=12V Pin=C10-1
+Added Pin To Net: NetName=SGND Pin=C10-2
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=C50-1
+Added Pin To Net: NetName=SGND Pin=C50-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=C53-1
+Added Pin To Net: NetName=SGND Pin=C53-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=C56-1
+Added Pin To Net: NetName=SGND Pin=C56-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=C59-1
+Added Pin To Net: NetName=SGND Pin=C59-2
+Added Pin To Net: NetName=JOYSTICK_LEFTX Pin=C?-1
+Added Pin To Net: NetName=JOYSTICK_LEFTY Pin=C?-1
+Added Pin To Net: NetName=JOYSTICK_RIGHTX Pin=C?-1
+Added Pin To Net: NetName=JOYSTICK_RIGHTY Pin=C?-1
+Added Pin To Net: NetName=SGND Pin=C?-2
+Added Pin To Net: NetName=SGND Pin=C?-2
+Added Pin To Net: NetName=+2.5V_S Pin=J?-1
+Added Pin To Net: NetName=+2.5V_S Pin=J?-1
+Added Pin To Net: NetName=KEY_IJ1 Pin=J?-1
+Added Pin To Net: NetName=KEYSWIN_G1 Pin=J?-1
+Added Pin To Net: NetName=SGND Pin=J?-1
+Added Pin To Net: NetName=SGND Pin=J?-1
+Added Pin To Net: NetName=KEY_IJ2 Pin=J?-2
+Added Pin To Net: NetName=KEYSWIN_M4 Pin=J?-2
+Added Pin To Net: NetName=SGND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=KEY_M1 Pin=J?-3
+Added Pin To Net: NetName=KEYSWIN_G2 Pin=J?-3
+Added Pin To Net: NetName=KEYSWIN_M2 Pin=J?-3
+Added Pin To Net: NetName=KEYSWIN_M3 Pin=J?-3
+Added Pin To Net: NetName=KEY_M2 Pin=J?-4
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=J?-4
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=J?-4
+Added Pin To Net: NetName=SGND Pin=J?-4
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=J?-5
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=SGND Pin=J?-5
+Added Pin To Net: NetName=NetD3_1 Pin=Q4-1
+Added Pin To Net: NetName=12V Pin=Q4-2
+Added Pin To Net: NetName=BAT_IN Pin=Q4-3
+Added Pin To Net: NetName=KEYSWIN_I1 Pin=R59-1
+Added Pin To Net: NetName=+3.3V_S Pin=R59-2
+Added Pin To Net: NetName=KEYSWIN_I2 Pin=R65-1
+Added Pin To Net: NetName=+3.3V_S Pin=R65-2
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=R71-1
+Added Pin To Net: NetName=+3.3V_S Pin=R71-2
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=R77-1
+Added Pin To Net: NetName=+3.3V_S Pin=R77-2
+Added Pin To Net: NetName=JOYSTICK_LEFTX Pin=R?-1
+Added Pin To Net: NetName=JOYSTICK_LEFTY Pin=R?-1
+Added Pin To Net: NetName=JOYSTICK_RIGHTX Pin=R?-1
+Added Pin To Net: NetName=JOYSTICK_RIGHTY Pin=R?-1
+Added Pin To Net: NetName=NetJ?_2 Pin=R?-2
+Added Pin To Net: NetName=NetJ?_4 Pin=R?-2
+Added Pin To Net: NetName=NetJ?_5 Pin=R?-2
+Added Pin To Net: NetName=NetJ?_7 Pin=R?-2
+Added Member To Class: ClassName=PowerManager Member=Component D2 MBRS410LT3
+Added Member To Class: ClassName=PowerManager Member=Component F2 2A
+Added Member To Class: ClassName=PowerManager Member=Component Q4 IRF5210S
