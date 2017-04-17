@@ -1,3 +1,4 @@
+
 #include "BatteryAdcRead.h"
 
 #define BAT_ADC_BUF_LEN	 30
@@ -34,6 +35,7 @@ uint8_t BAT1_GetValue(void)
 		
 	return (uint8_t)BatValueSum;
 }
+
 
 
 uint8_t BAT2_GetValue(void)

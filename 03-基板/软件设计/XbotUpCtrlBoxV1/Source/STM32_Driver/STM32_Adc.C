@@ -43,13 +43,15 @@ void Adc1Dma_Init(void)
 	
 	/* GPIO configuration ------------------------------------------------------*/
 	{
-		STM32_GpioOneInit(GPIO_Pin_0,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOA);
-		STM32_GpioOneInit(GPIO_Pin_1,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOA);
-		STM32_GpioOneInit(GPIO_Pin_2,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOA);
-		STM32_GpioOneInit(GPIO_Pin_3,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOA);
+		STM32_GpioOneInit(GPIO_Pin_0,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOA);   //Bat1_adc
+		STM32_GpioOneInit(GPIO_Pin_1,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOA);   //Bat2_adc
+		STM32_GpioOneInit(GPIO_Pin_2,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOA);   //joyStickRightX_adc
+		STM32_GpioOneInit(GPIO_Pin_3,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOA);		//joyStickRightY_adc
 
-		STM32_GpioOneInit(GPIO_Pin_1,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOC);
-		STM32_GpioOneInit(GPIO_Pin_2,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOC);
+		STM32_GpioOneInit(GPIO_Pin_1,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOC);   //joyStickLeftX_adc
+		STM32_GpioOneInit(GPIO_Pin_2,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOC);   //joyStickLeftY_adc
+		
+		STM32_GpioOneInit(GPIO_Pin_0,GPIO_Speed_50MHz,GPIO_Mode_AIN,GPIOC);   //swADC
 
 	}
 	
@@ -86,12 +88,14 @@ void Adc1Dma_Init(void)
 	  ADC_Init(ADC1, &ADC_InitStructure);
 	
 	  /* ADC1 regular channels configuration [规则模式通道配置]*/ 
-	  ADC_RegularChannelConfig(ADC1, ADC_Channel_0 , 1, ADC_SampleTime_239Cycles5);
-	  ADC_RegularChannelConfig(ADC1, ADC_Channel_1 , 2, ADC_SampleTime_239Cycles5);
-	  ADC_RegularChannelConfig(ADC1, ADC_Channel_11, 3, ADC_SampleTime_239Cycles5);
-	  ADC_RegularChannelConfig(ADC1, ADC_Channel_12, 4, ADC_SampleTime_239Cycles5);
-	  ADC_RegularChannelConfig(ADC1, ADC_Channel_3 , 5, ADC_SampleTime_239Cycles5);
-	  ADC_RegularChannelConfig(ADC1, ADC_Channel_2 , 6, ADC_SampleTime_239Cycles5);
+	  ADC_RegularChannelConfig(ADC1, ADC_Channel_0 , 1, ADC_SampleTime_239Cycles5);  //Bat1_Adc
+	  ADC_RegularChannelConfig(ADC1, ADC_Channel_1 , 2, ADC_SampleTime_239Cycles5);  //Bat2_Adc
+		
+	  ADC_RegularChannelConfig(ADC1, ADC_Channel_11, 3, ADC_SampleTime_239Cycles5);  //JOYSTICK_LEFT_X
+	  ADC_RegularChannelConfig(ADC1, ADC_Channel_12, 4, ADC_SampleTime_239Cycles5);  //JOYSTICK_LEFT_Y
+	  ADC_RegularChannelConfig(ADC1, ADC_Channel_3 , 5, ADC_SampleTime_239Cycles5);  //JOYSTICK_RIGHT_X
+	  ADC_RegularChannelConfig(ADC1, ADC_Channel_2 , 6, ADC_SampleTime_239Cycles5);  //JOYSTICK_RIGHT_Y
+		ADC_RegularChannelConfig(ADC1, ADC_Channel_10 , 7, ADC_SampleTime_239Cycles5);   //swAdc
 	}
 	
 	/*  ADC START ---------------------------------------------------------------*/

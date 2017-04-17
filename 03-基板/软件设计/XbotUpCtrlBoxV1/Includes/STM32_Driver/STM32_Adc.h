@@ -6,7 +6,7 @@
 #include "stm32f10x_gpio.h"
 #include "stm32f10x_dma.h"
 
-#define STM32_ADC_CHANNEL_N	6		   
+#define STM32_ADC_CHANNEL_N	7		   
 #define STM32_ADC_CACHEL_M	50
 
 #define STM32_ADC_HB100	2

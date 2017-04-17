@@ -451,6 +451,11 @@
               <FileType>1</FileType>
               <FilePath>.\Source\App\chain.c</FilePath>
             </File>
+            <File>
+              <FileName>SwAdcRead.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Source\App\SwAdcRead.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

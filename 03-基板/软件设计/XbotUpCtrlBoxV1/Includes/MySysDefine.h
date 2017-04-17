@@ -21,8 +21,8 @@ typedef uint8_t bool;
 #define false 	0
 typedef enum {FALSE = 0, TRUE = !FALSE} BOOL;
 
-#define USART_OMAP_CTRL			USART_data_1
-#define USRT_XBOT_WIRE_CTRL		USART_data_3
+#define USART_OMAP_CTRL			    USART_data_1
+#define USRT_XBOT_WIRE_CTRL		  USART_data_3
 #define USRT_XBOT_WIRELESS_CTRL	USART_data_2
 
 #define CB_MOTOR_WORK_START	

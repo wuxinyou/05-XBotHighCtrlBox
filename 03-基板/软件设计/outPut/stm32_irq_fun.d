@@ -41,3 +41,4 @@
 ..\outPut\stm32_irq_fun.o: .\Includes\STM32_Driver\STM32_UsartDriver.h
 ..\outPut\stm32_irq_fun.o: .\Includes\STM32_Driver\STM32_GpioInit.h
 ..\outPut\stm32_irq_fun.o: .\Includes\STM32_Driver\STM32_UsartInit.h
+..\outPut\stm32_irq_fun.o: .\Includes\App\SwAdcRead.h

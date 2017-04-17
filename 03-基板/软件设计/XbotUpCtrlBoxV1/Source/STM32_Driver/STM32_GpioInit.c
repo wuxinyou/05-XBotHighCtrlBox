@@ -14,7 +14,7 @@ void STM32_GpioOneInit(uint16_t GPIO_Pin,	GPIOSpeed_TypeDef GPIO_Speed,
 void STM32_GpioInit(void)
 {
 //	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOA, ENABLE);
-//	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB, ENABLE);
+	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB, ENABLE);
 	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOC, ENABLE);
 	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOD, ENABLE);
 	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOE, ENABLE);
@@ -25,6 +25,10 @@ void STM32_GpioInit(void)
 
 	STM32_GpioOneInit(__GPIO_MT1CTRL_PIN,GPIO_Speed_2MHz,GPIO_Mode_Out_PP,__GPIO_MT1CTRL_PORT);
 	STM32_GpioOneInit(__GPIO_MT2CTRL_PIN,GPIO_Speed_2MHz,GPIO_Mode_Out_PP,__GPIO_MT2CTRL_PORT);
+	
+	STM32_GpioOneInit(__GPIO_POWCTRL_PIN,GPIO_Speed_2MHz,GPIO_Mode_Out_PP,__GPIO_POWCTRL_PORT);
+	
+	
 
 	  
 }

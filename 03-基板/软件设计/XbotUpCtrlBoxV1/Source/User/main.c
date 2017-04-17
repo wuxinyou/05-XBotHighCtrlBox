@@ -65,6 +65,7 @@ int main(void)
 
 	LED1_ON;
 	LED2_OFF;
+//	POWCTRL_ON;
 
 	SysTick_Delay(100);
 	STM32_ENABLE_TIM2;

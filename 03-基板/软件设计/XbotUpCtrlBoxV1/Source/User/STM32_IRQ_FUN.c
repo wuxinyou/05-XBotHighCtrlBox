@@ -5,6 +5,7 @@
 #include "CbCtrl.h"
 #include "STM32_UsartInit.h"
 #include "BatteryAdcRead.h"
+#include "SwAdcRead.h"
 
 ///******************************************************************************/
 ///*            STM32F10x Peripherals Interrupt Handlers                        */
@@ -39,6 +40,7 @@ void TIM3_IRQHandler(void)
 
 		STM32_DISABLE_TIM3;
 		KeyAll_OpTask();
+		
 		STM32_ENABLE_TIM3;
 	}
  
@@ -56,6 +58,8 @@ void TIM4_IRQHandler(void)
 		STM32_DISABLE_TIM4;
 		CbDealTxdCtrl(&USART_OMAP_CTRL,OMAP_TXD_DATA);	
 		BAT1_GetValue();
+		
+		SW_DealAdcValue();  //读取，处理 SW按键值
 		STM32_ENABLE_TIM4;
 		
 	}

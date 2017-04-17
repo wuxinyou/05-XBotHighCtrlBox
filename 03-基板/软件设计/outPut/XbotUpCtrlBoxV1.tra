@@ -9,6 +9,7 @@
 ### List of Objects: adding '"..\output\keyread.o"'
 ### List of Objects: adding '"..\output\cbctrl.o"'
 ### List of Objects: adding '"..\output\chain.o"'
+### List of Objects: adding '"..\output\swadcread.o"'
 ### List of Objects: adding '"..\output\stm32_adc.o"'
 ### List of Objects: adding '"..\output\stm32_leddisp.o"'
 ### List of Objects: adding '"..\output\stm32_systick.o"'
@@ -29,7 +30,7 @@
 ### List of Objects: adding '"..\output\system_stm32f10x.o"'
 ### List of Objects: adding '"..\output\startup_stm32f10x_hd.o"'
 ### ADS-LD Command completed:
---cpu Cortex-M3 "..\output\main.o" "..\output\stm32f10x_it.o" "..\output\stm32_irq_fun.o" "..\output\batteryadcread.o" "..\output\joystickadcread.o" "..\output\keyread.o" "..\output\cbctrl.o" "..\output\chain.o" "..\output\stm32_adc.o" "..\output\stm32_leddisp.o" "..\output\stm32_systick.o" "..\output\stm32_usartdriver.o" "..\output\stm32_usartinit.o" "..\output\stm32_timinit.o" "..\output\stm32_gpioinit.o" "..\output\stm32_dac.o" "..\output\stm32f10x_dac.o" "..\output\misc.o" "..\output\stm32f10x_adc.o" "..\output\stm32f10x_dma.o" "..\output\stm32f10x_gpio.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_tim.o" "..\output\stm32f10x_usart.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" "..\output\startup_stm32f10x_hd.o" 
+--cpu Cortex-M3 "..\output\main.o" "..\output\stm32f10x_it.o" "..\output\stm32_irq_fun.o" "..\output\batteryadcread.o" "..\output\joystickadcread.o" "..\output\keyread.o" "..\output\cbctrl.o" "..\output\chain.o" "..\output\swadcread.o" "..\output\stm32_adc.o" "..\output\stm32_leddisp.o" "..\output\stm32_systick.o" "..\output\stm32_usartdriver.o" "..\output\stm32_usartinit.o" "..\output\stm32_timinit.o" "..\output\stm32_gpioinit.o" "..\output\stm32_dac.o" "..\output\stm32f10x_dac.o" "..\output\misc.o" "..\output\stm32f10x_adc.o" "..\output\stm32f10x_dma.o" "..\output\stm32f10x_gpio.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_tim.o" "..\output\stm32f10x_usart.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" "..\output\startup_stm32f10x_hd.o" 
 --strict --scatter "..\outPut\XbotUpCtrlBoxV1.sct" 
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
 --info sizes --info totals --info unused --info veneers 
@@ -37,7 +38,7 @@
 ### ADS-LD Output File: '..\outPut\XbotUpCtrlBoxV1.axf'
 ### ADS-LD Command File: '..\outPut\XbotUpCtrlBoxV1.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '..\outPut\XbotUpCtrlBoxV1.lnp', Handle=0x000004D8
+### Creating CmdFile '..\outPut\XbotUpCtrlBoxV1.lnp', Handle=0x00001638
 ### Writing '.lnp' file
 ### ADS-LD Command file '..\outPut\XbotUpCtrlBoxV1.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.
