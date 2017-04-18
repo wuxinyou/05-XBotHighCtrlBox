@@ -58,7 +58,7 @@ int main(void)
 	STM32_Tim3Init();	//初化TIM2,作为系统采样周期10ms
 	STM32_Tim4Init();	//初化TIM2,作为系统采样周期100ms
 
-	STM32_InitUsart1(19200);
+	STM32_InitUsart1(115200);
 	STM32_InitUsart2(19200);
 	STM32_InitUsart3(19200);
 	STM32_InitUsart4(19200);
