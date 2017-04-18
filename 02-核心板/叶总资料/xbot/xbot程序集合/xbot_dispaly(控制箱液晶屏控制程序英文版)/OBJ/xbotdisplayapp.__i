@@ -1,0 +1,5 @@
+--cpp -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\Includes\STM32_CMSIS -I.\Includes\STM32F3_StdPeriph -I.\Includes\DataTypeRealize -I.\Includes\STM32_Driver -I.\Includes\Protocol -I.\Includes\App -I.\Includes 
+-I C:\Keil_MDK470a\ARM\RV31\INC 
+-I C:\Keil_MDK470a\ARM\CMSIS\Include 
+-I C:\Keil_MDK470a\ARM\Inc\ST\STM32F10x 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -o ".\OBJ\xbotdisplayapp.o" --omf_browse ".\OBJ\xbotdisplayapp.crf" --depend ".\OBJ\xbotdisplayapp.d" "source\App\XbotDisplayApp.cpp"

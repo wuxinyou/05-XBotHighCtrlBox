@@ -1,0 +1,5 @@
+--cpu Cortex-M3 ".\obj\main.o" ".\obj\xbotdisplayapp.o" ".\obj\lcddisplay.o" ".\obj\terminalcontrol.o" ".\obj\ledlighter.o" ".\obj\watchdog.o" ".\obj\datachain.o" ".\obj\serialport.o" ".\obj\timer.o" ".\obj\key.o" ".\obj\stm32_gpioinit.o" ".\obj\stm32f10x_prioritycontrol.o" ".\obj\stm32_systick.o" ".\obj\misc.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_usart.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_iwdg.o" ".\obj\stm32f10x_conf.o" ".\obj\startup_stm32f10x_md.o" ".\obj\system_stm32f10x.o" 
+--library_type=microlib --strict --scatter ".\OBJ\xbot_display.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\xbot_display.map" -o .\OBJ\xbot_display.axf

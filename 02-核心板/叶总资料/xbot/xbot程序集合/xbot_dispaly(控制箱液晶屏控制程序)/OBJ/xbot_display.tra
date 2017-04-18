@@ -1,0 +1,41 @@
+*** Creating Trace Output File '.\OBJ\xbot_display.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\xbotdisplayapp.o"'
+### List of Objects: adding '".\obj\lcddisplay.o"'
+### List of Objects: adding '".\obj\terminalcontrol.o"'
+### List of Objects: adding '".\obj\ledlighter.o"'
+### List of Objects: adding '".\obj\watchdog.o"'
+### List of Objects: adding '".\obj\datachain.o"'
+### List of Objects: adding '".\obj\serialport.o"'
+### List of Objects: adding '".\obj\timer.o"'
+### List of Objects: adding '".\obj\key.o"'
+### List of Objects: adding '".\obj\stm32_gpioinit.o"'
+### List of Objects: adding '".\obj\stm32f10x_prioritycontrol.o"'
+### List of Objects: adding '".\obj\stm32_systick.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_iwdg.o"'
+### List of Objects: adding '".\obj\stm32f10x_conf.o"'
+### List of Objects: adding '".\obj\startup_stm32f10x_md.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\main.o" ".\obj\xbotdisplayapp.o" ".\obj\lcddisplay.o" ".\obj\terminalcontrol.o" ".\obj\ledlighter.o" ".\obj\watchdog.o" ".\obj\datachain.o" ".\obj\serialport.o" ".\obj\timer.o" ".\obj\key.o" ".\obj\stm32_gpioinit.o" ".\obj\stm32f10x_prioritycontrol.o" ".\obj\stm32_systick.o" ".\obj\misc.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_usart.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_iwdg.o" ".\obj\stm32f10x_conf.o" ".\obj\startup_stm32f10x_md.o" ".\obj\system_stm32f10x.o" 
+--library_type=microlib --strict --scatter ".\OBJ\xbot_display.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\xbot_display.map" -o .\OBJ\xbot_display.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\OBJ\xbot_display.axf'
+### ADS-LD Command File: '.\OBJ\xbot_display.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\OBJ\xbot_display.lnp', Handle=0x0000028C
+### Writing '.lnp' file
+### ADS-LD Command file '.\OBJ\xbot_display.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

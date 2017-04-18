@@ -1,0 +1,30 @@
+
+T1E44 000:146 SEGGER J-Link V4.62 Log File (0001ms, 0147ms total)
+T1E44 000:146 DLL Compiled: Jan 25 2013 15:19:47 (0001ms, 0147ms total)
+T1E44 000:146 Logging started @ 2014-04-15 17:27 (0001ms, 0147ms total)
+T1E44 000:147 JLINK_SetWarnOutHandler(...) (0000ms, 0147ms total)
+T1E44 000:147 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N: 20100214
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFull  returns O.K. (0032ms, 0179ms total)
+T1E44 000:179 JLINK_SetErrorOutHandler(...) (0000ms, 0179ms total)
+T1E44 000:179 JLINK_ExecCommand("ProjectFile = "F:\程序实例\叶依顺2013年工作备份\xbot_dispaly\JLinkSettings.ini"", ...)  returns 0x00 (0002ms, 0181ms total)
+T1E44 000:200 JLINK_ExecCommand("Device = STM32F103CB", ...)
+                JLINK_ExecCommand("map ram 0x20000000 - 0x20004FFF", ...)  returns 0x00 (0000ms, 0000ms total)
+                JLINK_AddMirrorAreaEx(Addr = 0x00000000, Size = 0x00000000) (0000ms, 0000ms total)
+              Device "STM32F103CB" selected (128 KB flash, 20 KB RAM).  returns 0x00 (0024ms, 0206ms total)
+T1E44 000:225 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x00 (0000ms, 0206ms total)
+T1E44 000:225 JLINK_TIF_Select(JLINKARM_TIF_JTAG)  returns 0x00 (0000ms, 0206ms total)
+T1E44 000:225 JLINK_SetSpeed(2000) (0001ms, 0207ms total)
+T1E44 000:226 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0207ms total)
+T1E44 000:226 JLINK_GetDLLVersion()  returns 46200 (0000ms, 0207ms total)
+T1E44 000:226 JLINK_GetFirmwareString(...) (0000ms, 0207ms total)
+T1E44 000:275 JLINK_GetDLLVersion()  returns 46200 (0000ms, 0207ms total)
+T1E44 000:275 JLINK_GetCompileDateTime() (0000ms, 0207ms total)
+T1E44 000:284 JLINK_GetFirmwareString(...) (0000ms, 0207ms total)
+T1E44 000:297 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0207ms total)
+T1E44 000:335 JLINK_GetIdData(...)
+  ***** Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.STM32F1xxx: Can not attach to CPU. Trying connect under reset.RESET (pin 15) high, but should be low. Please check target hardware. (0322ms, 0529ms total)
+T1940 004:799 JLINK_Close() (0788ms, 1317ms total)

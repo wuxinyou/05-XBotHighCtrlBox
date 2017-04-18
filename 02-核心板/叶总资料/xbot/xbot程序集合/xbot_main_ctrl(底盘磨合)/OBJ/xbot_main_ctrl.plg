@@ -1,0 +1,2114 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+F:\程序实例\xbot_main_ctrl\xbot_main_ctrl.uvproj
+Project File Date:  05/20/2013
+
+<h2>Output:</h2>
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling STM32_IRQ_FUN.cpp...
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling XbotApp.cpp...
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling BaseControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling MotorControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling PowerControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling TerminalControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling OtherDeviceControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling DataChain.cpp...
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(16): error:  #20: identifier "chainNode" is undefined
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+source\DataTypeRealize\DataChain.cpp(34): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(35): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(39): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(39): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(39): error:  #79: expected a type specifier
+source\DataTypeRealize\DataChain.cpp(39): error:  #384: no instance of overloaded "operator new" matches the argument list
+source\DataTypeRealize\DataChain.cpp(40): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(40): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "chain" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "q" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "p" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(94): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(98): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(102): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(110): error:  #131: expression must have pointer-to-class type
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling STM32_IRQ_FUN.cpp...
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling XbotApp.cpp...
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling BaseControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling MotorControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling PowerControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling TerminalControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling OtherDeviceControl.cpp...
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+compiling DataChain.cpp...
+.\Includes\DataTypeRealize\DataChain.h(55): error:  #20: identifier "chain" is undefined
+source\DataTypeRealize\DataChain.cpp(34): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(35): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(39): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(39): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(39): error:  #79: expected a type specifier
+source\DataTypeRealize\DataChain.cpp(39): error:  #384: no instance of overloaded "operator new" matches the argument list
+source\DataTypeRealize\DataChain.cpp(40): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(40): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "chain" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "q" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "p" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(94): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(98): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(102): error:  #131: expression must have pointer-to-class type
+source\DataTypeRealize\DataChain.cpp(110): error:  #131: expression must have pointer-to-class type
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling TerminalControl.cpp...
+compiling OtherDeviceControl.cpp...
+compiling DataChain.cpp...
+source\DataTypeRealize\DataChain.cpp(39): error:  #79: expected a type specifier
+source\DataTypeRealize\DataChain.cpp(39): error:  #384: no instance of overloaded "operator new" matches the argument list
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "chain" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "q" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "p" is undefined
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "chain" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "q" is undefined
+source\DataTypeRealize\DataChain.cpp(81): error:  #20: identifier "p" is undefined
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+linking...
+Program Size: Code=7720 RO-data=528 RW-data=48 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Xbot510_MainCtrl'
+linking...
+Program Size: Code=7720 RO-data=528 RW-data=48 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=7640 RO-data=528 RW-data=28 ZI-data=18508  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.287V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=7656 RO-data=528 RW-data=32 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.287V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=7672 RO-data=528 RW-data=36 ZI-data=18508  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.287V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=7688 RO-data=528 RW-data=40 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=7704 RO-data=528 RW-data=44 ZI-data=18508  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=7688 RO-data=528 RW-data=40 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.287V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling TerminalControl.cpp...
+compiling OtherDeviceControl.cpp...
+compiling DataChain.cpp...
+source\DataTypeRealize\DataChain.cpp(33): error:  #20: identifier "Chains" is undefined
+source\DataTypeRealize\DataChain.cpp(33): error:  #291: no default constructor exists for class "ChainNode"
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling TerminalControl.cpp...
+compiling OtherDeviceControl.cpp...
+compiling DataChain.cpp...
+source\DataTypeRealize\DataChain.cpp(33): error:  #20: identifier "Chains" is undefined
+source\DataTypeRealize\DataChain.cpp(33): error:  #291: no default constructor exists for class "ChainNode"
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling TerminalControl.cpp...
+compiling OtherDeviceControl.cpp...
+compiling DataChain.cpp...
+source\DataTypeRealize\DataChain.cpp(33): error:  #291: no default constructor exists for class "ChainNode"
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling TerminalControl.cpp...
+compiling OtherDeviceControl.cpp...
+compiling DataChain.cpp...
+linking...
+Program Size: Code=7956 RO-data=528 RW-data=40 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+linking...
+Program Size: Code=7892 RO-data=528 RW-data=40 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+source\DataTypeRealize\DataChain.cpp(37): error:  #44: expression must have pointer type
+source\DataTypeRealize\DataChain.cpp(38): error:  #44: expression must have pointer type
+source\DataTypeRealize\DataChain.cpp(40): error:  #44: expression must have pointer type
+source\DataTypeRealize\DataChain.cpp(41): error:  #44: expression must have pointer type
+source\DataTypeRealize\DataChain.cpp(42): error:  #413: no suitable conversion function from "ChainNode" to "ChainNode *" exists
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+source\DataTypeRealize\DataChain.cpp(37): error:  #413: no suitable conversion function from "ChainNode" to "ChainNode *" exists
+source\DataTypeRealize\DataChain.cpp(38): error:  #413: no suitable conversion function from "ChainNode" to "ChainNode *" exists
+source\DataTypeRealize\DataChain.cpp(40): error:  #413: no suitable conversion function from "ChainNode" to "ChainNode *" exists
+source\DataTypeRealize\DataChain.cpp(41): error:  #413: no suitable conversion function from "ChainNode" to "ChainNode *" exists
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+linking...
+Program Size: Code=7984 RO-data=528 RW-data=40 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+linking...
+Program Size: Code=7988 RO-data=528 RW-data=40 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=8020 RO-data=528 RW-data=48 ZI-data=18512  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.287V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+linking...
+Program Size: Code=8020 RO-data=528 RW-data=48 ZI-data=51280  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+linking...
+Program Size: Code=8020 RO-data=528 RW-data=48 ZI-data=51280  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.287V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+linking...
+Program Size: Code=8020 RO-data=528 RW-data=48 ZI-data=51280  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling TerminalControl.cpp...
+compiling OtherDeviceControl.cpp...
+compiling DataChain.cpp...
+source\DataTypeRealize\DataChain.cpp(45): error:  #20: identifier "sp" is undefined
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+source\DataTypeRealize\DataChain.cpp(36): warning:  #1293-D: assignment in condition
+source\DataTypeRealize\DataChain.cpp(44): warning:  #187-D: use of "=" where "==" may have been intended
+linking...
+Program Size: Code=7968 RO-data=528 RW-data=48 ZI-data=51280  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+linking...
+Program Size: Code=8016 RO-data=528 RW-data=48 ZI-data=51280  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+compiling DataChain.cpp...
+linking...
+Program Size: Code=7988 RO-data=528 RW-data=48 ZI-data=51216  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.287V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=7892 RO-data=524 RW-data=24 ZI-data=51216  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.287V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=7988 RO-data=528 RW-data=48 ZI-data=51216  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=7988 RO-data=528 RW-data=48 ZI-data=51216  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=7988 RO-data=528 RW-data=48 ZI-data=51216  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=7988 RO-data=528 RW-data=48 ZI-data=51216  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=8000 RO-data=528 RW-data=48 ZI-data=51280  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling XbotApp.cpp...
+source\App\XbotApp.cpp(102): error:  #20: identifier "GPSPort" is undefined
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling XbotApp.cpp...
+linking...
+Program Size: Code=8000 RO-data=528 RW-data=48 ZI-data=51280  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+linking...
+Program Size: Code=11732 RO-data=528 RW-data=68 ZI-data=51276  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=11732 RO-data=528 RW-data=68 ZI-data=51276  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=11732 RO-data=528 RW-data=68 ZI-data=51276  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=11664 RO-data=528 RW-data=44 ZI-data=51276  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=11720 RO-data=528 RW-data=44 ZI-data=51276  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+linking...
+Program Size: Code=11720 RO-data=528 RW-data=44 ZI-data=51276  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+linking...
+.\OBJ\xbot_main_ctrl.axf: error: L6050U: The code size of this image (38704 bytes) exceeds the maximum allowed for this version of the linker.
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling DataChain.cpp...
+linking...
+Program Size: Code=11720 RO-data=528 RW-data=44 ZI-data=51276  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Xbot510_MainCtrl'
+linking...
+Program Size: Code=11720 RO-data=528 RW-data=44 ZI-data=51276  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+.\Includes\Protocol\BaseControl.h(43): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(44): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(45): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(46): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(47): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(48): error:  #79: expected a type specifier
+compiling STM32_IRQ_FUN.cpp...
+.\Includes\Protocol\BaseControl.h(43): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(44): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(45): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(46): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(47): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(48): error:  #79: expected a type specifier
+compiling XbotApp.cpp...
+.\Includes\Protocol\BaseControl.h(43): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(44): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(45): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(46): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(47): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(48): error:  #79: expected a type specifier
+compiling BaseControl.cpp...
+.\Includes\Protocol\BaseControl.h(43): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(44): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(45): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(46): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(47): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(48): error:  #79: expected a type specifier
+source\Protocol\BaseControl.cpp(32): error:  #144: a value of type "RingChain (*)(<error-type>)" cannot be used to initialize an entity of type "RingChain *"
+source\Protocol\BaseControl.cpp(32): error:  #144: a value of type "RingChain (*)(<error-type>)" cannot be used to initialize an entity of type "RingChain *"
+source\Protocol\BaseControl.cpp(32): error:  #144: a value of type "RingChain (*)(<error-type>)" cannot be used to initialize an entity of type "RingChain *"
+source\Protocol\BaseControl.cpp(32): error:  #144: a value of type "RingChain (*)(<error-type>)" cannot be used to initialize an entity of type "RingChain *"
+source\Protocol\BaseControl.cpp(32): error:  #144: a value of type "RingChain (*)(<error-type>)" cannot be used to initialize an entity of type "RingChain *"
+source\Protocol\BaseControl.cpp(32): error:  #144: a value of type "RingChain (*)(<error-type>)" cannot be used to initialize an entity of type "RingChain *"
+compiling MotorControl.cpp...
+.\Includes\Protocol\BaseControl.h(43): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(44): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(45): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(46): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(47): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(48): error:  #79: expected a type specifier
+compiling PowerControl.cpp...
+.\Includes\Protocol\BaseControl.h(43): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(44): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(45): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(46): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(47): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(48): error:  #79: expected a type specifier
+compiling OtherDeviceControl.cpp...
+.\Includes\Protocol\BaseControl.h(43): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(44): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(45): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(46): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(47): error:  #79: expected a type specifier
+.\Includes\Protocol\BaseControl.h(48): error:  #79: expected a type specifier
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+.\OBJ\xbot_main_ctrl.axf: Error: L6218E: Undefined symbol BaseControl::R1 (referred from basecontrol.o).
+.\OBJ\xbot_main_ctrl.axf: Error: L6218E: Undefined symbol BaseControl::R2 (referred from basecontrol.o).
+.\OBJ\xbot_main_ctrl.axf: Error: L6218E: Undefined symbol BaseControl::R3 (referred from basecontrol.o).
+.\OBJ\xbot_main_ctrl.axf: Error: L6218E: Undefined symbol BaseControl::R4 (referred from basecontrol.o).
+.\OBJ\xbot_main_ctrl.axf: Error: L6218E: Undefined symbol BaseControl::R5 (referred from basecontrol.o).
+.\OBJ\xbot_main_ctrl.axf: Error: L6218E: Undefined symbol BaseControl::R6 (referred from basecontrol.o).
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=11896 RO-data=528 RW-data=68 ZI-data=51324  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Xbot510_MainCtrl'
+linking...
+Program Size: Code=11896 RO-data=528 RW-data=68 ZI-data=51324  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=11896 RO-data=528 RW-data=68 ZI-data=51324  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=11896 RO-data=528 RW-data=68 ZI-data=51324  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=11896 RO-data=528 RW-data=68 ZI-data=51324  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=11896 RO-data=528 RW-data=68 ZI-data=51324  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+source\Protocol\BaseControl.cpp(28): error:  #147: declaration is incompatible with "volatile RingChain BaseControl::R1" (declared at line 43 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(29): error:  #147: declaration is incompatible with "volatile RingChain BaseControl::R2" (declared at line 44 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(30): error:  #147: declaration is incompatible with "volatile RingChain BaseControl::R3" (declared at line 45 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(31): error:  #147: declaration is incompatible with "volatile RingChain BaseControl::R4" (declared at line 46 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(32): error:  #147: declaration is incompatible with "volatile RingChain BaseControl::R5" (declared at line 47 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(33): error:  #147: declaration is incompatible with "volatile RingChain BaseControl::R6" (declared at line 48 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(47): error:  #147: declaration is incompatible with "volatile RingChain *BaseControl::reciveChin[6]" (declared at line 49 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(97): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(98): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(99): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(102): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(104): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(105): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(107): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(111): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(112): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(114): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(119): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(120): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(124): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(128): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(129): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+source\Protocol\BaseControl.cpp(47): error:  #147: declaration is incompatible with "volatile RingChain *BaseControl::reciveChin[6]" (declared at line 49 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(97): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(98): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(99): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(102): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(104): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(105): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(107): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(111): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(112): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(114): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(119): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(120): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(124): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(128): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(129): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+.\Includes\Protocol\BaseControl.h(51): error:  #313: type qualifier is not allowed on this function
+compiling STM32_IRQ_FUN.cpp...
+.\Includes\Protocol\BaseControl.h(51): error:  #313: type qualifier is not allowed on this function
+compiling XbotApp.cpp...
+.\Includes\Protocol\BaseControl.h(51): error:  #313: type qualifier is not allowed on this function
+compiling BaseControl.cpp...
+.\Includes\Protocol\BaseControl.h(51): error:  #313: type qualifier is not allowed on this function
+source\Protocol\BaseControl.cpp(47): error:  #147: declaration is incompatible with "volatile RingChain *BaseControl::reciveChin[6]" (declared at line 49 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(89): error:  #147: declaration is incompatible with "bool BaseControl::reciveData(SerialPort *)" (declared at line 51 of ".\Includes\Protocol\BaseControl.h")
+source\Protocol\BaseControl.cpp(97): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(98): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(99): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(102): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(104): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(105): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(107): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(111): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(112): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(114): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(119): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(120): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(124): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(128): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+source\Protocol\BaseControl.cpp(129): error:  #315: the object has cv-qualifiers that are not compatible with the member function
+compiling MotorControl.cpp...
+.\Includes\Protocol\BaseControl.h(51): error:  #313: type qualifier is not allowed on this function
+compiling PowerControl.cpp...
+.\Includes\Protocol\BaseControl.h(51): error:  #313: type qualifier is not allowed on this function
+compiling OtherDeviceControl.cpp...
+.\Includes\Protocol\BaseControl.h(51): error:  #313: type qualifier is not allowed on this function
+Target not created
+Build target 'Xbot510_MainCtrl'
+compiling main.cpp...
+compiling STM32_IRQ_FUN.cpp...
+compiling XbotApp.cpp...
+compiling BaseControl.cpp...
+compiling MotorControl.cpp...
+compiling PowerControl.cpp...
+compiling OtherDeviceControl.cpp...
+linking...
+Program Size: Code=11896 RO-data=528 RW-data=68 ZI-data=51324  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Xbot510_MainCtrl'
+compiling BaseControl.cpp...
+linking...
+Program Size: Code=11896 RO-data=528 RW-data=68 ZI-data=51324  
+FromELF: creating hex file...
+".\OBJ\xbot_main_ctrl.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\程序实例\\xbot_main_ctrl\\OBJ\\xbot_main_ctrl.AXF" 
+* JLink Info: Device "STM32F407VG" selected (1024 KB flash, 128 KB RAM).
+Set JLink Project File to "F:\程序实例\xbot_main_ctrl\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.50j, compiled Jun 26 2012 09:19:07
+Firmware: J-Link ARM V8 compiled Jun 19 2012 11:29:30
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+ 
+Target info:
+------------
+Device: STM32F407VG
+VTarget = 3.280V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found Cortex-M4 r0p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...

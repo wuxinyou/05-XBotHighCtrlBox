@@ -1,0 +1,1 @@
+-c --device DARMSTM -g -O0 --apcs=interwork -I.\Includes -I.\Includes\App -I.\Includes\STM32_CMSIS -I.\Includes\STM32_Driver -I.\Includes\STM32_LIB -I.\Includes\User -I "C:\Keil\ARM\INC\ST\STM32F10x" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o ".\OBJ\stm32_adc.o" --omf_browse ".\OBJ\stm32_adc.crf" --depend ".\OBJ\stm32_adc.d" "Source\STM32_Driver\STM32_Adc.C"

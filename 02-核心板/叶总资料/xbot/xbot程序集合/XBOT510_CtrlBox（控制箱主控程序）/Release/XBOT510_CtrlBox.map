@@ -1,0 +1,658 @@
+Archive member included because of file (symbol)
+
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_mulsi3.o)
+                              ./Protocol/CbCtrl.o (__mulsi3)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodhi4.o)
+                              ./Protocol/CbCtrl.o (__udivmodhi4)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodhi4.o)
+                              ./Protocol/CbCtrl.o (__divmodhi4)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodsi4.o)
+                              ./Protocol/CbCtrl.o (__udivmodsi4)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodsi4.o)
+                              ./Protocol/CbCtrl.o (__divmodsi4)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_exit.o)
+                              d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o (exit)
+d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_clear_bss.o)
+                              ./Protocol/CbCtrl.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+USART_data_E0       0x47              ./Apps/UsartInit.o
+USART_data_C1       0x47              ./Apps/UsartInit.o
+USART_data_D1       0x47              ./Apps/UsartInit.o
+USART_data_C0       0x47              ./Apps/UsartInit.o
+USART_data_E1       0x47              ./Apps/UsartInit.o
+USART_data_F0       0x47              ./Apps/UsartInit.o
+USART_data_D0       0x47              ./Apps/UsartInit.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00802000         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o
+LOAD ./CbBoxDebug.o
+LOAD ./Protocol/CbCtrl.o
+LOAD ./Protocol/CbCtrlData.o
+LOAD ./Protocol/CbDisCtrl.o
+LOAD ./Drivers/TC_driver.o
+LOAD ./Drivers/adc_driver.o
+LOAD ./Drivers/clksys_driver.o
+LOAD ./Drivers/eeprom_driver.o
+LOAD ./Drivers/pmic_driver.o
+LOAD ./Drivers/port_driver.o
+LOAD ./Drivers/usart_driver.o
+LOAD ./Apps/AdcControl.o
+LOAD ./Apps/Debug.o
+LOAD ./Apps/RelayCtrl.o
+LOAD ./Apps/SystemInit.o
+LOAD ./Apps/TcInit.o
+LOAD ./Apps/UsartInit.o
+LOAD d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a
+LOAD d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4\libc.a
+LOAD d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x324c
+ *(.vectors)
+ .vectors       0x00000000      0x1e8 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x000001e8                . = ALIGN (0x2)
+                0x000001e8                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000001e8        0x0 linker stubs
+ *(.trampolines*)
+                0x000001e8                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000001e8                __ctors_start = .
+ *(.ctors)
+                0x000001e8                __ctors_end = .
+                0x000001e8                __dtors_start = .
+ *(.dtors)
+                0x000001e8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000001e8        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o
+                0x000001e8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000001e8        0xc d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000001f4       0x1a d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o
+                0x000001f4                __do_copy_data
+ .init4         0x0000020e       0x10 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_clear_bss.o)
+                0x0000020e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000021e        0x8 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o
+ *(.init9)
+ *(.text)
+ .text          0x00000226        0x4 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o
+                0x00000226                __vector_38
+                0x00000226                __vector_104
+                0x00000226                __vector_22
+                0x00000226                __vector_63
+                0x00000226                __vector_67
+                0x00000226                __vector_1
+                0x00000226                __vector_32
+                0x00000226                __vector_75
+                0x00000226                __vector_71
+                0x00000226                __vector_34
+                0x00000226                __vector_102
+                0x00000226                __vector_24
+                0x00000226                __vector_12
+                0x00000226                __vector_55
+                0x00000226                __vector_69
+                0x00000226                __vector_81
+                0x00000226                __vector_46
+                0x00000226                __bad_interrupt
+                0x00000226                __vector_72
+                0x00000226                __vector_114
+                0x00000226                __vector_6
+                0x00000226                __vector_110
+                0x00000226                __vector_31
+                0x00000226                __vector_35
+                0x00000226                __vector_78
+                0x00000226                __vector_117
+                0x00000226                __vector_39
+                0x00000226                __vector_107
+                0x00000226                __vector_3
+                0x00000226                __vector_105
+                0x00000226                __vector_98
+                0x00000226                __vector_23
+                0x00000226                __vector_68
+                0x00000226                __vector_30
+                0x00000226                __vector_73
+                0x00000226                __vector_45
+                0x00000226                __vector_93
+                0x00000226                __vector_11
+                0x00000226                __vector_54
+                0x00000226                __vector_99
+                0x00000226                __vector_13
+                0x00000226                __vector_17
+                0x00000226                __vector_19
+                0x00000226                __vector_56
+                0x00000226                __vector_7
+                0x00000226                __vector_49
+                0x00000226                __vector_41
+                0x00000226                __vector_86
+                0x00000226                __vector_100
+                0x00000226                __vector_101
+                0x00000226                __vector_64
+                0x00000226                __vector_109
+                0x00000226                __vector_43
+                0x00000226                __vector_27
+                0x00000226                __vector_5
+                0x00000226                __vector_113
+                0x00000226                __vector_33
+                0x00000226                __vector_76
+                0x00000226                __vector_115
+                0x00000226                __vector_47
+                0x00000226                __vector_52
+                0x00000226                __vector_37
+                0x00000226                __vector_95
+                0x00000226                __vector_103
+                0x00000226                __vector_96
+                0x00000226                __vector_108
+                0x00000226                __vector_4
+                0x00000226                __vector_44
+                0x00000226                __vector_82
+                0x00000226                __vector_106
+                0x00000226                __vector_118
+                0x00000226                __vector_51
+                0x00000226                __vector_9
+                0x00000226                __vector_2
+                0x00000226                __vector_21
+                0x00000226                __vector_15
+                0x00000226                __vector_66
+                0x00000226                __vector_36
+                0x00000226                __vector_79
+                0x00000226                __vector_70
+                0x00000226                __vector_60
+                0x00000226                __vector_121
+                0x00000226                __vector_40
+                0x00000226                __vector_85
+                0x00000226                __vector_94
+                0x00000226                __vector_8
+                0x00000226                __vector_48
+                0x00000226                __vector_116
+                0x00000226                __vector_112
+                0x00000226                __vector_111
+                0x00000226                __vector_80
+                0x00000226                __vector_14
+                0x00000226                __vector_84
+                0x00000226                __vector_57
+                0x00000226                __vector_53
+                0x00000226                __vector_10
+                0x00000226                __vector_50
+                0x00000226                __vector_16
+                0x00000226                __vector_18
+                0x00000226                __vector_97
+                0x00000226                __vector_20
+                0x00000226                __vector_87
+                0x00000226                __vector_65
+ .text          0x0000022a        0x0 ./CbBoxDebug.o
+ .text          0x0000022a     0x10aa ./Protocol/CbCtrl.o
+                0x000002ca                CbSendDataToLcd
+                0x00000402                AdjustAdc
+ .text          0x000012d4        0x0 ./Protocol/CbCtrlData.o
+ .text          0x000012d4      0x290 ./Protocol/CbDisCtrl.o
+ .text          0x00001564      0x114 ./Drivers/TC_driver.o
+                0x0000162c                TC0_SetCCBIntLevel
+                0x000015e4                TC0_SetOverflowIntLevel
+                0x000015f0                TC1_SetOverflowIntLevel
+                0x000015fc                TC0_SetErrorIntLevel
+                0x000015d6                TC1_DisableCCChannels
+                0x00001620                TC1_SetCCAIntLevel
+                0x00001588                TC1_ConfigWGM
+                0x00001614                TC0_SetCCAIntLevel
+                0x0000157c                TC0_ConfigWGM
+                0x0000165c                TC0_Reset
+                0x000015bc                TC1_EnableCCChannels
+                0x00001644                TC0_SetCCCIntLevel
+                0x000015c8                TC0_DisableCCChannels
+                0x000015a2                TC1_ConfigInputCapture
+                0x0000166a                TC1_Reset
+                0x00001570                TC1_ConfigClockSource
+                0x000015b0                TC0_EnableCCChannels
+                0x00001564                TC0_ConfigClockSource
+                0x00001650                TC0_SetCCDIntLevel
+                0x00001608                TC1_SetErrorIntLevel
+                0x00001594                TC0_ConfigInputCapture
+                0x00001638                TC1_SetCCBIntLevel
+ .text          0x00001678      0x172 ./Drivers/adc_driver.o
+                0x0000170e                ADC_ResultCh_GetHighByte
+                0x00001728                ADC_Wait_32MHz
+                0x000017d6                SP_ReadCalibrationByte
+                0x00001704                ADC_ResultCh_GetLowByte
+                0x000016cc                ADC_ResultCh_GetWord_Unsigned
+                0x00001786                ADC_Offset_Get_Signed
+                0x000016f6                ADC_ResultCh_GetWord
+                0x000016de                ADC_ResultCh_GetWord_Signed
+                0x00001678                ADC_CalibrationValues_Load
+                0x00001718                ADC_Wait_8MHz
+                0x0000173a                ADC_Offset_Get_Unsigned
+ .text          0x000017ea      0x178 ./Drivers/clksys_driver.o
+                0x00001902                CLKSYS_XOSC_FailureDetection_Enable
+                0x00001814                CLKSYS_XOSC_Config
+                0x000017ea                CCPWrite
+                0x0000187a                CLKSYS_Main_ClockSource_Select
+                0x000018c4                CLKSYS_AutoCalibration_Enable
+                0x0000184a                CLKSYS_Prescalers_Config
+                0x00001836                CLKSYS_Disable
+                0x0000182a                CLKSYS_PLL_Config
+                0x000018b4                CLKSYS_RTC_ClockSource_Enable
+                0x00001932                CLKSYS_Configuration_Lock
+ .text          0x00001962      0x274 ./Drivers/eeprom_driver.o
+                0x000019ea                EEPROM_ReadByte
+                0x00001a44                EEPROM_WaitForNVM
+                0x00001a84                EEPROM_LoadByte
+                0x00001b5e                EEPROM_SplitWritePage
+                0x00001aca                EEPROM_AtomicWritePage
+                0x00001aa2                EEPROM_LoadPage
+                0x00001ba8                EEPROM_EraseAll
+                0x00001a4e                EEPROM_FlushBuffer
+                0x00001b14                EEPROM_ErasePage
+                0x00001962                EEPROM_WriteByte
+ .text          0x00001bd6       0x20 ./Drivers/pmic_driver.o
+                0x00001bd6                PMIC_SetVectorLocationToBoot
+                0x00001be6                PMIC_SetVectorLocationToApplication
+ .text          0x00001bf6       0x86 ./Drivers/port_driver.o
+                0x00001c12                PORT_ConfigurePins
+                0x00001c6e                PORT_MapVirtualPort3
+                0x00001c44                PORT_MapVirtualPort0
+                0x00001bf6                PORT_ConfigureInterrupt0
+                0x00001c52                PORT_MapVirtualPort1
+                0x00001c04                PORT_ConfigureInterrupt1
+                0x00001c60                PORT_MapVirtualPort2
+ .text          0x00001c7c      0x182 ./Drivers/usart_driver.o
+                0x00001de2                USART_NineBits_GetChar
+                0x00001cca                USART_TXBuffer_PutByte
+                0x00001d46                USART_RXComplete
+                0x00001cb2                USART_TXBuffer_SendAll
+                0x00001d86                USART_DataRegEmpty
+                0x00001dcc                USART_NineBits_PutChar
+                0x00001c9a                USART_TXBuffer_FreeSpace
+                0x00001d18                USART_RXBufferData_Available
+                0x00001d2c                USART_RXBuffer_GetByte
+                0x00001c94                USART_InterruptDriver_DreInterruptLevel_Set
+                0x00001c7c                USART_InterruptDriver_Initialize
+ .text          0x00001dfe      0x44c ./Apps/AdcControl.o
+                0x00001ed0                __vector_74
+                0x0000215c                InitAdcA
+                0x0000206c                InitAdcB
+                0x00001e24                __vector_42
+ .text          0x0000224a      0x166 ./Apps/Debug.o
+                0x000022ca                __vector_77
+                0x0000224a                main
+                0x00002260                __vector_83
+ .text          0x000023b0        0x0 ./Apps/RelayCtrl.o
+ .text          0x000023b0       0xf0 ./Apps/SystemInit.o
+                0x000023fc                InitDevices
+                0x000023b0                InitClkSys
+ .text          0x000024a0       0x30 ./Apps/TcInit.o
+                0x000024b8                InitTCD0
+                0x000024a0                InitTCD1
+ .text          0x000024d0      0xc72 ./Apps/UsartInit.o
+                0x00002908                __vector_28
+                0x000029b0                __vector_119
+                0x00002860                __vector_91
+                0x000025c0                __vector_62
+                0x00002f36                InitUsartC1
+                0x00002590                __vector_90
+                0x00002668                __vector_92
+                0x00002b0a                InitUsartE1
+                0x000024d0                USART_DataRegEmpty_D0
+                0x0000295c                __vector_25
+                0x000027b8                __vector_61
+                0x00002e22                InitUsartD0
+                0x000028b4                __vector_88
+                0x0000303c                InitUsartC0
+                0x0000251e                __vector_89
+                0x00002a04                InitUsartF0
+                0x0000280c                __vector_58
+                0x000026bc                __vector_29
+                0x00002c16                InitUsartE0
+                0x00002710                __vector_26
+                0x00002614                __vector_59
+                0x00002d1c                InitUsartD1
+                0x00002764                __vector_120
+ .text          0x00003142        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_mulsi3.o)
+ .text          0x00003142        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodhi4.o)
+ .text          0x00003142        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodhi4.o)
+ .text          0x00003142        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .text          0x00003142        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodsi4.o)
+ .text          0x00003142        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_exit.o)
+ .text          0x00003142        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_clear_bss.o)
+                0x00003142                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x00003142       0x3e d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_mulsi3.o)
+                0x00003142                __mulsi3
+ .text.libgcc   0x00003180       0x28 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodhi4.o)
+                0x00003180                __udivmodhi4
+ .text.libgcc   0x000031a8       0x26 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodhi4.o)
+                0x000031a8                __divmodhi4
+                0x000031a8                _div
+ .text.libgcc   0x000031ce       0x44 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodsi4.o)
+                0x000031ce                __udivmodsi4
+ .text.libgcc   0x00003212       0x36 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodsi4.o)
+                0x00003212                __divmodsi4
+ .text.libgcc   0x00003248        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc   0x00003248        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_clear_bss.o)
+                0x00003248                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003248        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_exit.o)
+                0x00003248                exit
+                0x00003248                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003248        0x4 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000324c                _etext = .
+
+.data           0x00802000       0x58 load address 0x0000324c
+                0x00802000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00802000        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o
+ .data          0x00802000        0x0 ./CbBoxDebug.o
+ .data          0x00802000       0x2a ./Protocol/CbCtrl.o
+                0x00802000                CB_PREPARE_DATA
+                0x0080200d                CB_FIRE_DATA
+                0x0080201a                CbCtrl
+ .data          0x0080202a        0x0 ./Protocol/CbCtrlData.o
+ .data          0x0080202a        0x4 ./Protocol/CbDisCtrl.o
+                0x0080202a                CbDisCtrl
+ .data          0x0080202e        0x0 ./Drivers/TC_driver.o
+ .data          0x0080202e        0x0 ./Drivers/adc_driver.o
+ .data          0x0080202e        0x0 ./Drivers/clksys_driver.o
+ .data          0x0080202e        0x0 ./Drivers/eeprom_driver.o
+ .data          0x0080202e        0x0 ./Drivers/pmic_driver.o
+ .data          0x0080202e        0x0 ./Drivers/port_driver.o
+ .data          0x0080202e        0x0 ./Drivers/usart_driver.o
+ .data          0x0080202e       0x29 ./Apps/AdcControl.o
+                0x0080202e                adc_a_control
+ .data          0x00802057        0x0 ./Apps/Debug.o
+ .data          0x00802057        0x0 ./Apps/RelayCtrl.o
+ .data          0x00802057        0x0 ./Apps/SystemInit.o
+ .data          0x00802057        0x0 ./Apps/TcInit.o
+ .data          0x00802057        0x0 ./Apps/UsartInit.o
+ .data          0x00802057        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_mulsi3.o)
+ .data          0x00802057        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodhi4.o)
+ .data          0x00802057        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodhi4.o)
+ .data          0x00802057        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .data          0x00802057        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodsi4.o)
+ .data          0x00802057        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_exit.o)
+ .data          0x00802057        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_clear_bss.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00802058                . = ALIGN (0x2)
+ *fill*         0x00802057        0x1 00
+                0x00802058                _edata = .
+                0x00802058                PROVIDE (__data_end, .)
+
+.bss            0x00802058      0x286
+                0x00802058                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00802058        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avrxmega4/crtx64a3.o
+ .bss           0x00802058        0x0 ./CbBoxDebug.o
+ .bss           0x00802058       0x1d ./Protocol/CbCtrl.o
+ .bss           0x00802075       0x53 ./Protocol/CbCtrlData.o
+                0x00802075                CbCtrlData
+ .bss           0x008020c8       0x20 ./Protocol/CbDisCtrl.o
+                0x008020c8                CbDisCtrlData
+ .bss           0x008020e8        0x0 ./Drivers/TC_driver.o
+ .bss           0x008020e8        0x0 ./Drivers/adc_driver.o
+ .bss           0x008020e8        0x0 ./Drivers/clksys_driver.o
+ .bss           0x008020e8        0x0 ./Drivers/eeprom_driver.o
+ .bss           0x008020e8        0x0 ./Drivers/pmic_driver.o
+ .bss           0x008020e8        0x0 ./Drivers/port_driver.o
+ .bss           0x008020e8        0x0 ./Drivers/usart_driver.o
+ .bss           0x008020e8        0x0 ./Apps/AdcControl.o
+ .bss           0x008020e8        0x1 ./Apps/Debug.o
+ .bss           0x008020e9        0x0 ./Apps/RelayCtrl.o
+ .bss           0x008020e9        0x0 ./Apps/SystemInit.o
+ .bss           0x008020e9        0x0 ./Apps/TcInit.o
+ .bss           0x008020e9        0x4 ./Apps/UsartInit.o
+ .bss           0x008020ed        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_mulsi3.o)
+ .bss           0x008020ed        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodhi4.o)
+ .bss           0x008020ed        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodhi4.o)
+ .bss           0x008020ed        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .bss           0x008020ed        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_divmodsi4.o)
+ .bss           0x008020ed        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_exit.o)
+ .bss           0x008020ed        0x0 d:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avrxmega4\libgcc.a(_clear_bss.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x008020ed      0x1f1 ./Apps/UsartInit.o
+                0x008020ed                USART_data_E0
+                0x00802134                USART_data_C1
+                0x0080217b                USART_data_D1
+                0x008021c2                USART_data_C0
+                0x00802209                USART_data_E1
+                0x00802250                USART_data_F0
+                0x00802297                USART_data_D0
+                0x008022de                PROVIDE (__bss_end, .)
+                0x0000324c                __data_load_start = LOADADDR (.data)
+                0x000032a4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008022de        0x0
+                0x008022de                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008022de                PROVIDE (__noinit_end, .)
+                0x008022de                _end = .
+                0x008022de                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(XBOT510_CtrlBox.elf elf32-avr)
+LOAD linker stubs
