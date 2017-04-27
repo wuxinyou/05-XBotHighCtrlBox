@@ -1,0 +1,16 @@
+Added Component: Designator=H1(hole2_7)
+Added Component: Designator=H2(hole2_7)
+Added Component: Designator=H3(hole2_7)
+Added Component: Designator=H4(hole2_7)
+Added Component: Designator=H9(HOLE2_7)
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H9-1
+Added Pin To Net: NetName=RXCLK- Pin=J4-14
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H1 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H2 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H3 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H4 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H9 TP_P0_0.8_D0

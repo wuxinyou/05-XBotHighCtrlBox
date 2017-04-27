@@ -1,0 +1,8 @@
+Added Component: Designator=J1(H20JH)
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=AX Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=VCC Pin=J1-4
+Added Pin To Net: NetName=AY Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Member To Class: ClassName=CT310高端控制盒左摇杆电路V1.1 Member=Component J1 H20JH

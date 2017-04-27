@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VSYS Pin=PZ1-+
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=MOTOR_PWM Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=R23-2
+Removed Member From Class: ClassName=P16-Connector Member=J6
+Removed Member From Class: ClassName=P02-DC_JACK Member=PZ1
+Removed Member From Class: ClassName=P02-DC_JACK Member=Q5
+Removed Member From Class: ClassName=P02-DC_JACK Member=R22
+Removed Member From Class: ClassName=P02-DC_JACK Member=R23
+Added Member To Class: ClassName=P16-Connector Member=Component J3 HEADER 2X20

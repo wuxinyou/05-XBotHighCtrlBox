@@ -1,0 +1,203 @@
+Removed Pin From Net: NetName=VDD28_AF Pin=C99-1
+Removed Pin From Net: NetName=GND Pin=C99-2
+Removed Pin From Net: NetName=VDD28_CAM Pin=C100-1
+Removed Pin From Net: NetName=GND Pin=C100-2
+Removed Pin From Net: NetName=VDD18_CAM Pin=C101-1
+Removed Pin From Net: NetName=GND Pin=C101-2
+Removed Pin From Net: NetName=GND Pin=J27-1
+Removed Pin From Net: NetName=I2C_SDA7 Pin=J27-2
+Removed Pin From Net: NetName=CAM_MCLK Pin=J27-3
+Removed Pin From Net: NetName=I2C_SCL7 Pin=J27-4
+Removed Pin From Net: NetName=CAM2M_RST Pin=J27-5
+Removed Pin From Net: NetName=CAM2M_PWDN Pin=J27-6
+Removed Pin From Net: NetName=CAM_D5 Pin=J27-7
+Removed Pin From Net: NetName=CAM_D7 Pin=J27-8
+Removed Pin From Net: NetName=CAM_D6 Pin=J27-9
+Removed Pin From Net: NetName=CAM_D4 Pin=J27-10
+Removed Pin From Net: NetName=VDD18_CAM Pin=J27-11
+Removed Pin From Net: NetName=VDD28_CAM Pin=J27-12
+Removed Pin From Net: NetName=VDD28_AF Pin=J27-13
+Removed Pin From Net: NetName=CAM_HREF Pin=J27-14
+Removed Pin From Net: NetName=CAM_VSYNC Pin=J27-15
+Removed Pin From Net: NetName=CAM_D0 Pin=J27-16
+Removed Pin From Net: NetName=CAM_PCLK Pin=J27-17
+Removed Pin From Net: NetName=CAM_D1 Pin=J27-18
+Removed Pin From Net: NetName=CAM_D2 Pin=J27-19
+Removed Pin From Net: NetName=CAM_D3 Pin=J27-20
+Removed Member From Class: ClassName=P11-CAMERA AVIN Member=C99
+Removed Member From Class: ClassName=P11-CAMERA AVIN Member=C100
+Removed Member From Class: ClassName=P11-CAMERA AVIN Member=C101
+Removed Member From Class: ClassName=P11-CAMERA AVIN Member=J27
+Added Component: Designator=C4(C0603-S)
+Added Component: Designator=C5(C0603-S)
+Added Component: Designator=C6(C0603-S)
+Added Component: Designator=C7(C0603-S)
+Added Component: Designator=C8(C0603-S)
+Added Component: Designator=C9(C0603-S)
+Added Component: Designator=C10(C0603-S)
+Added Component: Designator=C16(C0603-S)
+Added Component: Designator=C17(C0603-S)
+Added Component: Designator=C18(C0603-S)
+Added Component: Designator=C19(C0603-S)
+Added Component: Designator=C20(C0603-S)
+Added Component: Designator=C21(C0603-S)
+Added Component: Designator=C22(C0603-s)
+Added Component: Designator=C23(C0603-s)
+Added Component: Designator=J1(HD1X4-2.54)
+Added Component: Designator=R12(R0603-S)
+Added Component: Designator=R13(R0603-S)
+Added Component: Designator=R14(R0603-S)
+Added Component: Designator=R15(R0603-S)
+Added Component: Designator=R16(R0603-S)
+Added Component: Designator=R17(R0603-S)
+Added Component: Designator=R18(R0603-S)
+Added Component: Designator=R19(R0603-S)
+Added Component: Designator=R24(R0603-S)
+Added Component: Designator=R27(R0603-S)
+Added Component: Designator=R28(R0603-S)
+Added Component: Designator=R29(R0603-S)
+Added Component: Designator=R32(R0603-S)
+Added Component: Designator=R43(R0603-S)
+Added Component: Designator=R46(R0603-S)
+Added Component: Designator=U1(QFP7X7-32)
+Added Pin To Net: NetName=VDD18_CAM Pin=C4-2
+Added Pin To Net: NetName=VDD18_CAM Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VDD28_CAM Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VDD28_CAM Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=CAM_HREF Pin=R17-2
+Added Pin To Net: NetName=CAM_HREF Pin=R18-2
+Added Pin To Net: NetName=CAM_D7 Pin=R24-1
+Added Pin To Net: NetName=VDD28_AF Pin=R24-2
+Added Pin To Net: NetName=I2C_SDA7 Pin=R27-1
+Added Pin To Net: NetName=VDD18_CAM Pin=R27-2
+Added Pin To Net: NetName=I2C_SCL7 Pin=R28-1
+Added Pin To Net: NetName=VDD18_CAM Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R32-2
+Added Pin To Net: NetName=CAM_D7 Pin=R43-1
+Added Pin To Net: NetName=GND Pin=R43-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=VDD28_CAM Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=CAM2M_RST Pin=U1-8
+Added Pin To Net: NetName=CAM_PCLK Pin=U1-9
+Added Pin To Net: NetName=VDD28_AF Pin=U1-10
+Added Pin To Net: NetName=CAM_D7 Pin=U1-11
+Added Pin To Net: NetName=CAM_D6 Pin=U1-12
+Added Pin To Net: NetName=CAM_D5 Pin=U1-13
+Added Pin To Net: NetName=CAM_D4 Pin=U1-14
+Added Pin To Net: NetName=CAM_D3 Pin=U1-15
+Added Pin To Net: NetName=CAM_D2 Pin=U1-16
+Added Pin To Net: NetName=CAM_D1 Pin=U1-17
+Added Pin To Net: NetName=CAM_D0 Pin=U1-18
+Added Pin To Net: NetName=VDD18_CAM Pin=U1-20
+Added Pin To Net: NetName=I2C_SCL7 Pin=U1-21
+Added Pin To Net: NetName=I2C_SDA7 Pin=U1-22
+Added Pin To Net: NetName=CAM_VSYNC Pin=U1-24
+Added Pin To Net: NetName=CAM2M_PWDN Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=VDD28_CAM Pin=U1-32
+Added Pin To Net: NetName=AGND Pin=C4-1
+Added Pin To Net: NetName=AGND Pin=C5-1
+Added Pin To Net: NetName=AGND Pin=R12-1
+Added Pin To Net: NetName=AGND Pin=R16-1
+Added Pin To Net: NetName=AGND Pin=U1-19
+Added Net: Name=AGND
+Added Pin To Net: NetName=AV1_IN Pin=C17-1
+Added Pin To Net: NetName=AV1_IN Pin=J1-4
+Added Pin To Net: NetName=AV1_IN Pin=R13-1
+Added Pin To Net: NetName=AV1_IN Pin=R14-2
+Added Net: Name=AV1_IN
+Added Pin To Net: NetName=AV2_IN Pin=C20-1
+Added Pin To Net: NetName=AV2_IN Pin=J1-2
+Added Pin To Net: NetName=AV2_IN Pin=R19-2
+Added Pin To Net: NetName=AV2_IN Pin=R32-1
+Added Net: Name=AV2_IN
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-30
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C16-2
+Added Pin To Net: NetName=NetC9_1 Pin=U1-29
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=C18-1
+Added Pin To Net: NetName=NetC10_1 Pin=R13-2
+Added Pin To Net: NetName=NetC10_1 Pin=R15-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U1-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=C21-1
+Added Pin To Net: NetName=NetC19_1 Pin=R19-1
+Added Pin To Net: NetName=NetC19_1 Pin=R29-2
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U1-2
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U1-27
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U1-26
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U1-25
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=XTAL1 Pin=C22-1
+Added Pin To Net: NetName=XTAL1 Pin=R46-2
+Added Pin To Net: NetName=XTAL1 Pin=U1-5
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C23-2
+Added Pin To Net: NetName=XTAL2 Pin=R46-1
+Added Pin To Net: NetName=XTAL2 Pin=U1-6
+Added Net: Name=XTAL2
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C4 2.2uF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C5 0.1uF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C6 2.2uF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C7 0.1uF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C8 1uF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C9 1uF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C10 0.1uF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C16 1uF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C17 0.1uF/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C18 0.1uF/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C19 0.1uF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C20 0.1uF/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C21 0.1uF/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C22 22pF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component C23 22pF
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component J1 HEADER1X4
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R12 0R
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R13 37.4R
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R14 37.4R
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R15 75R/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R16 10k
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R17 0R/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R18 0R
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R19 37.4R
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R24 10k
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R27 2.2k/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R28 2.2k/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R29 75R/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R32 37.4R
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R43 NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component R46 1M
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component U1 TVP5150

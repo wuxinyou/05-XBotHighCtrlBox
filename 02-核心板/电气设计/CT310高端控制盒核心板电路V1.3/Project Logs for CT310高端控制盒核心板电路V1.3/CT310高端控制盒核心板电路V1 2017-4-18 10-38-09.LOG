@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=12V Pin=J5-5
+Removed Pin From Net: NetName=12V Pin=J5-6
+Change Component Comment : Designator=R3 Old Comment=33K/NC New Comment=33K
+Change Component Comment : Designator=R135 Old Comment=NC New Comment=10K
+Change Component Comment : Designator=R131 Old Comment=NC New Comment=38K
+Added Component: Designator=R57(R0603-S)
+Added Pin To Net: NetName=12V Pin=J5-1
+Added Pin To Net: NetName=12V Pin=J5-2
+Added Pin To Net: NetName=VSYS_LCD_3.3V Pin=R57-2
+Added Pin To Net: NetName=NetJ5_5 Pin=J5-5
+Added Pin To Net: NetName=NetJ5_5 Pin=R52-2
+Added Pin To Net: NetName=NetJ5_5 Pin=R57-1
+Added Net: Name=NetJ5_5
+Added Pin To Net: NetName=NetJ5_6 Pin=J5-6
+Added Pin To Net: NetName=NetJ5_6 Pin=R51-2
+Added Net: Name=NetJ5_6
+Added Member To Class: ClassName=P07-LCD Member=Component R57 0R

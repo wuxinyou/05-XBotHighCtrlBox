@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=BAT1-2
+Removed Pin From Net: NetName=DC33V Pin=D1-1
+Removed Pin From Net: NetName=V_BKCOIN Pin=R13-1
+Removed Member From Class: ClassName=P02-DC_JACK Member=BAT1
+Removed Member From Class: ClassName=P02-DC_JACK Member=D1
+Removed Member From Class: ClassName=P02-DC_JACK Member=D3
+Removed Member From Class: ClassName=P02-DC_JACK Member=R13

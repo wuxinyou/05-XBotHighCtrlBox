@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=VDD_ETHNET_1.8 Pin=J2-15
+Removed Pin From Net: NetName=DC33V Pin=J2-17
+Removed Pin From Net: NetName=LINK&ACT Pin=J2-19
+Removed Pin From Net: NetName=SPEED Pin=J2-21
+Removed Pin From Net: NetName=RX- Pin=J2-23
+Removed Pin From Net: NetName=RX+ Pin=J2-25
+Removed Pin From Net: NetName=TX- Pin=J2-27
+Removed Pin From Net: NetName=TX+ Pin=J2-29
+Removed Pin From Net: NetName=MD_USBDP Pin=J2-33
+Removed Pin From Net: NetName=MD_USBDN Pin=J2-35
+Removed Pin From Net: NetName=UH_DP3 Pin=J2-37
+Removed Pin From Net: NetName=UH_DM3 Pin=J2-39
+Removed Pin From Net: NetName=VSYS Pin=J2-41
+Removed Pin From Net: NetName=VDD_TF Pin=J2-43
+Removed Pin From Net: NetName=XEINT7/GPX0_7 Pin=J2-45
+Removed Pin From Net: NetName=XMMC2DATA2 Pin=J2-47
+Removed Pin From Net: NetName=XMMC2DATA3 Pin=J2-49
+Removed Pin From Net: NetName=XMMC2CMD Pin=J2-51
+Removed Pin From Net: NetName=XMMC2CLK Pin=J2-53
+Removed Pin From Net: NetName=XMMC2DATA0 Pin=J2-55
+Removed Pin From Net: NetName=XMMC2DATA1 Pin=J2-57
+Removed Pin From Net: NetName=VDD1V8_EXT Pin=J2-59
+Change Component DesignItemId : Designator=J2 Old DesignItemId=HEADER 35X2 New DesignItemId=HEADER 30X2
+Change Component Footprint: Designator=J2 Old Footprint=HD2X35-2.00 New Footprint=HD2X30-2.00
+Change Component Comment : Designator=J2 Old Comment=HEADER 35X2 New Comment=HEADER 30X2
+Added Component: Designator=H1(hole2_7)
+Added Component: Designator=H2(hole2_7)
+Added Component: Designator=H3(hole2_7)
+Added Component: Designator=H4(hole2_7)
+Added Component: Designator=H9(HOLE2_7)
+Added Component: Designator=H11(HOLE2_7)
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H9-1
+Added Pin To Net: NetName=GND Pin=H10-1
+Added Pin To Net: NetName=GND Pin=H11-1
+Added Pin To Net: NetName=GND Pin=H12-1
+Added Pin To Net: NetName=GND Pin=H13-1
+Added Pin To Net: NetName=GND Pin=H14-1
+Added Pin To Net: NetName=5V_IN Pin=J2-2
+Added Pin To Net: NetName=5V_IN Pin=J2-3
+Added Pin To Net: NetName=5V_IN Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=VDD_ETHNET_1.8 Pin=J2-9
+Added Pin To Net: NetName=VDD_ETHNET_1.8 Pin=J2-10
+Added Pin To Net: NetName=DC33V Pin=J2-11
+Added Pin To Net: NetName=DC33V Pin=J2-12
+Added Pin To Net: NetName=LINK&ACT Pin=J2-13
+Added Pin To Net: NetName=LINK&ACT Pin=J2-14
+Added Pin To Net: NetName=SPEED Pin=J2-15
+Added Pin To Net: NetName=SPEED Pin=J2-16
+Added Pin To Net: NetName=RX- Pin=J2-17
+Added Pin To Net: NetName=RX- Pin=J2-18
+Added Pin To Net: NetName=RX+ Pin=J2-19
+Added Pin To Net: NetName=RX+ Pin=J2-20
+Added Pin To Net: NetName=TX- Pin=J2-21
+Added Pin To Net: NetName=TX- Pin=J2-22
+Added Pin To Net: NetName=TX+ Pin=J2-23
+Added Pin To Net: NetName=TX+ Pin=J2-24
+Added Pin To Net: NetName=MD_USBDP Pin=J2-27
+Added Pin To Net: NetName=MD_USBDP Pin=J2-28
+Added Pin To Net: NetName=MD_USBDN Pin=J2-29
+Added Pin To Net: NetName=MD_USBDN Pin=J2-30
+Added Pin To Net: NetName=UH_DP3 Pin=J2-31
+Added Pin To Net: NetName=UH_DP3 Pin=J2-32
+Added Pin To Net: NetName=UH_DM3 Pin=J2-33
+Added Pin To Net: NetName=UH_DM3 Pin=J2-34
+Added Pin To Net: NetName=VSYS Pin=J2-35
+Added Pin To Net: NetName=VSYS Pin=J2-36
+Added Pin To Net: NetName=VDD_TF Pin=J2-37
+Added Pin To Net: NetName=VDD_TF Pin=J2-38
+Added Pin To Net: NetName=XEINT7/GPX0_7 Pin=J2-39
+Added Pin To Net: NetName=XEINT7/GPX0_7 Pin=J2-40
+Added Pin To Net: NetName=XMMC2DATA2 Pin=J2-41
+Added Pin To Net: NetName=XMMC2DATA2 Pin=J2-42
+Added Pin To Net: NetName=XMMC2DATA3 Pin=J2-43
+Added Pin To Net: NetName=XMMC2DATA3 Pin=J2-44
+Added Pin To Net: NetName=XMMC2CMD Pin=J2-45
+Added Pin To Net: NetName=XMMC2CMD Pin=J2-46
+Added Pin To Net: NetName=XMMC2CLK Pin=J2-47
+Added Pin To Net: NetName=XMMC2CLK Pin=J2-48
+Added Pin To Net: NetName=XMMC2DATA0 Pin=J2-49
+Added Pin To Net: NetName=XMMC2DATA0 Pin=J2-50
+Added Pin To Net: NetName=XMMC2DATA1 Pin=J2-51
+Added Pin To Net: NetName=XMMC2DATA1 Pin=J2-52
+Added Pin To Net: NetName=VDD1V8_EXT Pin=J2-53
+Added Pin To Net: NetName=VDD1V8_EXT Pin=J2-54
+Added Pin To Net: NetName=12V Pin=J3-7
+Added Pin To Net: NetName=12V Pin=J3-8
+Added Pin To Net: NetName=12V Pin=J3-9
+Added Pin To Net: NetName=12V Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=GND Pin=J3-13
+Added Pin To Net: NetName=GND Pin=J3-14
+Added Pin To Net: NetName=STM_LCD_ONOFF Pin=J3-16
+Added Pin To Net: NetName=STM_LCD_PWM Pin=J3-18
+Added Pin To Net: NetName=RS232_TXD1 Pin=J3-24
+Added Pin To Net: NetName=RS232_RXD1 Pin=J3-26
+Added Pin To Net: NetName=RS232_TXD2 Pin=J3-28
+Added Pin To Net: NetName=RS232_RXD2 Pin=J3-30
+Added Pin To Net: NetName=GND Pin=J3-33
+Added Pin To Net: NetName=GND Pin=J3-34
+Added Pin To Net: NetName=AV1_IN Pin=J3-36
+Added Pin To Net: NetName=GND Pin=J3-37
+Added Pin To Net: NetName=GND Pin=J3-38
+Added Pin To Net: NetName=AV2_IN Pin=J3-40
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H1 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H2 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H3 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H4 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H9 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H11 TP_P0_0.8_D0

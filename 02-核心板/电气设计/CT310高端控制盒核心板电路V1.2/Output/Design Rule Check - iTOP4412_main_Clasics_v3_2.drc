@@ -1,0 +1,1046 @@
+Protel Design System Design Rule Check
+PCB File : D:\项目管理\27.高端控制盒\CT310高端控制盒电路设计\CT310高端控制盒主板电路V1.2\iTOP4412_main_Clasics_v3_2.PcbDoc
+Date     : 2017/4/10
+Time     : 15:46:46
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=8mil) (All),(All)
+   Violation between Pad U2-5(23890.039mil,24545.469mil)  TOP and 
+                     Pad U2-6(23890.039mil,24565.161mil)  TOP
+   Violation between Pad U2-7(23890.039mil,24584.839mil)  TOP and 
+                     Pad U2-6(23890.039mil,24565.161mil)  TOP
+   Violation between Pad U2-3(23769.962mil,24565.161mil)  TOP and 
+                     Pad U2-4(23769.962mil,24545.469mil)  TOP
+   Violation between Pad U2-1(23769.962mil,24604.531mil)  TOP and 
+                     Pad U2-2(23769.962mil,24584.839mil)  TOP
+   Violation between Pad U2-3(23769.962mil,24565.161mil)  TOP and 
+                     Pad U2-2(23769.962mil,24584.839mil)  TOP
+   Violation between Pad U2-8(23890.039mil,24604.531mil)  TOP and 
+                     Pad U2-7(23890.039mil,24584.839mil)  TOP
+   Violation between Pad U1-26(23236.26mil,21412.835mil)  TOP and 
+                     Pad U1-25(23204.764mil,21412.835mil)  TOP
+   Violation between Pad U1-27(23267.756mil,21412.835mil)  TOP and 
+                     Pad U1-26(23236.26mil,21412.835mil)  TOP
+   Violation between Pad U1-28(23299.252mil,21412.835mil)  TOP and 
+                     Pad U1-27(23267.756mil,21412.835mil)  TOP
+   Violation between Pad U1-29(23330.748mil,21412.835mil)  TOP and 
+                     Pad U1-28(23299.252mil,21412.835mil)  TOP
+   Violation between Pad U1-30(23362.244mil,21412.835mil)  TOP and 
+                     Pad U1-29(23330.748mil,21412.835mil)  TOP
+   Violation between Pad U1-31(23393.74mil,21412.835mil)  TOP and 
+                     Pad U1-30(23362.244mil,21412.835mil)  TOP
+   Violation between Pad U1-32(23425.236mil,21412.835mil)  TOP and 
+                     Pad U1-31(23393.74mil,21412.835mil)  TOP
+   Violation between Pad U1-18(23137.835mil,21668.74mil)  TOP and 
+                     Pad U1-17(23137.835mil,21700.236mil)  TOP
+   Violation between Pad U1-19(23137.835mil,21637.244mil)  TOP and 
+                     Pad U1-18(23137.835mil,21668.74mil)  TOP
+   Violation between Pad U1-20(23137.835mil,21605.748mil)  TOP and 
+                     Pad U1-19(23137.835mil,21637.244mil)  TOP
+   Violation between Pad U1-21(23137.835mil,21574.252mil)  TOP and 
+                     Pad U1-20(23137.835mil,21605.748mil)  TOP
+   Violation between Pad U1-22(23137.835mil,21542.756mil)  TOP and 
+                     Pad U1-21(23137.835mil,21574.252mil)  TOP
+   Violation between Pad U1-23(23137.835mil,21511.26mil)  TOP and 
+                     Pad U1-22(23137.835mil,21542.756mil)  TOP
+   Violation between Pad U1-24(23137.835mil,21479.764mil)  TOP and 
+                     Pad U1-23(23137.835mil,21511.26mil)  TOP
+   Violation between Pad U1-15(23236.26mil,21767.165mil)  TOP and 
+                     Pad U1-16(23204.764mil,21767.165mil)  TOP
+   Violation between Pad U1-14(23267.756mil,21767.165mil)  TOP and 
+                     Pad U1-15(23236.26mil,21767.165mil)  TOP
+   Violation between Pad U1-13(23299.252mil,21767.165mil)  TOP and 
+                     Pad U1-14(23267.756mil,21767.165mil)  TOP
+   Violation between Pad U1-12(23330.748mil,21767.165mil)  TOP and 
+                     Pad U1-13(23299.252mil,21767.165mil)  TOP
+   Violation between Pad U1-11(23362.244mil,21767.165mil)  TOP and 
+                     Pad U1-12(23330.748mil,21767.165mil)  TOP
+   Violation between Pad U1-10(23393.74mil,21767.165mil)  TOP and 
+                     Pad U1-11(23362.244mil,21767.165mil)  TOP
+   Violation between Pad U1-9(23425.236mil,21767.165mil)  TOP and 
+                     Pad U1-10(23393.74mil,21767.165mil)  TOP
+   Violation between Pad U1-7(23492.165mil,21668.74mil)  TOP and 
+                     Pad U1-8(23492.165mil,21700.236mil)  TOP
+   Violation between Pad U1-6(23492.165mil,21637.244mil)  TOP and 
+                     Pad U1-7(23492.165mil,21668.74mil)  TOP
+   Violation between Pad U1-5(23492.165mil,21605.748mil)  TOP and 
+                     Pad U1-6(23492.165mil,21637.244mil)  TOP
+   Violation between Pad U1-4(23492.165mil,21574.252mil)  TOP and 
+                     Pad U1-5(23492.165mil,21605.748mil)  TOP
+   Violation between Pad U1-3(23492.165mil,21542.756mil)  TOP and 
+                     Pad U1-4(23492.165mil,21574.252mil)  TOP
+   Violation between Pad U1-2(23492.165mil,21511.26mil)  TOP and 
+                     Pad U1-3(23492.165mil,21542.756mil)  TOP
+   Violation between Pad U1-1(23492.165mil,21479.764mil)  TOP and 
+                     Pad U1-2(23492.165mil,21511.26mil)  TOP
+   Violation between Pad CON7-2(21253.838mil,21422.421mil)  TOP and 
+                     Pad CON7-3(21279.429mil,21422.421mil)  TOP
+   Violation between Pad CON7-4(21305.02mil,21422.421mil)  TOP and 
+                     Pad CON7-3(21279.429mil,21422.421mil)  TOP
+   Violation between Pad CON7-1(21228.248mil,21422.421mil)  TOP and 
+                     Pad CON7-2(21253.838mil,21422.421mil)  TOP
+   Violation between Pad CON7-5(21330.61mil,21422.421mil)  TOP and 
+                     Pad CON7-4(21305.02mil,21422.421mil)  TOP
+   Violation between Pad CON7-7(21376.87mil,21422.421mil)  Multi-Layer and 
+                     Pad CON7-5(21330.61mil,21422.421mil)  TOP
+   Violation between Pad CON7-6(21181.988mil,21422.421mil)  Multi-Layer and 
+                     Pad CON7-1(21228.248mil,21422.421mil)  TOP
+   Violation between Pad U12-33(23349.862mil,25110.516mil)  TOP and 
+                     Pad U12-34(23330.177mil,25110.516mil)  TOP
+   Violation between Pad U12-35(23310.492mil,25110.516mil)  TOP and 
+                     Pad U12-34(23330.177mil,25110.516mil)  TOP
+   Violation between Pad U12-10(23074.271mil,24805.398mil)  TOP and 
+                     Pad U12-9(23054.586mil,24805.398mil)  TOP
+   Violation between Pad U12-8(23034.901mil,24805.398mil)  TOP and 
+                     Pad U12-9(23054.586mil,24805.398mil)  TOP
+   Violation between Pad U12-43(23153.011mil,25110.516mil)  TOP and 
+                     Pad U12-44(23133.326mil,25110.516mil)  TOP
+   Violation between Pad U12-45(23113.641mil,25110.516mil)  TOP and 
+                     Pad U12-44(23133.326mil,25110.516mil)  TOP
+   Violation between Pad U12-2(22916.791mil,24805.398mil)  TOP and 
+                     Pad U12-1(22897.106mil,24805.398mil)  TOP
+   Violation between Pad U12-25(23369.547mil,24805.398mil)  TOP and 
+                     Pad U12-26(23389.232mil,24805.398mil)  TOP
+   Violation between Pad U12-27(23408.917mil,24805.398mil)  TOP and 
+                     Pad U12-26(23389.232mil,24805.398mil)  TOP
+   Violation between Pad U12-32(23369.547mil,25110.516mil)  TOP and 
+                     Pad U12-31(23389.232mil,25110.516mil)  TOP
+   Violation between Pad U12-30(23408.917mil,25110.516mil)  TOP and 
+                     Pad U12-31(23389.232mil,25110.516mil)  TOP
+   Violation between Pad U12-29(23428.602mil,25110.516mil)  TOP and 
+                     Pad U12-30(23408.917mil,25110.516mil)  TOP
+   Violation between Pad U12-27(23408.917mil,24805.398mil)  TOP and 
+                     Pad U12-28(23428.602mil,24805.398mil)  TOP
+   Violation between Pad U12-33(23349.862mil,25110.516mil)  TOP and 
+                     Pad U12-32(23369.547mil,25110.516mil)  TOP
+   Violation between Pad U12-11(23093.956mil,24805.398mil)  TOP and 
+                     Pad U12-10(23074.271mil,24805.398mil)  TOP
+   Violation between Pad U12-6(22995.531mil,24805.398mil)  TOP and 
+                     Pad U12-5(22975.846mil,24805.398mil)  TOP
+   Violation between Pad U12-4(22956.161mil,24805.398mil)  TOP and 
+                     Pad U12-5(22975.846mil,24805.398mil)  TOP
+   Violation between Pad U12-3(22936.476mil,24805.398mil)  TOP and 
+                     Pad U12-2(22916.791mil,24805.398mil)  TOP
+   Violation between Pad U12-15(23172.697mil,24805.398mil)  TOP and 
+                     Pad U12-16(23192.382mil,24805.398mil)  TOP
+   Violation between Pad U12-17(23212.067mil,24805.398mil)  TOP and 
+                     Pad U12-16(23192.382mil,24805.398mil)  TOP
+   Violation between Pad U12-14(23153.011mil,24805.398mil)  TOP and 
+                     Pad U12-13(23133.326mil,24805.398mil)  TOP
+   Violation between Pad U12-12(23113.641mil,24805.398mil)  TOP and 
+                     Pad U12-13(23133.326mil,24805.398mil)  TOP
+   Violation between Pad U12-17(23212.067mil,24805.398mil)  TOP and 
+                     Pad U12-18(23231.752mil,24805.398mil)  TOP
+   Violation between Pad U12-19(23251.437mil,24805.398mil)  TOP and 
+                     Pad U12-18(23231.752mil,24805.398mil)  TOP
+   Violation between Pad U12-22(23310.492mil,24805.398mil)  TOP and 
+                     Pad U12-21(23290.807mil,24805.398mil)  TOP
+   Violation between Pad U12-20(23271.122mil,24805.398mil)  TOP and 
+                     Pad U12-21(23290.807mil,24805.398mil)  TOP
+   Violation between Pad U12-24(23349.862mil,24805.398mil)  TOP and 
+                     Pad U12-25(23369.547mil,24805.398mil)  TOP
+   Violation between Pad U12-35(23310.492mil,25110.516mil)  TOP and 
+                     Pad U12-36(23290.807mil,25110.516mil)  TOP
+   Violation between Pad U12-37(23271.122mil,25110.516mil)  TOP and 
+                     Pad U12-36(23290.807mil,25110.516mil)  TOP
+   Violation between Pad U12-42(23172.697mil,25110.516mil)  TOP and 
+                     Pad U12-43(23153.011mil,25110.516mil)  TOP
+   Violation between Pad U12-54(22936.476mil,25110.516mil)  TOP and 
+                     Pad U12-53(22956.161mil,25110.516mil)  TOP
+   Violation between Pad U12-52(22975.846mil,25110.516mil)  TOP and 
+                     Pad U12-53(22956.161mil,25110.516mil)  TOP
+   Violation between Pad U12-50(23015.216mil,25110.516mil)  TOP and 
+                     Pad U12-49(23034.901mil,25110.516mil)  TOP
+   Violation between Pad U12-48(23054.586mil,25110.516mil)  TOP and 
+                     Pad U12-49(23034.901mil,25110.516mil)  TOP
+   Violation between Pad U12-51(22995.531mil,25110.516mil)  TOP and 
+                     Pad U12-50(23015.216mil,25110.516mil)  TOP
+   Violation between Pad U12-7(23015.216mil,24805.398mil)  TOP and 
+                     Pad U12-8(23034.901mil,24805.398mil)  TOP
+   Violation between Pad U12-56(22897.106mil,25110.516mil)  TOP and 
+                     Pad U12-55(22916.791mil,25110.516mil)  TOP
+   Violation between Pad U12-54(22936.476mil,25110.516mil)  TOP and 
+                     Pad U12-55(22916.791mil,25110.516mil)  TOP
+   Violation between Pad U12-7(23015.216mil,24805.398mil)  TOP and 
+                     Pad U12-6(22995.531mil,24805.398mil)  TOP
+   Violation between Pad U12-4(22956.161mil,24805.398mil)  TOP and 
+                     Pad U12-3(22936.476mil,24805.398mil)  TOP
+   Violation between Pad U12-52(22975.846mil,25110.516mil)  TOP and 
+                     Pad U12-51(22995.531mil,25110.516mil)  TOP
+   Violation between Pad U12-11(23093.956mil,24805.398mil)  TOP and 
+                     Pad U12-12(23113.641mil,24805.398mil)  TOP
+   Violation between Pad U12-15(23172.697mil,24805.398mil)  TOP and 
+                     Pad U12-14(23153.011mil,24805.398mil)  TOP
+   Violation between Pad U12-20(23271.122mil,24805.398mil)  TOP and 
+                     Pad U12-19(23251.437mil,24805.398mil)  TOP
+   Violation between Pad U12-23(23330.177mil,24805.398mil)  TOP and 
+                     Pad U12-22(23310.492mil,24805.398mil)  TOP
+   Violation between Pad U12-24(23349.862mil,24805.398mil)  TOP and 
+                     Pad U12-23(23330.177mil,24805.398mil)  TOP
+   Violation between Pad U12-41(23192.382mil,25110.516mil)  TOP and 
+                     Pad U12-42(23172.697mil,25110.516mil)  TOP
+   Violation between Pad U12-47(23074.271mil,25110.516mil)  TOP and 
+                     Pad U12-46(23093.956mil,25110.516mil)  TOP
+   Violation between Pad U12-45(23113.641mil,25110.516mil)  TOP and 
+                     Pad U12-46(23093.956mil,25110.516mil)  TOP
+   Violation between Pad U12-38(23251.437mil,25110.516mil)  TOP and 
+                     Pad U12-39(23231.752mil,25110.516mil)  TOP
+   Violation between Pad U12-40(23212.067mil,25110.516mil)  TOP and 
+                     Pad U12-39(23231.752mil,25110.516mil)  TOP
+   Violation between Pad U12-41(23192.382mil,25110.516mil)  TOP and 
+                     Pad U12-40(23212.067mil,25110.516mil)  TOP
+   Violation between Pad U12-48(23054.586mil,25110.516mil)  TOP and 
+                     Pad U12-47(23074.271mil,25110.516mil)  TOP
+   Violation between Pad U12-38(23251.437mil,25110.516mil)  TOP and 
+                     Pad U12-37(23271.122mil,25110.516mil)  TOP
+   Violation between Pad U8-11(22106.437mil,21528.839mil)  TOP and 
+                     Pad U8-12(22126.122mil,21528.839mil)  TOP
+   Violation between Pad U8-1(21909.586mil,21528.839mil)  TOP and 
+                     Pad U8-2(21929.271mil,21528.839mil)  TOP
+   Violation between Pad U8-3(21948.956mil,21528.839mil)  TOP and 
+                     Pad U8-2(21929.271mil,21528.839mil)  TOP
+   Violation between Pad U8-14(22159.586mil,21581.988mil)  TOP and 
+                     Pad U8-13(22159.586mil,21562.303mil)  TOP
+   Violation between Pad U8-4(21968.641mil,21528.839mil)  TOP and 
+                     Pad U8-5(21988.326mil,21528.839mil)  TOP
+   Violation between Pad U8-6(22008.011mil,21528.839mil)  TOP and 
+                     Pad U8-5(21988.326mil,21528.839mil)  TOP
+   Violation between Pad U8-32(21988.326mil,21812.303mil)  TOP and 
+                     Pad U8-31(22008.011mil,21812.303mil)  TOP
+   Violation between Pad U8-30(22027.697mil,21812.303mil)  TOP and 
+                     Pad U8-31(22008.011mil,21812.303mil)  TOP
+   Violation between Pad U8-3(21948.956mil,21528.839mil)  TOP and 
+                     Pad U8-4(21968.641mil,21528.839mil)  TOP
+   Violation between Pad U8-29(22047.382mil,21812.303mil)  TOP and 
+                     Pad U8-28(22067.067mil,21812.303mil)  TOP
+   Violation between Pad U8-27(22086.752mil,21812.303mil)  TOP and 
+                     Pad U8-28(22067.067mil,21812.303mil)  TOP
+   Violation between Pad U8-48(21876.122mil,21562.303mil)  TOP and 
+                     Pad U8-47(21876.122mil,21581.988mil)  TOP
+   Violation between Pad U8-46(21876.122mil,21601.673mil)  TOP and 
+                     Pad U8-47(21876.122mil,21581.988mil)  TOP
+   Violation between Pad U8-21(22159.586mil,21719.784mil)  TOP and 
+                     Pad U8-20(22159.586mil,21700.099mil)  TOP
+   Violation between Pad U8-19(22159.586mil,21680.414mil)  TOP and 
+                     Pad U8-20(22159.586mil,21700.099mil)  TOP
+   Violation between Pad U8-29(22047.382mil,21812.303mil)  TOP and 
+                     Pad U8-30(22027.697mil,21812.303mil)  TOP
+   Violation between Pad U8-8(22047.382mil,21528.839mil)  TOP and 
+                     Pad U8-9(22067.067mil,21528.839mil)  TOP
+   Violation between Pad U8-10(22086.752mil,21528.839mil)  TOP and 
+                     Pad U8-9(22067.067mil,21528.839mil)  TOP
+   Violation between Pad U8-22(22159.586mil,21739.469mil)  TOP and 
+                     Pad U8-21(22159.586mil,21719.784mil)  TOP
+   Violation between Pad U8-40(21876.122mil,21719.784mil)  TOP and 
+                     Pad U8-39(21876.122mil,21739.469mil)  TOP
+   Violation between Pad U8-38(21876.122mil,21759.154mil)  TOP and 
+                     Pad U8-39(21876.122mil,21739.469mil)  TOP
+   Violation between Pad U8-7(22027.697mil,21528.839mil)  TOP and 
+                     Pad U8-8(22047.382mil,21528.839mil)  TOP
+   Violation between Pad U8-33(21968.641mil,21812.303mil)  TOP and 
+                     Pad U8-34(21948.956mil,21812.303mil)  TOP
+   Violation between Pad U8-35(21929.271mil,21812.303mil)  TOP and 
+                     Pad U8-34(21948.956mil,21812.303mil)  TOP
+   Violation between Pad U8-11(22106.437mil,21528.839mil)  TOP and 
+                     Pad U8-10(22086.752mil,21528.839mil)  TOP
+   Violation between Pad U8-43(21876.122mil,21660.728mil)  TOP and 
+                     Pad U8-44(21876.122mil,21641.043mil)  TOP
+   Violation between Pad U8-45(21876.122mil,21621.358mil)  TOP and 
+                     Pad U8-44(21876.122mil,21641.043mil)  TOP
+   Violation between Pad U8-23(22159.586mil,21759.154mil)  TOP and 
+                     Pad U8-22(22159.586mil,21739.469mil)  TOP
+   Violation between Pad U8-33(21968.641mil,21812.303mil)  TOP and 
+                     Pad U8-32(21988.326mil,21812.303mil)  TOP
+   Violation between Pad U8-45(21876.122mil,21621.358mil)  TOP and 
+                     Pad U8-46(21876.122mil,21601.673mil)  TOP
+   Violation between Pad U8-43(21876.122mil,21660.728mil)  TOP and 
+                     Pad U8-42(21876.122mil,21680.414mil)  TOP
+   Violation between Pad U8-41(21876.122mil,21700.099mil)  TOP and 
+                     Pad U8-42(21876.122mil,21680.414mil)  TOP
+   Violation between Pad U8-38(21876.122mil,21759.154mil)  TOP and 
+                     Pad U8-37(21876.122mil,21778.839mil)  TOP
+   Violation between Pad U8-23(22159.586mil,21759.154mil)  TOP and 
+                     Pad U8-24(22159.586mil,21778.839mil)  TOP
+   Violation between Pad U8-41(21876.122mil,21700.099mil)  TOP and 
+                     Pad U8-40(21876.122mil,21719.784mil)  TOP
+   Violation between Pad U8-6(22008.011mil,21528.839mil)  TOP and 
+                     Pad U8-7(22027.697mil,21528.839mil)  TOP
+   Violation between Pad U8-17(22159.586mil,21641.043mil)  TOP and 
+                     Pad U8-16(22159.586mil,21621.358mil)  TOP
+   Violation between Pad U8-15(22159.586mil,21601.673mil)  TOP and 
+                     Pad U8-16(22159.586mil,21621.358mil)  TOP
+   Violation between Pad U8-35(21929.271mil,21812.303mil)  TOP and 
+                     Pad U8-36(21909.586mil,21812.303mil)  TOP
+   Violation between Pad U8-26(22106.437mil,21812.303mil)  TOP and 
+                     Pad U8-27(22086.752mil,21812.303mil)  TOP
+   Violation between Pad U8-26(22106.437mil,21812.303mil)  TOP and 
+                     Pad U8-25(22126.122mil,21812.303mil)  TOP
+   Violation between Pad U8-18(22159.586mil,21660.728mil)  TOP and 
+                     Pad U8-17(22159.586mil,21641.043mil)  TOP
+   Violation between Pad U8-15(22159.586mil,21601.673mil)  TOP and 
+                     Pad U8-14(22159.586mil,21581.988mil)  TOP
+   Violation between Pad U8-18(22159.586mil,21660.728mil)  TOP and 
+                     Pad U8-19(22159.586mil,21680.414mil)  TOP
+   Violation between Pad CON13-31(22765.409mil,22397.811mil)  TOP and 
+                     Pad CON13-29(22785.102mil,22397.811mil)  TOP
+   Violation between Pad CON13-27(22804.779mil,22397.811mil)  TOP and 
+                     Pad CON13-29(22785.102mil,22397.811mil)  TOP
+   Violation between Pad CON13-40(22686.669mil,22515.929mil)  TOP and 
+                     Pad CON13-42(22666.991mil,22515.929mil)  TOP
+   Violation between Pad CON13-44(22647.299mil,22515.929mil)  TOP and 
+                     Pad CON13-42(22666.991mil,22515.929mil)  TOP
+   Violation between Pad CON13-38(22706.361mil,22515.929mil)  TOP and 
+                     Pad CON13-36(22726.039mil,22515.929mil)  TOP
+   Violation between Pad CON13-34(22745.732mil,22515.929mil)  TOP and 
+                     Pad CON13-36(22726.039mil,22515.929mil)  TOP
+   Violation between Pad CON13-37(22706.361mil,22397.811mil)  TOP and 
+                     Pad CON13-35(22726.039mil,22397.811mil)  TOP
+   Violation between Pad CON13-33(22745.732mil,22397.811mil)  TOP and 
+                     Pad CON13-35(22726.039mil,22397.811mil)  TOP
+   Violation between Pad CON13-33(22745.732mil,22397.811mil)  TOP and 
+                     Pad CON13-31(22765.409mil,22397.811mil)  TOP
+   Violation between Pad CON13-38(22706.361mil,22515.929mil)  TOP and 
+                     Pad CON13-40(22686.669mil,22515.929mil)  TOP
+   Violation between Pad CON13-25(22824.472mil,22397.811mil)  TOP and 
+                     Pad CON13-27(22804.779mil,22397.811mil)  TOP
+   Violation between Pad CON13-39(22686.669mil,22397.811mil)  TOP and 
+                     Pad CON13-37(22706.361mil,22397.811mil)  TOP
+   Violation between Pad CON13-4(23040.999mil,22515.929mil)  TOP and 
+                     Pad CON13-2(23060.688mil,22515.929mil)  TOP
+   Violation between Pad CON13-3(23040.999mil,22397.811mil)  TOP and 
+                     Pad CON13-1(23060.688mil,22397.811mil)  TOP
+   Violation between Pad CON13-26(22824.472mil,22515.929mil)  TOP and 
+                     Pad CON13-24(22844.149mil,22515.929mil)  TOP
+   Violation between Pad CON13-22(22863.842mil,22515.929mil)  TOP and 
+                     Pad CON13-24(22844.149mil,22515.929mil)  TOP
+   Violation between Pad CON13-20(22883.519mil,22515.929mil)  TOP and 
+                     Pad CON13-22(22863.842mil,22515.929mil)  TOP
+   Violation between Pad CON13-14(22942.578mil,22515.929mil)  TOP and 
+                     Pad CON13-16(22922.889mil,22515.929mil)  TOP
+   Violation between Pad CON13-18(22903.212mil,22515.929mil)  TOP and 
+                     Pad CON13-16(22922.889mil,22515.929mil)  TOP
+   Violation between Pad CON13-32(22765.409mil,22515.929mil)  TOP and 
+                     Pad CON13-30(22785.102mil,22515.929mil)  TOP
+   Violation between Pad CON13-28(22804.779mil,22515.929mil)  TOP and 
+                     Pad CON13-30(22785.102mil,22515.929mil)  TOP
+   Violation between Pad CON13-54(22548.881mil,22515.929mil)  TOP and 
+                     Pad CON13-52(22568.558mil,22515.929mil)  TOP
+   Violation between Pad CON13-50(22588.251mil,22515.929mil)  TOP and 
+                     Pad CON13-52(22568.558mil,22515.929mil)  TOP
+   Violation between Pad CON13-48(22607.928mil,22515.929mil)  TOP and 
+                     Pad CON13-46(22627.621mil,22515.929mil)  TOP
+   Violation between Pad CON13-44(22647.299mil,22515.929mil)  TOP and 
+                     Pad CON13-46(22627.621mil,22515.929mil)  TOP
+   Violation between Pad CON13-74(22352.031mil,22515.929mil)  TOP and 
+                     Pad CON13-72(22371.712mil,22515.929mil)  TOP
+   Violation between Pad CON13-70(22391.401mil,22515.929mil)  TOP and 
+                     Pad CON13-72(22371.712mil,22515.929mil)  TOP
+   Violation between Pad CON13-50(22588.251mil,22515.929mil)  TOP and 
+                     Pad CON13-48(22607.928mil,22515.929mil)  TOP
+   Violation between Pad CON13-45(22627.621mil,22397.811mil)  TOP and 
+                     Pad CON13-43(22647.299mil,22397.811mil)  TOP
+   Violation between Pad CON13-41(22666.991mil,22397.811mil)  TOP and 
+                     Pad CON13-43(22647.299mil,22397.811mil)  TOP
+   Violation between Pad CON13-66(22430.771mil,22515.929mil)  TOP and 
+                     Pad CON13-64(22450.448mil,22515.929mil)  TOP
+   Violation between Pad CON13-62(22470.141mil,22515.929mil)  TOP and 
+                     Pad CON13-64(22450.448mil,22515.929mil)  TOP
+   Violation between Pad CON13-60(22489.818mil,22515.929mil)  TOP and 
+                     Pad CON13-62(22470.141mil,22515.929mil)  TOP
+   Violation between Pad CON13-54(22548.881mil,22515.929mil)  TOP and 
+                     Pad CON13-56(22529.188mil,22515.929mil)  TOP
+   Violation between Pad CON13-58(22509.511mil,22515.929mil)  TOP and 
+                     Pad CON13-56(22529.188mil,22515.929mil)  TOP
+   Violation between Pad CON13-58(22509.511mil,22515.929mil)  TOP and 
+                     Pad CON13-60(22489.818mil,22515.929mil)  TOP
+   Violation between Pad CON13-45(22627.621mil,22397.811mil)  TOP and 
+                     Pad CON13-47(22607.928mil,22397.811mil)  TOP
+   Violation between Pad CON13-49(22588.251mil,22397.811mil)  TOP and 
+                     Pad CON13-47(22607.928mil,22397.811mil)  TOP
+   Violation between Pad CON13-63(22450.448mil,22397.811mil)  TOP and 
+                     Pad CON13-61(22470.141mil,22397.811mil)  TOP
+   Violation between Pad CON13-59(22489.818mil,22397.811mil)  TOP and 
+                     Pad CON13-61(22470.141mil,22397.811mil)  TOP
+   Violation between Pad CON13-57(22509.511mil,22397.811mil)  TOP and 
+                     Pad CON13-59(22489.818mil,22397.811mil)  TOP
+   Violation between Pad CON13-55(22529.188mil,22397.811mil)  TOP and 
+                     Pad CON13-57(22509.511mil,22397.811mil)  TOP
+   Violation between Pad CON13-26(22824.472mil,22515.929mil)  TOP and 
+                     Pad CON13-28(22804.779mil,22515.929mil)  TOP
+   Violation between Pad CON13-53(22548.881mil,22397.811mil)  TOP and 
+                     Pad CON13-55(22529.188mil,22397.811mil)  TOP
+   Violation between Pad CON13-66(22430.771mil,22515.929mil)  TOP and 
+                     Pad CON13-68(22411.082mil,22515.929mil)  TOP
+   Violation between Pad CON13-70(22391.401mil,22515.929mil)  TOP and 
+                     Pad CON13-68(22411.082mil,22515.929mil)  TOP
+   Violation between Pad CON13-71(22371.712mil,22397.811mil)  TOP and 
+                     Pad CON13-73(22352.031mil,22397.811mil)  TOP
+   Violation between Pad CON13-75(22332.342mil,22397.811mil)  TOP and 
+                     Pad CON13-73(22352.031mil,22397.811mil)  TOP
+   Violation between Pad CON13-13(22942.578mil,22397.811mil)  TOP and 
+                     Pad CON13-11(22962.259mil,22397.811mil)  TOP
+   Violation between Pad CON13-9(22981.948mil,22397.811mil)  TOP and 
+                     Pad CON13-11(22962.259mil,22397.811mil)  TOP
+   Violation between Pad CON13-8(23001.629mil,22515.929mil)  TOP and 
+                     Pad CON13-10(22981.948mil,22515.929mil)  TOP
+   Violation between Pad CON13-12(22962.259mil,22515.929mil)  TOP and 
+                     Pad CON13-10(22981.948mil,22515.929mil)  TOP
+   Violation between Pad CON13-7(23001.629mil,22397.811mil)  TOP and 
+                     Pad CON13-9(22981.948mil,22397.811mil)  TOP
+   Violation between Pad CON13-15(22922.889mil,22397.811mil)  TOP and 
+                     Pad CON13-13(22942.578mil,22397.811mil)  TOP
+   Violation between Pad CON13-17(22903.212mil,22397.811mil)  TOP and 
+                     Pad CON13-15(22922.889mil,22397.811mil)  TOP
+   Violation between Pad CON13-19(22883.519mil,22397.811mil)  TOP and 
+                     Pad CON13-17(22903.212mil,22397.811mil)  TOP
+   Violation between Pad CON13-20(22883.519mil,22515.929mil)  TOP and 
+                     Pad CON13-18(22903.212mil,22515.929mil)  TOP
+   Violation between Pad CON13-12(22962.259mil,22515.929mil)  TOP and 
+                     Pad CON13-14(22942.578mil,22515.929mil)  TOP
+   Violation between Pad CON13-6(23021.318mil,22515.929mil)  TOP and 
+                     Pad CON13-8(23001.629mil,22515.929mil)  TOP
+   Violation between Pad CON13-5(23021.318mil,22397.811mil)  TOP and 
+                     Pad CON13-7(23001.629mil,22397.811mil)  TOP
+   Violation between Pad CON13-78(22312.661mil,22515.929mil)  TOP and 
+                     Pad CON13-80(22292.972mil,22515.929mil)  TOP
+   Violation between Pad CON13-5(23021.318mil,22397.811mil)  TOP and 
+                     Pad CON13-3(23040.999mil,22397.811mil)  TOP
+   Violation between Pad CON13-6(23021.318mil,22515.929mil)  TOP and 
+                     Pad CON13-4(23040.999mil,22515.929mil)  TOP
+   Violation between Pad CON13-23(22844.149mil,22397.811mil)  TOP and 
+                     Pad CON13-25(22824.472mil,22397.811mil)  TOP
+   Violation between Pad CON13-21(22863.842mil,22397.811mil)  TOP and 
+                     Pad CON13-23(22844.149mil,22397.811mil)  TOP
+   Violation between Pad CON13-76(22332.342mil,22515.929mil)  TOP and 
+                     Pad CON13-78(22312.661mil,22515.929mil)  TOP
+   Violation between Pad CON13-74(22352.031mil,22515.929mil)  TOP and 
+                     Pad CON13-76(22332.342mil,22515.929mil)  TOP
+   Violation between Pad CON13-79(22292.972mil,22397.811mil)  TOP and 
+                     Pad CON13-77(22312.661mil,22397.811mil)  TOP
+   Violation between Pad CON13-75(22332.342mil,22397.811mil)  TOP and 
+                     Pad CON13-77(22312.661mil,22397.811mil)  TOP
+   Violation between Pad CON13-65(22430.771mil,22397.811mil)  TOP and 
+                     Pad CON13-63(22450.448mil,22397.811mil)  TOP
+   Violation between Pad CON13-51(22568.558mil,22397.811mil)  TOP and 
+                     Pad CON13-53(22548.881mil,22397.811mil)  TOP
+   Violation between Pad CON13-34(22745.732mil,22515.929mil)  TOP and 
+                     Pad CON13-32(22765.409mil,22515.929mil)  TOP
+   Violation between Pad CON13-21(22863.842mil,22397.811mil)  TOP and 
+                     Pad CON13-19(22883.519mil,22397.811mil)  TOP
+   Violation between Pad CON13-51(22568.558mil,22397.811mil)  TOP and 
+                     Pad CON13-49(22588.251mil,22397.811mil)  TOP
+   Violation between Pad CON13-39(22686.669mil,22397.811mil)  TOP and 
+                     Pad CON13-41(22666.991mil,22397.811mil)  TOP
+   Violation between Pad CON13-65(22430.771mil,22397.811mil)  TOP and 
+                     Pad CON13-67(22411.082mil,22397.811mil)  TOP
+   Violation between Pad CON13-69(22391.401mil,22397.811mil)  TOP and 
+                     Pad CON13-67(22411.082mil,22397.811mil)  TOP
+   Violation between Pad CON13-69(22391.401mil,22397.811mil)  TOP and 
+                     Pad CON13-71(22371.712mil,22397.811mil)  TOP
+   Violation between Pad CON12-73(22352.031mil,24019.858mil)  TOP and 
+                     Pad CON12-75(22332.342mil,24019.858mil)  TOP
+   Violation between Pad CON12-77(22312.661mil,24019.858mil)  TOP and 
+                     Pad CON12-75(22332.342mil,24019.858mil)  TOP
+   Violation between Pad CON12-74(22352.031mil,24137.976mil)  TOP and 
+                     Pad CON12-76(22332.342mil,24137.976mil)  TOP
+   Violation between Pad CON12-78(22312.661mil,24137.976mil)  TOP and 
+                     Pad CON12-76(22332.342mil,24137.976mil)  TOP
+   Violation between Pad CON12-71(22371.712mil,24019.858mil)  TOP and 
+                     Pad CON12-69(22391.401mil,24019.858mil)  TOP
+   Violation between Pad CON12-67(22411.082mil,24019.858mil)  TOP and 
+                     Pad CON12-69(22391.401mil,24019.858mil)  TOP
+   Violation between Pad CON12-13(22942.578mil,24019.858mil)  TOP and 
+                     Pad CON12-11(22962.259mil,24019.858mil)  TOP
+   Violation between Pad CON12-9(22981.948mil,24019.858mil)  TOP and 
+                     Pad CON12-11(22962.259mil,24019.858mil)  TOP
+   Violation between Pad CON12-15(22922.889mil,24019.858mil)  TOP and 
+                     Pad CON12-13(22942.578mil,24019.858mil)  TOP
+   Violation between Pad CON12-73(22352.031mil,24019.858mil)  TOP and 
+                     Pad CON12-71(22371.712mil,24019.858mil)  TOP
+   Violation between Via (22362.854mil,24075.571mil) TOP to BOTTOM and 
+                     Pad CON12-71(22371.712mil,24019.858mil)  TOP
+   Violation between Via (22362.854mil,24075.571mil) TOP to BOTTOM and 
+                     Pad CON12-73(22352.031mil,24019.858mil)  TOP
+   Violation between Pad CON12-66(22430.771mil,24137.976mil)  TOP and 
+                     Pad CON12-64(22450.448mil,24137.976mil)  TOP
+   Violation between Pad CON12-62(22470.141mil,24137.976mil)  TOP and 
+                     Pad CON12-64(22450.448mil,24137.976mil)  TOP
+   Violation between Pad CON12-67(22411.082mil,24019.858mil)  TOP and 
+                     Pad CON12-65(22430.771mil,24019.858mil)  TOP
+   Violation between Pad CON12-63(22450.448mil,24019.858mil)  TOP and 
+                     Pad CON12-65(22430.771mil,24019.858mil)  TOP
+   Violation between Pad CON12-60(22489.818mil,24137.976mil)  TOP and 
+                     Pad CON12-62(22470.141mil,24137.976mil)  TOP
+   Violation between Pad CON12-56(22529.188mil,24137.976mil)  TOP and 
+                     Pad CON12-58(22509.511mil,24137.976mil)  TOP
+   Violation between Pad CON12-60(22489.818mil,24137.976mil)  TOP and 
+                     Pad CON12-58(22509.511mil,24137.976mil)  TOP
+   Violation between Pad CON12-61(22470.141mil,24019.858mil)  TOP and 
+                     Pad CON12-63(22450.448mil,24019.858mil)  TOP
+   Violation between Pad CON12-37(22706.361mil,24019.858mil)  TOP and 
+                     Pad CON12-39(22686.669mil,24019.858mil)  TOP
+   Violation between Pad CON12-41(22666.991mil,24019.858mil)  TOP and 
+                     Pad CON12-39(22686.669mil,24019.858mil)  TOP
+   Violation between Pad CON12-40(22686.669mil,24137.976mil)  TOP and 
+                     Pad CON12-38(22706.361mil,24137.976mil)  TOP
+   Violation between Pad CON12-36(22726.039mil,24137.976mil)  TOP and 
+                     Pad CON12-38(22706.361mil,24137.976mil)  TOP
+   Violation between Pad CON12-50(22588.251mil,24137.976mil)  TOP and 
+                     Pad CON12-48(22607.928mil,24137.976mil)  TOP
+   Violation between Pad CON12-46(22627.621mil,24137.976mil)  TOP and 
+                     Pad CON12-48(22607.928mil,24137.976mil)  TOP
+   Violation between Pad CON12-5(23021.318mil,24019.858mil)  TOP and 
+                     Pad CON12-3(23040.999mil,24019.858mil)  TOP
+   Violation between Pad CON12-1(23060.688mil,24019.858mil)  TOP and 
+                     Pad CON12-3(23040.999mil,24019.858mil)  TOP
+   Violation between Pad CON12-7(23001.629mil,24019.858mil)  TOP and 
+                     Pad CON12-5(23021.318mil,24019.858mil)  TOP
+   Violation between Pad CON12-21(22863.842mil,24019.858mil)  TOP and 
+                     Pad CON12-19(22883.519mil,24019.858mil)  TOP
+   Violation between Pad CON12-17(22903.212mil,24019.858mil)  TOP and 
+                     Pad CON12-19(22883.519mil,24019.858mil)  TOP
+   Violation between Pad CON12-68(22411.082mil,24137.976mil)  TOP and 
+                     Pad CON12-66(22430.771mil,24137.976mil)  TOP
+   Violation between Pad CON12-23(22844.149mil,24019.858mil)  TOP and 
+                     Pad CON12-21(22863.842mil,24019.858mil)  TOP
+   Violation between Pad CON12-22(22863.842mil,24137.976mil)  TOP and 
+                     Pad CON12-20(22883.519mil,24137.976mil)  TOP
+   Violation between Pad CON12-18(22903.212mil,24137.976mil)  TOP and 
+                     Pad CON12-20(22883.519mil,24137.976mil)  TOP
+   Violation between Pad CON12-16(22922.889mil,24137.976mil)  TOP and 
+                     Pad CON12-18(22903.212mil,24137.976mil)  TOP
+   Violation between Pad CON12-44(22647.299mil,24137.976mil)  TOP and 
+                     Pad CON12-46(22627.621mil,24137.976mil)  TOP
+   Violation between Pad CON12-7(23001.629mil,24019.858mil)  TOP and 
+                     Pad CON12-9(22981.948mil,24019.858mil)  TOP
+   Violation between Pad CON12-10(22981.948mil,24137.976mil)  TOP and 
+                     Pad CON12-8(23001.629mil,24137.976mil)  TOP
+   Violation between Pad CON12-6(23021.318mil,24137.976mil)  TOP and 
+                     Pad CON12-8(23001.629mil,24137.976mil)  TOP
+   Violation between Pad CON12-4(23040.999mil,24137.976mil)  TOP and 
+                     Pad CON12-6(23021.318mil,24137.976mil)  TOP
+   Violation between Pad CON12-61(22470.141mil,24019.858mil)  TOP and 
+                     Pad CON12-59(22489.818mil,24019.858mil)  TOP
+   Violation between Pad CON12-57(22509.511mil,24019.858mil)  TOP and 
+                     Pad CON12-59(22489.818mil,24019.858mil)  TOP
+   Violation between Pad CON12-2(23060.688mil,24137.976mil)  TOP and 
+                     Pad CON12-4(23040.999mil,24137.976mil)  TOP
+   Violation between Pad CON12-47(22607.928mil,24019.858mil)  TOP and 
+                     Pad CON12-49(22588.251mil,24019.858mil)  TOP
+   Violation between Pad CON12-51(22568.558mil,24019.858mil)  TOP and 
+                     Pad CON12-49(22588.251mil,24019.858mil)  TOP
+   Violation between Pad CON12-14(22942.578mil,24137.976mil)  TOP and 
+                     Pad CON12-12(22962.259mil,24137.976mil)  TOP
+   Violation between Pad CON12-10(22981.948mil,24137.976mil)  TOP and 
+                     Pad CON12-12(22962.259mil,24137.976mil)  TOP
+   Violation between Pad CON12-54(22548.881mil,24137.976mil)  TOP and 
+                     Pad CON12-56(22529.188mil,24137.976mil)  TOP
+   Violation between Pad CON12-52(22568.558mil,24137.976mil)  TOP and 
+                     Pad CON12-54(22548.881mil,24137.976mil)  TOP
+   Violation between Pad CON12-50(22588.251mil,24137.976mil)  TOP and 
+                     Pad CON12-52(22568.558mil,24137.976mil)  TOP
+   Violation between Pad CON12-53(22548.881mil,24019.858mil)  TOP and 
+                     Pad CON12-55(22529.188mil,24019.858mil)  TOP
+   Violation between Pad CON12-57(22509.511mil,24019.858mil)  TOP and 
+                     Pad CON12-55(22529.188mil,24019.858mil)  TOP
+   Violation between Pad CON12-14(22942.578mil,24137.976mil)  TOP and 
+                     Pad CON12-16(22922.889mil,24137.976mil)  TOP
+   Violation between Pad CON12-77(22312.661mil,24019.858mil)  TOP and 
+                     Pad CON12-79(22292.972mil,24019.858mil)  TOP
+   Violation between Pad CON12-72(22371.712mil,24137.976mil)  TOP and 
+                     Pad CON12-74(22352.031mil,24137.976mil)  TOP
+   Violation between Pad CON12-78(22312.661mil,24137.976mil)  TOP and 
+                     Pad CON12-80(22292.972mil,24137.976mil)  TOP
+   Violation between Pad CON12-45(22627.621mil,24019.858mil)  TOP and 
+                     Pad CON12-47(22607.928mil,24019.858mil)  TOP
+   Violation between Pad CON12-15(22922.889mil,24019.858mil)  TOP and 
+                     Pad CON12-17(22903.212mil,24019.858mil)  TOP
+   Violation between Pad CON12-40(22686.669mil,24137.976mil)  TOP and 
+                     Pad CON12-42(22666.991mil,24137.976mil)  TOP
+   Violation between Pad CON12-44(22647.299mil,24137.976mil)  TOP and 
+                     Pad CON12-42(22666.991mil,24137.976mil)  TOP
+   Violation between Pad CON12-30(22785.102mil,24137.976mil)  TOP and 
+                     Pad CON12-32(22765.409mil,24137.976mil)  TOP
+   Violation between Pad CON12-34(22745.732mil,24137.976mil)  TOP and 
+                     Pad CON12-32(22765.409mil,24137.976mil)  TOP
+   Violation between Pad CON12-37(22706.361mil,24019.858mil)  TOP and 
+                     Pad CON12-35(22726.039mil,24019.858mil)  TOP
+   Violation between Pad CON12-33(22745.732mil,24019.858mil)  TOP and 
+                     Pad CON12-35(22726.039mil,24019.858mil)  TOP
+   Violation between Pad CON12-45(22627.621mil,24019.858mil)  TOP and 
+                     Pad CON12-43(22647.299mil,24019.858mil)  TOP
+   Violation between Pad CON12-41(22666.991mil,24019.858mil)  TOP and 
+                     Pad CON12-43(22647.299mil,24019.858mil)  TOP
+   Violation between Pad CON12-31(22765.409mil,24019.858mil)  TOP and 
+                     Pad CON12-33(22745.732mil,24019.858mil)  TOP
+   Violation between Pad CON12-34(22745.732mil,24137.976mil)  TOP and 
+                     Pad CON12-36(22726.039mil,24137.976mil)  TOP
+   Violation between Pad CON12-23(22844.149mil,24019.858mil)  TOP and 
+                     Pad CON12-25(22824.472mil,24019.858mil)  TOP
+   Violation between Pad CON12-27(22804.779mil,24019.858mil)  TOP and 
+                     Pad CON12-25(22824.472mil,24019.858mil)  TOP
+   Violation between Pad CON12-22(22863.842mil,24137.976mil)  TOP and 
+                     Pad CON12-24(22844.149mil,24137.976mil)  TOP
+   Violation between Pad CON12-26(22824.472mil,24137.976mil)  TOP and 
+                     Pad CON12-24(22844.149mil,24137.976mil)  TOP
+   Violation between Pad CON12-29(22785.102mil,24019.858mil)  TOP and 
+                     Pad CON12-27(22804.779mil,24019.858mil)  TOP
+   Violation between Pad CON12-28(22804.779mil,24137.976mil)  TOP and 
+                     Pad CON12-26(22824.472mil,24137.976mil)  TOP
+   Violation between Pad CON12-31(22765.409mil,24019.858mil)  TOP and 
+                     Pad CON12-29(22785.102mil,24019.858mil)  TOP
+   Violation between Pad CON12-30(22785.102mil,24137.976mil)  TOP and 
+                     Pad CON12-28(22804.779mil,24137.976mil)  TOP
+   Violation between Pad CON12-51(22568.558mil,24019.858mil)  TOP and 
+                     Pad CON12-53(22548.881mil,24019.858mil)  TOP
+   Violation between Pad CON12-72(22371.712mil,24137.976mil)  TOP and 
+                     Pad CON12-70(22391.401mil,24137.976mil)  TOP
+   Violation between Pad CON12-68(22411.082mil,24137.976mil)  TOP and 
+                     Pad CON12-70(22391.401mil,24137.976mil)  TOP
+   Violation between Pad CON11-52(23625.645mil,23159.622mil)  TOP and 
+                     Pad CON11-54(23625.645mil,23139.945mil)  TOP
+   Violation between Pad CON11-56(23625.645mil,23120.252mil)  TOP and 
+                     Pad CON11-54(23625.645mil,23139.945mil)  TOP
+   Violation between Pad CON11-3(23743.763mil,23632.063mil)  TOP and 
+                     Pad CON11-5(23743.763mil,23612.382mil)  TOP
+   Violation between Pad CON11-7(23743.763mil,23592.693mil)  TOP and 
+                     Pad CON11-5(23743.763mil,23612.382mil)  TOP
+   Violation between Pad CON11-57(23743.763mil,23100.575mil)  TOP and 
+                     Pad CON11-55(23743.763mil,23120.252mil)  TOP
+   Violation between Pad CON11-53(23743.763mil,23139.945mil)  TOP and 
+                     Pad CON11-55(23743.763mil,23120.252mil)  TOP
+   Violation between Pad CON11-3(23743.763mil,23632.063mil)  TOP and 
+                     Pad CON11-1(23743.763mil,23651.752mil)  TOP
+   Violation between Pad CON11-4(23625.645mil,23632.063mil)  TOP and 
+                     Pad CON11-2(23625.645mil,23651.752mil)  TOP
+   Violation between Pad CON11-51(23743.763mil,23159.622mil)  TOP and 
+                     Pad CON11-53(23743.763mil,23139.945mil)  TOP
+   Violation between Pad CON11-43(23743.763mil,23238.363mil)  TOP and 
+                     Pad CON11-41(23743.763mil,23258.055mil)  TOP
+   Violation between Pad CON11-39(23743.763mil,23277.733mil)  TOP and 
+                     Pad CON11-41(23743.763mil,23258.055mil)  TOP
+   Violation between Pad CON11-50(23625.645mil,23179.315mil)  TOP and 
+                     Pad CON11-48(23625.645mil,23198.992mil)  TOP
+   Violation between Pad CON11-46(23625.645mil,23218.685mil)  TOP and 
+                     Pad CON11-48(23625.645mil,23198.992mil)  TOP
+   Violation between Pad CON11-58(23625.645mil,23100.575mil)  TOP and 
+                     Pad CON11-56(23625.645mil,23120.252mil)  TOP
+   Violation between Pad CON11-60(23625.645mil,23080.882mil)  TOP and 
+                     Pad CON11-62(23625.645mil,23061.205mil)  TOP
+   Violation between Pad CON11-64(23625.645mil,23041.512mil)  TOP and 
+                     Pad CON11-62(23625.645mil,23061.205mil)  TOP
+   Violation between Pad CON11-67(23743.763mil,23002.146mil)  TOP and 
+                     Pad CON11-65(23743.763mil,23021.835mil)  TOP
+   Violation between Pad CON11-63(23743.763mil,23041.512mil)  TOP and 
+                     Pad CON11-65(23743.763mil,23021.835mil)  TOP
+   Violation between Pad CON11-50(23625.645mil,23179.315mil)  TOP and 
+                     Pad CON11-52(23625.645mil,23159.622mil)  TOP
+   Violation between Pad CON11-43(23743.763mil,23238.363mil)  TOP and 
+                     Pad CON11-45(23743.763mil,23218.685mil)  TOP
+   Violation between Pad CON11-47(23743.763mil,23198.992mil)  TOP and 
+                     Pad CON11-45(23743.763mil,23218.685mil)  TOP
+   Violation between Pad CON11-69(23743.763mil,22982.465mil)  TOP and 
+                     Pad CON11-67(23743.763mil,23002.146mil)  TOP
+   Violation between Pad CON11-59(23743.763mil,23080.882mil)  TOP and 
+                     Pad CON11-61(23743.763mil,23061.205mil)  TOP
+   Violation between Pad CON11-63(23743.763mil,23041.512mil)  TOP and 
+                     Pad CON11-61(23743.763mil,23061.205mil)  TOP
+   Violation between Pad CON11-57(23743.763mil,23100.575mil)  TOP and 
+                     Pad CON11-59(23743.763mil,23080.882mil)  TOP
+   Violation between Pad CON11-75(23743.763mil,22923.406mil)  TOP and 
+                     Pad CON11-77(23743.763mil,22903.725mil)  TOP
+   Violation between Pad CON11-79(23743.763mil,22884.036mil)  TOP and 
+                     Pad CON11-77(23743.763mil,22903.725mil)  TOP
+   Violation between Pad CON11-66(23625.645mil,23021.835mil)  TOP and 
+                     Pad CON11-64(23625.645mil,23041.512mil)  TOP
+   Violation between Pad CON11-73(23743.763mil,22943.095mil)  TOP and 
+                     Pad CON11-75(23743.763mil,22923.406mil)  TOP
+   Violation between Pad CON11-60(23625.645mil,23080.882mil)  TOP and 
+                     Pad CON11-58(23625.645mil,23100.575mil)  TOP
+   Violation between Pad CON11-78(23625.645mil,22903.725mil)  TOP and 
+                     Pad CON11-80(23625.645mil,22884.036mil)  TOP
+   Violation between Pad CON11-20(23625.645mil,23474.583mil)  TOP and 
+                     Pad CON11-22(23625.645mil,23454.906mil)  TOP
+   Violation between Pad CON11-24(23625.645mil,23435.213mil)  TOP and 
+                     Pad CON11-22(23625.645mil,23454.906mil)  TOP
+   Violation between Pad CON11-19(23743.763mil,23474.583mil)  TOP and 
+                     Pad CON11-21(23743.763mil,23454.906mil)  TOP
+   Violation between Pad CON11-23(23743.763mil,23435.213mil)  TOP and 
+                     Pad CON11-21(23743.763mil,23454.906mil)  TOP
+   Violation between Via (23692.854mil,23455.571mil) TOP to BOTTOM and 
+                     Pad CON11-21(23743.763mil,23454.906mil)  TOP
+   Violation between Pad CON11-25(23743.763mil,23415.536mil)  TOP and 
+                     Pad CON11-23(23743.763mil,23435.213mil)  TOP
+   Violation between Pad CON11-68(23625.645mil,23002.146mil)  TOP and 
+                     Pad CON11-70(23625.645mil,22982.465mil)  TOP
+   Violation between Pad CON11-72(23625.645mil,22962.776mil)  TOP and 
+                     Pad CON11-70(23625.645mil,22982.465mil)  TOP
+   Violation between Pad CON11-29(23743.763mil,23376.166mil)  TOP and 
+                     Pad CON11-27(23743.763mil,23395.843mil)  TOP
+   Violation between Pad CON11-25(23743.763mil,23415.536mil)  TOP and 
+                     Pad CON11-27(23743.763mil,23395.843mil)  TOP
+   Violation between Pad CON11-74(23625.645mil,22943.095mil)  TOP and 
+                     Pad CON11-76(23625.645mil,22923.406mil)  TOP
+   Violation between Pad CON11-78(23625.645mil,22903.725mil)  TOP and 
+                     Pad CON11-76(23625.645mil,22923.406mil)  TOP
+   Violation between Pad CON11-44(23625.645mil,23238.363mil)  TOP and 
+                     Pad CON11-42(23625.645mil,23258.055mil)  TOP
+   Violation between Pad CON11-40(23625.645mil,23277.733mil)  TOP and 
+                     Pad CON11-42(23625.645mil,23258.055mil)  TOP
+   Violation between Via (23672.854mil,23275.571mil) TOP to BOTTOM and 
+                     Pad CON11-42(23625.645mil,23258.055mil)  TOP
+   Violation between Pad CON11-71(23743.763mil,22962.776mil)  TOP and 
+                     Pad CON11-73(23743.763mil,22943.095mil)  TOP
+   Violation between Pad CON11-46(23625.645mil,23218.685mil)  TOP and 
+                     Pad CON11-44(23625.645mil,23238.363mil)  TOP
+   Violation between Pad CON11-30(23625.645mil,23376.166mil)  TOP and 
+                     Pad CON11-28(23625.645mil,23395.843mil)  TOP
+   Violation between Pad CON11-26(23625.645mil,23415.536mil)  TOP and 
+                     Pad CON11-28(23625.645mil,23395.843mil)  TOP
+   Violation between Pad CON11-37(23743.763mil,23297.425mil)  TOP and 
+                     Pad CON11-39(23743.763mil,23277.733mil)  TOP
+   Violation between Pad CON11-68(23625.645mil,23002.146mil)  TOP and 
+                     Pad CON11-66(23625.645mil,23021.835mil)  TOP
+   Violation between Pad CON11-71(23743.763mil,22962.776mil)  TOP and 
+                     Pad CON11-69(23743.763mil,22982.465mil)  TOP
+   Violation between Pad CON11-24(23625.645mil,23435.213mil)  TOP and 
+                     Pad CON11-26(23625.645mil,23415.536mil)  TOP
+   Violation between Pad CON11-19(23743.763mil,23474.583mil)  TOP and 
+                     Pad CON11-17(23743.763mil,23494.276mil)  TOP
+   Violation between Pad CON11-15(23743.763mil,23513.953mil)  TOP and 
+                     Pad CON11-17(23743.763mil,23494.276mil)  TOP
+   Violation between Pad CON11-20(23625.645mil,23474.583mil)  TOP and 
+                     Pad CON11-18(23625.645mil,23494.276mil)  TOP
+   Violation between Pad CON11-16(23625.645mil,23513.953mil)  TOP and 
+                     Pad CON11-18(23625.645mil,23494.276mil)  TOP
+   Violation between Pad CON11-10(23625.645mil,23573.012mil)  TOP and 
+                     Pad CON11-12(23625.645mil,23553.323mil)  TOP
+   Violation between Pad CON11-14(23625.645mil,23533.642mil)  TOP and 
+                     Pad CON11-12(23625.645mil,23553.323mil)  TOP
+   Violation between Pad CON11-4(23625.645mil,23632.063mil)  TOP and 
+                     Pad CON11-6(23625.645mil,23612.382mil)  TOP
+   Violation between Pad CON11-8(23625.645mil,23592.693mil)  TOP and 
+                     Pad CON11-6(23625.645mil,23612.382mil)  TOP
+   Violation between Pad CON11-9(23743.763mil,23573.012mil)  TOP and 
+                     Pad CON11-11(23743.763mil,23553.323mil)  TOP
+   Violation between Pad CON11-13(23743.763mil,23533.642mil)  TOP and 
+                     Pad CON11-11(23743.763mil,23553.323mil)  TOP
+   Violation between Pad CON11-49(23743.763mil,23179.315mil)  TOP and 
+                     Pad CON11-47(23743.763mil,23198.992mil)  TOP
+   Violation between Pad CON11-72(23625.645mil,22962.776mil)  TOP and 
+                     Pad CON11-74(23625.645mil,22943.095mil)  TOP
+   Violation between Pad CON11-15(23743.763mil,23513.953mil)  TOP and 
+                     Pad CON11-13(23743.763mil,23533.642mil)  TOP
+   Violation between Pad CON11-7(23743.763mil,23592.693mil)  TOP and 
+                     Pad CON11-9(23743.763mil,23573.012mil)  TOP
+   Violation between Pad CON11-37(23743.763mil,23297.425mil)  TOP and 
+                     Pad CON11-35(23743.763mil,23317.103mil)  TOP
+   Violation between Pad CON11-33(23743.763mil,23336.796mil)  TOP and 
+                     Pad CON11-35(23743.763mil,23317.103mil)  TOP
+   Violation between Pad CON11-38(23625.645mil,23297.425mil)  TOP and 
+                     Pad CON11-36(23625.645mil,23317.103mil)  TOP
+   Violation between Pad CON11-34(23625.645mil,23336.796mil)  TOP and 
+                     Pad CON11-36(23625.645mil,23317.103mil)  TOP
+   Violation between Via (23572.854mil,23320.571mil) TOP to BOTTOM and 
+                     Pad CON11-36(23625.645mil,23317.103mil)  TOP
+   Violation between Pad CON11-31(23743.763mil,23356.473mil)  TOP and 
+                     Pad CON11-33(23743.763mil,23336.796mil)  TOP
+   Violation between Pad CON11-32(23625.645mil,23356.473mil)  TOP and 
+                     Pad CON11-34(23625.645mil,23336.796mil)  TOP
+   Violation between Pad CON11-40(23625.645mil,23277.733mil)  TOP and 
+                     Pad CON11-38(23625.645mil,23297.425mil)  TOP
+   Violation between Pad CON11-29(23743.763mil,23376.166mil)  TOP and 
+                     Pad CON11-31(23743.763mil,23356.473mil)  TOP
+   Violation between Pad CON11-30(23625.645mil,23376.166mil)  TOP and 
+                     Pad CON11-32(23625.645mil,23356.473mil)  TOP
+   Violation between Pad CON11-16(23625.645mil,23513.953mil)  TOP and 
+                     Pad CON11-14(23625.645mil,23533.642mil)  TOP
+   Violation between Pad CON11-8(23625.645mil,23592.693mil)  TOP and 
+                     Pad CON11-10(23625.645mil,23573.012mil)  TOP
+   Violation between Pad CON11-51(23743.763mil,23159.622mil)  TOP and 
+                     Pad CON11-49(23743.763mil,23179.315mil)  TOP
+   Violation between Via (23672.854mil,23275.571mil) TOP to BOTTOM and 
+                     Pad CON11-40(23625.645mil,23277.733mil)  TOP
+   Violation between Pad CON10-3(21609.897mil,22903.725mil)  TOP and 
+                     Pad CON10-1(21609.897mil,22884.036mil)  TOP
+   Violation between Pad CON10-4(21728.015mil,22903.725mil)  TOP and 
+                     Pad CON10-2(21728.015mil,22884.036mil)  TOP
+   Violation between Pad CON10-6(21728.015mil,22923.406mil)  TOP and 
+                     Pad CON10-4(21728.015mil,22903.725mil)  TOP
+   Violation between Pad CON10-5(21609.897mil,22923.406mil)  TOP and 
+                     Pad CON10-3(21609.897mil,22903.725mil)  TOP
+   Violation between Pad CON10-7(21609.897mil,22943.095mil)  TOP and 
+                     Pad CON10-5(21609.897mil,22923.406mil)  TOP
+   Violation between Pad CON10-8(21728.015mil,22943.095mil)  TOP and 
+                     Pad CON10-6(21728.015mil,22923.406mil)  TOP
+   Violation between Pad CON10-62(21728.015mil,23474.583mil)  TOP and 
+                     Pad CON10-60(21728.015mil,23454.906mil)  TOP
+   Violation between Pad CON10-58(21728.015mil,23435.213mil)  TOP and 
+                     Pad CON10-60(21728.015mil,23454.906mil)  TOP
+   Violation between Pad CON10-67(21609.897mil,23533.642mil)  TOP and 
+                     Pad CON10-69(21609.897mil,23553.323mil)  TOP
+   Violation between Pad CON10-71(21609.897mil,23573.012mil)  TOP and 
+                     Pad CON10-69(21609.897mil,23553.323mil)  TOP
+   Violation between Pad CON10-46(21728.015mil,23317.103mil)  TOP and 
+                     Pad CON10-48(21728.015mil,23336.796mil)  TOP
+   Violation between Pad CON10-50(21728.015mil,23356.473mil)  TOP and 
+                     Pad CON10-48(21728.015mil,23336.796mil)  TOP
+   Violation between Pad CON10-15(21609.897mil,23021.835mil)  TOP and 
+                     Pad CON10-17(21609.897mil,23041.512mil)  TOP
+   Violation between Pad CON10-19(21609.897mil,23061.205mil)  TOP and 
+                     Pad CON10-17(21609.897mil,23041.512mil)  TOP
+   Violation between Via (21660.59mil,23032.519mil) TOP to BOTTOM and 
+                     Pad CON10-17(21609.897mil,23041.512mil)  TOP
+   Violation between Pad CON10-8(21728.015mil,22943.095mil)  TOP and 
+                     Pad CON10-10(21728.015mil,22962.776mil)  TOP
+   Violation between Pad CON10-12(21728.015mil,22982.465mil)  TOP and 
+                     Pad CON10-10(21728.015mil,22962.776mil)  TOP
+   Violation between Pad CON10-12(21728.015mil,22982.465mil)  TOP and 
+                     Pad CON10-14(21728.015mil,23002.146mil)  TOP
+   Violation between Pad CON10-16(21728.015mil,23021.835mil)  TOP and 
+                     Pad CON10-14(21728.015mil,23002.146mil)  TOP
+   Violation between Pad CON10-56(21728.015mil,23415.536mil)  TOP and 
+                     Pad CON10-58(21728.015mil,23435.213mil)  TOP
+   Violation between Pad CON10-54(21728.015mil,23395.843mil)  TOP and 
+                     Pad CON10-56(21728.015mil,23415.536mil)  TOP
+   Violation between Pad CON10-15(21609.897mil,23021.835mil)  TOP and 
+                     Pad CON10-13(21609.897mil,23002.146mil)  TOP
+   Violation between Pad CON10-11(21609.897mil,22982.465mil)  TOP and 
+                     Pad CON10-13(21609.897mil,23002.146mil)  TOP
+   Violation between Via (21660.59mil,22990.922mil) TOP to BOTTOM and 
+                     Pad CON10-13(21609.897mil,23002.146mil)  TOP
+   Violation between Pad CON10-18(21728.015mil,23041.512mil)  TOP and 
+                     Pad CON10-16(21728.015mil,23021.835mil)  TOP
+   Violation between Pad CON10-9(21609.897mil,22962.776mil)  TOP and 
+                     Pad CON10-11(21609.897mil,22982.465mil)  TOP
+   Violation between Via (21660.59mil,22990.922mil) TOP to BOTTOM and 
+                     Pad CON10-11(21609.897mil,22982.465mil)  TOP
+   Violation between Pad CON10-21(21609.897mil,23080.882mil)  TOP and 
+                     Pad CON10-19(21609.897mil,23061.205mil)  TOP
+Rule Violations :406
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Pad U1-1(23492.165mil,21479.764mil)  TOP and 
+                     Arc (23492.165mil,21452.205mil)  Top Overlay
+   Violation between Pad U8-1(21909.586mil,21528.839mil)  TOP and 
+                     Arc (21883.996mil,21497.342mil)  Top Overlay
+   Violation between Pad Y1-3(21538.461mil,21487.681mil)  TOP and 
+                     Arc (21525.789mil,21492.991mil)  Top Overlay
+   Violation between Pad Y1-4(21538.461mil,21372.319mil)  TOP and 
+                     Arc (21525.787mil,21367.007mil)  Top Overlay
+   Violation between Pad Y1-1(21611.539mil,21372.319mil)  TOP and 
+                     Arc (21624.214mil,21367.007mil)  Top Overlay
+   Violation between Pad Y1-2(21611.539mil,21487.681mil)  TOP and 
+                     Arc (21624.212mil,21492.991mil)  Top Overlay
+   Violation between Pad BAT1-2(21885mil,24565mil)  TOP and 
+                     Arc (21885mil,24865mil)  Top Overlay
+   Violation between Pad BAT1-1(21885mil,25165mil)  TOP and 
+                     Arc (21885mil,24865mil)  Top Overlay
+   Violation between Track (21875mil,25435.488mil)(21875mil,25450.488mil)  Top Overlay and 
+                     Pad D2-1(21875mil,25394.512mil)  TOP
+   Violation between Track (21875mil,25475.488mil)(21875mil,25490.488mil)  Top Overlay and 
+                     Pad D2-2(21875mil,25530.488mil)  TOP
+   Violation between Track (22005mil,25435.488mil)(22005mil,25450.488mil)  Top Overlay and 
+                     Pad D1-1(22005mil,25394.512mil)  TOP
+   Violation between Track (22005mil,25475.488mil)(22005mil,25490.488mil)  Top Overlay and 
+                     Pad D1-2(22005mil,25530.488mil)  TOP
+   Violation between Text "C59" (23505mil,24775.906mil)  Top Overlay and 
+                     Pad C57-2(23605mil,24779.37mil)  TOP
+   Violation between Text "C40" (23586mil,24661mil)  Top Overlay and 
+                     Pad C57-1(23605mil,24700.63mil)  TOP
+   Violation between Text "C57" (23586mil,24826mil)  Top Overlay and 
+                     Pad C56-1(23590mil,24856.535mil)  TOP
+   Violation between Track (21131.791mil,21207.854mil)(21427.067mil,21207.854mil)  Top Overlay and 
+                     Pad CON7-10(21279.429mil,21246.043mil)  TOP
+   Violation between Track (21140.689mil,25232.354mil)(21140.689mil,25235.784mil)  Top Overlay and 
+                     Pad U22-1(21118.369mil,25212.354mil)  TOP
+   Violation between Track (21140.689mil,25235.784mil)(21209.429mil,25235.784mil)  Top Overlay and 
+                     Pad U22-1(21118.369mil,25212.354mil)  TOP
+   Violation between Track (21298.169mil,25038.924mil)(21298.169mil,25042.354mil)  Top Overlay and 
+                     Pad U22-5(21320.489mil,25062.354mil)  TOP
+   Violation between Track (21140.689mil,25038.924mil)(21298.169mil,25038.924mil)  Top Overlay and 
+                     Pad U22-5(21320.489mil,25062.354mil)  TOP
+   Violation between Track (21140.689mil,25038.924mil)(21140.689mil,25042.354mil)  Top Overlay and 
+                     Pad U22-4(21118.369mil,25062.354mil)  TOP
+   Violation between Track (21140.689mil,25038.924mil)(21298.169mil,25038.924mil)  Top Overlay and 
+                     Pad U22-4(21118.369mil,25062.354mil)  TOP
+   Violation between Track (21298.169mil,25232.354mil)(21298.169mil,25235.784mil)  Top Overlay and 
+                     Pad U22-8(21320.489mil,25212.354mil)  TOP
+   Violation between Track (21229.429mil,25235.784mil)(21298.169mil,25235.784mil)  Top Overlay and 
+                     Pad U22-8(21320.489mil,25212.354mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-12(22126.122mil,21528.839mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-2(21929.271mil,21528.839mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-13(22159.586mil,21562.303mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-5(21988.326mil,21528.839mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-31(22008.011mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-4(21968.641mil,21528.839mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-28(22067.067mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-47(21876.122mil,21581.988mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-20(22159.586mil,21700.099mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-30(22027.697mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-9(22067.067mil,21528.839mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-21(22159.586mil,21719.784mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-39(21876.122mil,21739.469mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-8(22047.382mil,21528.839mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-29(22047.382mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-34(21948.956mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-10(22086.752mil,21528.839mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-3(21948.956mil,21528.839mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-44(21876.122mil,21641.043mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-22(22159.586mil,21739.469mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-32(21988.326mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-46(21876.122mil,21601.673mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-45(21876.122mil,21621.358mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-42(21876.122mil,21680.414mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-37(21876.122mil,21778.839mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-24(22159.586mil,21778.839mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-40(21876.122mil,21719.784mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-41(21876.122mil,21700.099mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-7(22027.697mil,21528.839mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-6(22008.011mil,21528.839mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-16(22159.586mil,21621.358mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-43(21876.122mil,21660.728mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-38(21876.122mil,21759.154mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(21880.059mil,21808.366mil)  Top Overlay and 
+                     Pad U8-48(21876.122mil,21562.303mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-1(21909.586mil,21528.839mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-36(21909.586mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-35(21929.271mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-33(21968.641mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-27(22086.752mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21532.775mil)(22155.65mil,21532.775mil)  Top Overlay and 
+                     Pad U8-11(22106.437mil,21528.839mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-25(22126.122mil,21812.303mil)  TOP
+   Violation between Track (21880.059mil,21808.366mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-26(22106.437mil,21812.303mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-17(22159.586mil,21641.043mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-14(22159.586mil,21581.988mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-15(22159.586mil,21601.673mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-19(22159.586mil,21680.414mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-18(22159.586mil,21660.728mil)  TOP
+   Violation between Track (22155.65mil,21532.775mil)(22155.65mil,21808.366mil)  Top Overlay and 
+                     Pad U8-23(22159.586mil,21759.154mil)  TOP
+   Violation between Track (21496.429mil,25457.5mil)(21496.429mil,25483.5mil)  Top Overlay and 
+                     Pad Q8-3(21510.929mil,25514.5mil)  TOP
+   Violation between Track (21496.429mil,25546.5mil)(21496.429mil,25571.5mil)  Top Overlay and 
+                     Pad Q8-3(21510.929mil,25514.5mil)  TOP
+   Violation between Track (21256.429mil,25457.5mil)(21256.429mil,25483.5mil)  Top Overlay and 
+                     Pad Q7-3(21270.929mil,25514.5mil)  TOP
+   Violation between Track (21256.429mil,25546.5mil)(21256.429mil,25571.5mil)  Top Overlay and 
+                     Pad Q7-3(21270.929mil,25514.5mil)  TOP
+   Violation between Track (24283.5mil,24811.75mil)(24308.5mil,24811.75mil)  Top Overlay and 
+                     Pad Q3-3(24340.5mil,24826.25mil)  TOP
+   Violation between Track (24371.5mil,24811.75mil)(24397.5mil,24811.75mil)  Top Overlay and 
+                     Pad Q3-3(24340.5mil,24826.25mil)  TOP
+   Violation between Track (24128.5mil,24811.75mil)(24153.5mil,24811.75mil)  Top Overlay and 
+                     Pad Q2-3(24185.5mil,24826.25mil)  TOP
+   Violation between Track (24216.5mil,24811.75mil)(24242.5mil,24811.75mil)  Top Overlay and 
+                     Pad Q2-3(24185.5mil,24826.25mil)  TOP
+   Violation between Track (23076.83mil,22506.87mil)(23131.83mil,22506.87mil)  Top Overlay and 
+                     Pad CON13-2(23060.688mil,22515.929mil)  TOP
+   Violation between Track (23076.83mil,22406.87mil)(23131.83mil,22406.87mil)  Top Overlay and 
+                     Pad CON13-1(23060.688mil,22397.811mil)  TOP
+   Violation between Track (22221.83mil,22506.87mil)(22276.83mil,22506.87mil)  Top Overlay and 
+                     Pad CON13-80(22292.972mil,22515.929mil)  TOP
+   Violation between Track (22221.83mil,22406.87mil)(22276.83mil,22406.87mil)  Top Overlay and 
+                     Pad CON13-79(22292.972mil,22397.811mil)  TOP
+   Violation between Track (23076.83mil,24028.917mil)(23131.83mil,24028.917mil)  Top Overlay and 
+                     Pad CON12-1(23060.688mil,24019.858mil)  TOP
+   Violation between Track (23076.83mil,24128.917mil)(23131.83mil,24128.917mil)  Top Overlay and 
+                     Pad CON12-2(23060.688mil,24137.976mil)  TOP
+   Violation between Track (22221.83mil,24028.917mil)(22276.83mil,24028.917mil)  Top Overlay and 
+                     Pad CON12-79(22292.972mil,24019.858mil)  TOP
+   Violation between Track (22221.83mil,24128.917mil)(22276.83mil,24128.917mil)  Top Overlay and 
+                     Pad CON12-80(22292.972mil,24137.976mil)  TOP
+   Violation between Track (23734.704mil,23667.894mil)(23734.704mil,23722.894mil)  Top Overlay and 
+                     Pad CON11-1(23743.763mil,23651.752mil)  TOP
+   Violation between Track (23634.704mil,23667.894mil)(23634.704mil,23722.894mil)  Top Overlay and 
+                     Pad CON11-2(23625.645mil,23651.752mil)  TOP
+   Violation between Track (23734.704mil,22812.894mil)(23734.704mil,22867.894mil)  Top Overlay and 
+                     Pad CON11-79(23743.763mil,22884.036mil)  TOP
+   Violation between Track (23634.704mil,22812.894mil)(23634.704mil,22867.894mil)  Top Overlay and 
+                     Pad CON11-80(23625.645mil,22884.036mil)  TOP
+   Violation between Track (21618.956mil,22812.894mil)(21618.956mil,22867.894mil)  Top Overlay and 
+                     Pad CON10-1(21609.897mil,22884.036mil)  TOP
+   Violation between Track (21718.956mil,22812.894mil)(21718.956mil,22867.894mil)  Top Overlay and 
+                     Pad CON10-2(21728.015mil,22884.036mil)  TOP
+Rule Violations :94
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Time Elapsed        : 00:00:02

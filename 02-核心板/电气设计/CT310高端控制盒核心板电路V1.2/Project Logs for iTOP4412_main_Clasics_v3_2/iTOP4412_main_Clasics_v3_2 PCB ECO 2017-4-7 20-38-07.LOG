@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=UH_DP3 Pin=J2-33
+Removed Pin From Net: NetName=UH_DM3 Pin=J2-35
+Removed Pin From Net: NetName=MD_USBDP Pin=J2-37
+Removed Pin From Net: NetName=MD_USBDN Pin=J2-39
+Added Pin To Net: NetName=MD_USBDP Pin=J2-33
+Added Pin To Net: NetName=MD_USBDN Pin=J2-35
+Added Pin To Net: NetName=UH_DP3 Pin=J2-37
+Added Pin To Net: NetName=UH_DM3 Pin=J2-39
+Added Member To Class: ClassName=P02-DC_JACK Member=Component BAT1 CR1220

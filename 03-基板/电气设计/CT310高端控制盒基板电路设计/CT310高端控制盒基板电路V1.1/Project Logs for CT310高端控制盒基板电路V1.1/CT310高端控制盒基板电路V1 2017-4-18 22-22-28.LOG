@@ -1,0 +1,28 @@
+Added Component: Designator=R62(R0805)
+Added Component: Designator=R63(R0805)
+Added Component: Designator=R64(R0805)
+Added Component: Designator=R68(R0805)
+Added Pin To Net: NetName=TX+ Pin=R62-1
+Added Pin To Net: NetName=TX- Pin=R63-1
+Added Pin To Net: NetName=RX+ Pin=R64-1
+Added Pin To Net: NetName=RX- Pin=R68-1
+Added Pin To Net: NetName=XUOTGDM Pin=J13-11
+Added Pin To Net: NetName=XUOTGDM Pin=J13-12
+Added Pin To Net: NetName=XUOTGDM Pin=R63-2
+Added Net: Name=XUOTGDM
+Added Pin To Net: NetName=XUOTGDP Pin=J13-13
+Added Pin To Net: NetName=XUOTGDP Pin=J13-14
+Added Pin To Net: NetName=XUOTGDP Pin=R64-2
+Added Net: Name=XUOTGDP
+Added Pin To Net: NetName=XUOTGID Pin=J13-15
+Added Pin To Net: NetName=XUOTGID Pin=J13-16
+Added Pin To Net: NetName=XUOTGID Pin=R68-2
+Added Net: Name=XUOTGID
+Added Pin To Net: NetName=XUOTGVBUS Pin=J13-9
+Added Pin To Net: NetName=XUOTGVBUS Pin=J13-10
+Added Pin To Net: NetName=XUOTGVBUS Pin=R62-2
+Added Net: Name=XUOTGVBUS
+Added Member To Class: ClassName=LeftInterface Member=Component R62 10R
+Added Member To Class: ClassName=LeftInterface Member=Component R63 10R
+Added Member To Class: ClassName=LeftInterface Member=Component R64 10R
+Added Member To Class: ClassName=LeftInterface Member=Component R68 10R

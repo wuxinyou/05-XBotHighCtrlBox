@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=XUOTGDP Pin=J2-9
+Removed Pin From Net: NetName=XUOTGDP Pin=J2-10
+Removed Pin From Net: NetName=XUOTGVBUS Pin=J2-13
+Removed Pin From Net: NetName=XUOTGVBUS Pin=J2-14
+Change Component Comment : Designator=R10 Old Comment=0R/NC New Comment=0R
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=1K/NC
+Change Component Comment : Designator=R9 Old Comment=22R New Comment=22R/NC
+Change Component Comment : Designator=Q8 Old Comment=L9014 New Comment=8050
+Added Pin To Net: NetName=XUOTGVBUS Pin=J2-9
+Added Pin To Net: NetName=XUOTGVBUS Pin=J2-10
+Added Pin To Net: NetName=XUOTGDP Pin=J2-13
+Added Pin To Net: NetName=XUOTGDP Pin=J2-14

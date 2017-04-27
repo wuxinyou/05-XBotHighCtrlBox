@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=HEADER2X16 New DesignItemId=HEADER2X14
+Change Component Footprint: Designator=J1 Old Footprint=HD2X16-2.00 New Footprint=HD2X14S-2.54
+Change Component Comment : Designator=J1 Old Comment=HEADER2X16 New Comment=HD2X14S-2.54

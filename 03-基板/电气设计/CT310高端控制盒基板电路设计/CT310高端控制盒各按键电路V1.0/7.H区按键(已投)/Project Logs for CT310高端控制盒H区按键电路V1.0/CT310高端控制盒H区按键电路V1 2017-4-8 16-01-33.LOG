@@ -1,0 +1,39 @@
+Added Component: Designator=J1(ZH1X6WT-1.5)
+Added Component: Designator=K_H1(SW-MEC)
+Added Component: Designator=K_H2(SW-MEC)
+Added Component: Designator=K_H3(SW-MEC)
+Added Component: Designator=K_H4(SW-MEC)
+Added Component: Designator=K_H5(SW-MEC)
+Added Pin To Net: NetName=KEYSWIN_H1 Pin=J1-1
+Added Pin To Net: NetName=KEYSWIN_H1 Pin=K_H1-2
+Added Pin To Net: NetName=KEYSWIN_H1 Pin=K_H1-2
+Added Net: Name=KEYSWIN_H1
+Added Pin To Net: NetName=KEYSWIN_H2 Pin=J1-2
+Added Pin To Net: NetName=KEYSWIN_H2 Pin=K_H2-2
+Added Pin To Net: NetName=KEYSWIN_H2 Pin=K_H2-2
+Added Net: Name=KEYSWIN_H2
+Added Pin To Net: NetName=KEYSWIN_H3 Pin=J1-3
+Added Pin To Net: NetName=KEYSWIN_H3 Pin=K_H3-2
+Added Pin To Net: NetName=KEYSWIN_H3 Pin=K_H3-2
+Added Net: Name=KEYSWIN_H3
+Added Pin To Net: NetName=KEYSWIN_H4 Pin=J1-4
+Added Pin To Net: NetName=KEYSWIN_H4 Pin=K_H4-2
+Added Pin To Net: NetName=KEYSWIN_H4 Pin=K_H4-2
+Added Net: Name=KEYSWIN_H4
+Added Pin To Net: NetName=KEYSWIN_H5 Pin=J1-5
+Added Pin To Net: NetName=KEYSWIN_H5 Pin=K_H5-2
+Added Pin To Net: NetName=KEYSWIN_H5 Pin=K_H5-2
+Added Net: Name=KEYSWIN_H5
+Added Pin To Net: NetName=SGND Pin=J1-6
+Added Pin To Net: NetName=SGND Pin=K_H1-1
+Added Pin To Net: NetName=SGND Pin=K_H1-1
+Added Pin To Net: NetName=SGND Pin=K_H2-1
+Added Pin To Net: NetName=SGND Pin=K_H2-1
+Added Pin To Net: NetName=SGND Pin=K_H3-1
+Added Pin To Net: NetName=SGND Pin=K_H3-1
+Added Pin To Net: NetName=SGND Pin=K_H4-1
+Added Pin To Net: NetName=SGND Pin=K_H4-1
+Added Pin To Net: NetName=SGND Pin=K_H5-1
+Added Pin To Net: NetName=SGND Pin=K_H5-1
+Added Net: Name=SGND
+Added Class: Name=CT310高端控制盒H区按键电路V1.0

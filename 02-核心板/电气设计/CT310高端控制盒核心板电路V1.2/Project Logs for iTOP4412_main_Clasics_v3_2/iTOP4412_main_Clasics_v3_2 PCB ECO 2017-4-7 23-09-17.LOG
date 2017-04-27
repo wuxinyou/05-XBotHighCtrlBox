@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=H10-1
+Removed Pin From Net: NetName=GND Pin=H12-1
+Removed Pin From Net: NetName=GND Pin=H13-1
+Removed Pin From Net: NetName=GND Pin=H14-1
+Removed Pin From Net: NetName=RS232_TXD1 Pin=J3-23
+Removed Pin From Net: NetName=RS232_TXD1 Pin=J3-24
+Removed Pin From Net: NetName=RS232_RXD1 Pin=J3-25
+Removed Pin From Net: NetName=RS232_RXD1 Pin=J3-26
+Removed Pin From Net: NetName=RS232_TXD2 Pin=J3-27
+Removed Pin From Net: NetName=RS232_TXD2 Pin=J3-28
+Removed Pin From Net: NetName=RS232_RXD2 Pin=J3-29
+Removed Pin From Net: NetName=RS232_RXD2 Pin=J3-30
+Added Pin To Net: NetName=RS232_RXD1 Pin=J3-23
+Added Pin To Net: NetName=RS232_RXD1 Pin=J3-24
+Added Pin To Net: NetName=RS232_TXD1 Pin=J3-25
+Added Pin To Net: NetName=RS232_TXD1 Pin=J3-26
+Added Pin To Net: NetName=RS232_RXD2 Pin=J3-27
+Added Pin To Net: NetName=RS232_RXD2 Pin=J3-28
+Added Pin To Net: NetName=RS232_TXD2 Pin=J3-29
+Added Pin To Net: NetName=RS232_TXD2 Pin=J3-30
+Added Pin To Net: NetName=NetH10_1 Pin=H10-1
+Added Pin To Net: NetName=NetH10_1 Pin=H12-1
+Added Pin To Net: NetName=NetH10_1 Pin=H13-1
+Added Pin To Net: NetName=NetH10_1 Pin=H14-1
+Added Net: Name=NetH10_1

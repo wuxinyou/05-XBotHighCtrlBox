@@ -1,0 +1,32 @@
+Change Component Comment : Designator=J3 Old Comment=DS1X2-2.54 New Comment=ZH1X2WT-1.5
+Change Component Comment : Designator=J9 Old Comment=Header 8 New Comment=ZH1X8WT-1.5
+Added Component: Designator=J18(HD2X14-2.54)
+Added Pin To Net: NetName=BAT1+ Pin=J18-1
+Added Pin To Net: NetName=BAT1+ Pin=J18-2
+Added Pin To Net: NetName=SGND Pin=J18-3
+Added Pin To Net: NetName=SGND Pin=J18-4
+Added Pin To Net: NetName=12V Pin=J18-5
+Added Pin To Net: NetName=12V Pin=J18-6
+Added Pin To Net: NetName=SGND Pin=J18-7
+Added Pin To Net: NetName=SGND Pin=J18-8
+Added Pin To Net: NetName=+7.2V_S Pin=J18-9
+Added Pin To Net: NetName=+7.2V_S Pin=J18-10
+Added Pin To Net: NetName=SGND Pin=J18-11
+Added Pin To Net: NetName=SGND Pin=J18-12
+Added Pin To Net: NetName=RS485_A4 Pin=J18-13
+Added Pin To Net: NetName=RS485_A4 Pin=J18-14
+Added Pin To Net: NetName=RS485_B4 Pin=J18-15
+Added Pin To Net: NetName=RS485_B4 Pin=J18-16
+Added Pin To Net: NetName=RS485_A3 Pin=J18-17
+Added Pin To Net: NetName=RS485_A3 Pin=J18-18
+Added Pin To Net: NetName=RS485_B3 Pin=J18-19
+Added Pin To Net: NetName=RS485_B3 Pin=J18-20
+Added Pin To Net: NetName=SGND Pin=J18-21
+Added Pin To Net: NetName=SGND Pin=J18-22
+Added Pin To Net: NetName=CVBS Pin=J18-23
+Added Pin To Net: NetName=CVBS Pin=J18-24
+Added Pin To Net: NetName=SGND Pin=J18-25
+Added Pin To Net: NetName=SGND Pin=J18-26
+Added Pin To Net: NetName=LINE_IN_L Pin=J18-27
+Added Pin To Net: NetName=LINE_IN_L Pin=J18-28
+Added Member To Class: ClassName=DataVideoPort Member=Component J18 HEADER2X14

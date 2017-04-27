@@ -1,0 +1,4 @@
+Added Component: Designator=Y2(CRYSTAL_D200)
+Added Pin To Net: NetName=XTAL2 Pin=Y2-1
+Added Pin To Net: NetName=XTAL1 Pin=Y2-2
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component Y2 14.31818MHz

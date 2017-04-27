@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Removed Pin From Net: NetName=+5V_S Pin=J13-1
+Removed Pin From Net: NetName=+5V_S Pin=J13-2
+Removed Pin From Net: NetName=+5V_S Pin=J13-3
+Removed Pin From Net: NetName=+5V_S Pin=J13-4
+Removed Pin From Net: NetName=12V Pin=J14-7
+Removed Pin From Net: NetName=12V Pin=J14-8
+Removed Pin From Net: NetName=12V Pin=J14-9
+Removed Pin From Net: NetName=12V Pin=J14-10
+Removed Pin From Net: NetName=12V Pin=K1-1
+Removed Pin From Net: NetName=BAT2+ Pin=K1-3
+Removed Pin From Net: NetName=BAT1+ Pin=K1-6
+Removed Pin From Net: NetName=GND_P Pin=K1-8
+Change Component DesignItemId : Designator=K1 Old DesignItemId=G6K-2F-Y New DesignItemId=G6B-2214P-US
+Change Component Footprint: Designator=K1 Old Footprint=G6K-2F-Y New Footprint=G6B-2214P-Us
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=20K
+Change Component Comment : Designator=J12 Old Comment=DS1X6-2.54 New Comment=ZH1X6WT-1.5
+Change Component Comment : Designator=K1 Old Comment=G6K-2F-Y New Comment=G6B-2214P-US
+Change Component Comment : Designator=J15 Old Comment=HEADER1X6 New Comment=ZH1X6WT-1.5
+Change Component Comment : Designator=J16 Old Comment=HEADER1X6 New Comment=ZH1X6WT-1.5
+Added Component: Designator=C75(C0805)
+Added Component: Designator=C87(C0805)
+Added Component: Designator=D9(SOD-80)
+Added Component: Designator=K2(G6B-2214P-Us)
+Added Component: Designator=Q6(SOT-23)
+Added Component: Designator=R44(R0805)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=SGND Pin=C87-1
+Added Pin To Net: NetName=SGND Pin=D9-1
+Added Pin To Net: NetName=+5V_S Pin=K1-3
+Added Pin To Net: NetName=12V Pin=K1-6
+Added Pin To Net: NetName=12V Pin=K1-8
+Added Pin To Net: NetName=GND_P Pin=K2-1
+Added Pin To Net: NetName=BAT1+ Pin=K2-3
+Added Pin To Net: NetName=BAT2+ Pin=K2-6
+Added Pin To Net: NetName=12V Pin=K2-8
+Added Pin To Net: NetName=SGND Pin=Q6-2
+Added Pin To Net: NetName=POWERCNT Pin=R44-1
+Added Pin To Net: NetName=+5V_OUT Pin=J13-1
+Added Pin To Net: NetName=+5V_OUT Pin=J13-2
+Added Pin To Net: NetName=+5V_OUT Pin=J13-3
+Added Pin To Net: NetName=+5V_OUT Pin=J13-4
+Added Pin To Net: NetName=+5V_OUT Pin=K1-4
+Added Net: Name=+5V_OUT
+Added Pin To Net: NetName=12V_OUT Pin=J14-7
+Added Pin To Net: NetName=12V_OUT Pin=J14-8
+Added Pin To Net: NetName=12V_OUT Pin=J14-9
+Added Pin To Net: NetName=12V_OUT Pin=J14-10
+Added Pin To Net: NetName=12V_OUT Pin=K1-5
+Added Net: Name=12V_OUT
+Added Pin To Net: NetName=NetC87_2 Pin=C87-2
+Added Pin To Net: NetName=NetC87_2 Pin=D9-2
+Added Pin To Net: NetName=NetC87_2 Pin=Q6-1
+Added Pin To Net: NetName=NetC87_2 Pin=R44-2
+Added Net: Name=NetC87_2
+Added Pin To Net: NetName=NetD10_1 Pin=K1-1
+Added Pin To Net: NetName=NetD10_1 Pin=Q6-3
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetK2_4 Pin=K2-4
+Added Pin To Net: NetName=NetK2_4 Pin=R21-1
+Added Net: Name=NetK2_4
+Added Pin To Net: NetName=NetK2_5 Pin=K2-5
+Added Pin To Net: NetName=NetK2_5 Pin=R22-1
+Added Net: Name=NetK2_5
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=PowerManager Member=Component C87 100pF
+Added Member To Class: ClassName=PowerManager Member=Component D9 ZMM1
+Added Member To Class: ClassName=PowerManager Member=Component K2 G6B-2214P-US
+Added Member To Class: ClassName=PowerManager Member=Component Q6 S8050
+Added Member To Class: ClassName=PowerManager Member=Component R44 1K

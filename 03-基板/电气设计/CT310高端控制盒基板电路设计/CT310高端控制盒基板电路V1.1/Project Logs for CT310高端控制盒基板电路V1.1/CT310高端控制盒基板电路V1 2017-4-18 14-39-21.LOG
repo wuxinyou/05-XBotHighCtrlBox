@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=POWERCNT Pin=R44-1
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Added Pin To Net: NetName=POWEROUTCNT Pin=R44-1
+Added Pin To Net: NetName=POWEROUTCNT Pin=U5-51
+Added Net: Name=POWEROUTCNT

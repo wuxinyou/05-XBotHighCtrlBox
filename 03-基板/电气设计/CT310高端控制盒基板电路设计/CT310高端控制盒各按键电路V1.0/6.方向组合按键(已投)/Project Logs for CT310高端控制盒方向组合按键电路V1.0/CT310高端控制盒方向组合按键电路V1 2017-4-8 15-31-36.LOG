@@ -1,0 +1,8 @@
+Added Component: Designator=J1(ZH1X6WT-1.5)
+Added Pin To Net: NetName=KEYSWIN_EU Pin=J1-1
+Added Pin To Net: NetName=KEYSWIN_ED Pin=J1-2
+Added Pin To Net: NetName=KEYSWIN_EL Pin=J1-3
+Added Pin To Net: NetName=KEYSWIN_ER Pin=J1-4
+Added Pin To Net: NetName=KEYSWIN_EM Pin=J1-5
+Added Pin To Net: NetName=SGND Pin=J1-6
+Added Member To Class: ClassName=CT310高端控制盒方向组合按键电路V1.0 Member=Component J1 HEADER1X6

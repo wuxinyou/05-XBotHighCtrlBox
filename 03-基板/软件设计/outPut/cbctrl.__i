@@ -1,5 +1,0 @@
--c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Includes -I.\Includes\App -I.\Includes\STM32_CMSIS -I.\Includes\STM32_Driver -I.\Includes\STM32_LIB -I.\Includes\User 
--I C:\Keil\ARM\RV31\INC 
--I C:\Keil\ARM\CMSIS\Include 
--I C:\Keil\ARM\Inc\ST\STM32F10x 
--DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\outPut\cbctrl.o" --omf_browse "..\outPut\cbctrl.crf" --depend "..\outPut\cbctrl.d" "Source\App\CbCtrl.c"

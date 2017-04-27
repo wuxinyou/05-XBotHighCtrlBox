@@ -1,0 +1,37 @@
+Added Component: Designator=BAT1(BAT1)
+Added Component: Designator=D1(D1206)
+Added Component: Designator=D2(D1206)
+Added Component: Designator=H1(hole2_7)
+Added Component: Designator=H2(hole2_7)
+Added Component: Designator=H3(hole2_7)
+Added Component: Designator=H4(hole2_7)
+Added Component: Designator=H9(HOLE2_7)
+Added Component: Designator=R23(R0603-S)
+Added Pin To Net: NetName=GND Pin=BAT1-2
+Added Pin To Net: NetName=DC33V Pin=D1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H9-1
+Added Pin To Net: NetName=GND Pin=H12-1
+Added Pin To Net: NetName=GND Pin=H14-1
+Added Pin To Net: NetName=V_BKCOIN Pin=R23-1
+Added Pin To Net: NetName=NetBAT1_1 Pin=BAT1-1
+Added Pin To Net: NetName=NetBAT1_1 Pin=D2-1
+Added Net: Name=NetBAT1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=R23-2
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=P02-DC_JACK Member=Component BAT1 CR1220
+Added Member To Class: ClassName=P02-DC_JACK Member=Component D1 IN4148
+Added Member To Class: ClassName=P02-DC_JACK Member=Component D2 IN4148
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H1 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H2 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H3 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H4 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H9 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H12 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H14 TP_P0_0.8_D0
+Added Member To Class: ClassName=P02-DC_JACK Member=Component R23 0R

@@ -1,0 +1,15 @@
+Change Component Comment : Designator=F1 Old Comment=2A New Comment=2.5A
+Change Component Comment : Designator=F2 Old Comment=2A New Comment=2.5A
+Added Component: Designator=R?(R0805)
+Added Component: Designator=U7(TO-262)
+Added Pin To Net: NetName=SGND Pin=R?-1
+Added Pin To Net: NetName=NetC12_2 Pin=R?-2
+Added Pin To Net: NetName=BAT_IN Pin=U7-2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=U7-1
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=U7-3
+Added Net: Name=NetF2_2
+Added Member To Class: ClassName=PowerManager Member=Component R? 1K
+Added Member To Class: ClassName=PowerManager Member=Component U7 MBRB60H100CTT4G

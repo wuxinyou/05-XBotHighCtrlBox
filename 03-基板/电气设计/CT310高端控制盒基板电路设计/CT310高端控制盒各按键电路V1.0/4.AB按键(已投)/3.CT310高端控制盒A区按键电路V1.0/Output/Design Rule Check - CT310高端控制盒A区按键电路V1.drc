@@ -1,0 +1,136 @@
+Protel Design System Design Rule Check
+PCB File : D:\项目管理\27.高端控制盒\CT310高端控制盒电路设计\CT310高端控制盒各按键电路V1.0\4.AB按键(已投)\3.CT310高端控制盒A区按键电路V1.0\CT310高端控制盒A区按键电路V1.0.PcbDoc
+Date     : 2017/4/21
+Time     : 15:41:34
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Text "J4" (2.286mm,94.615mm)  Top Overlay and 
+                     Track (1.906mm,84.255mm)(1.906mm,95.455mm)  Top Overlay
+   Violation between Text "J2" (2.261mm,127.406mm)  Top Overlay and 
+                     Track (1.906mm,117.006mm)(1.906mm,128.206mm)  Top Overlay
+   Violation between Text "J3" (2.286mm,110.973mm)  Top Overlay and 
+                     Track (1.906mm,100.63mm)(1.906mm,111.83mm)  Top Overlay
+   Violation between Text "J7" (2.235mm,45.441mm)  Top Overlay and 
+                     Track (1.906mm,35.13mm)(1.906mm,46.33mm)  Top Overlay
+   Violation between Text "J8" (2.235mm,29.032mm)  Top Overlay and 
+                     Track (1.906mm,18.755mm)(1.906mm,29.955mm)  Top Overlay
+   Violation between Text "J9" (2.235mm,12.7mm)  Top Overlay and 
+                     Track (1.906mm,2.38mm)(1.906mm,13.58mm)  Top Overlay
+   Violation between Text "J5" (2.261mm,78.13mm)  Top Overlay and 
+                     Track (1.906mm,67.88mm)(1.906mm,78.659mm)  Top Overlay
+   Violation between Text "J6" (2.286mm,61.9mm)  Top Overlay and 
+                     Track (1.906mm,51.927mm)(1.906mm,62.705mm)  Top Overlay
+Rule Violations :8
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Track (11.506mm,2.38mm)(11.506mm,13.58mm)  Top Overlay and 
+                     Pad J9-2(10.49mm,7.98mm)  Top Layer
+   Violation between Track (11.506mm,18.755mm)(11.506mm,29.955mm)  Top Overlay and 
+                     Pad J8-2(10.49mm,24.355mm)  Top Layer
+   Violation between Track (11.506mm,35.13mm)(11.506mm,46.33mm)  Top Overlay and 
+                     Pad J7-2(10.49mm,40.73mm)  Top Layer
+   Violation between Track (11.506mm,51.505mm)(11.506mm,62.705mm)  Top Overlay and 
+                     Pad J6-2(10.49mm,57.105mm)  Top Layer
+   Violation between Track (11.506mm,67.88mm)(11.506mm,79.08mm)  Top Overlay and 
+                     Pad J5-2(10.49mm,73.48mm)  Top Layer
+   Violation between Track (11.506mm,84.255mm)(11.506mm,95.455mm)  Top Overlay and 
+                     Pad J4-2(10.49mm,89.855mm)  Top Layer
+   Violation between Track (11.506mm,100.63mm)(11.506mm,111.83mm)  Top Overlay and 
+                     Pad J3-2(10.49mm,106.23mm)  Top Layer
+   Violation between Track (11.506mm,117.006mm)(11.506mm,128.206mm)  Top Overlay and 
+                     Pad J2-2(10.49mm,122.606mm)  Top Layer
+   Violation between Track (2.306mm,30.355mm)(11.106mm,30.355mm)  Top Overlay and 
+                     Pad Designator32-0(4.706mm,30.293mm)  Multi-Layer
+   Violation between Track (2.306mm,100.23mm)(11.106mm,100.23mm)  Top Overlay and 
+                     Pad Designator31-0(4.706mm,100.293mm)  Multi-Layer
+Rule Violations :10
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1.27mm) (Preferred=0.254mm) (All)
+   Violation between Width Constraint: Arc (6.706mm,40.73mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,40.73mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,40.73mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,7.98mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,7.98mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,7.98mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,7.98mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,7.98mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,24.355mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,24.355mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,24.355mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,24.355mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,24.355mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,24.355mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,24.355mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,40.73mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,40.73mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,40.73mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,40.73mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,73.48mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,73.48mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,73.48mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,73.48mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,73.48mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,73.48mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,73.48mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,89.855mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,89.855mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,89.855mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,89.855mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,89.855mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,89.855mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,89.855mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,106.23mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,106.23mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,106.23mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,106.23mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,106.23mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,106.23mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,106.23mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,122.606mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,122.606mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,122.606mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,122.606mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,122.606mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,57.105mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,57.105mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,57.105mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,57.105mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,57.105mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,57.105mm)  Top Layer
+   Violation between Width Constraint: Arc (6.706mm,57.105mm)  Top Layer
+Rule Violations :52
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad Designator32-0(4.706mm,30.293mm)  Multi-Layer and 
+                     Pad Designator32-0(4.706mm,30.293mm)  Bottom Layer
+   Violation between Pad Designator31-0(4.706mm,100.293mm)  Multi-Layer and 
+                     Pad Designator31-0(4.706mm,100.293mm)  Bottom Layer
+Rule Violations :2
+
+
+Violations Detected : 72
+Time Elapsed        : 00:00:01

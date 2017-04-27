@@ -1,0 +1,12 @@
+Change Component Comment : Designator=U22 Old Comment=RT8065 New Comment=RT8065ZSP
+Change Component Comment : Designator=U1 Old Comment=TVP5150 New Comment=TVP5150AM1PBSR
+Added Pin To Net: NetName=GND Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Pin To Net: NetName=GND Pin=H8-1
+Added Pin To Net: NetName=NetH10_1 Pin=H10-1
+Added Pin To Net: NetName=NetH10_1 Pin=H12-1
+Added Pin To Net: NetName=NetH10_1 Pin=H13-1
+Added Pin To Net: NetName=NetH10_1 Pin=H14-1
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-13

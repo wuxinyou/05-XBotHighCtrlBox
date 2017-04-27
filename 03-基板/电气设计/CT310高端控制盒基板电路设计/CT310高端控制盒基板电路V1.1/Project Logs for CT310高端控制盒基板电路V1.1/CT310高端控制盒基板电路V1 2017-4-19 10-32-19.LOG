@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SGND Pin=J8-1
+Removed Pin From Net: NetName=KEYSWIN_J2 Pin=J8-4
+Removed Pin From Net: NetName=KEYSWIN_J1 Pin=J8-5
+Change Component Comment : Designator=J8 Old Comment=HEADER1X5 New Comment=ZH1X5WT-1.5
+Added Pin To Net: NetName=KEYSWIN_J1 Pin=J8-1
+Added Pin To Net: NetName=KEYSWIN_J2 Pin=J8-2
+Added Pin To Net: NetName=SGND Pin=J8-5

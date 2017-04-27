@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J1 Old Footprint=HD1X4-2.54 New Footprint=HD1X4-2.00
+Change Component Footprint: Designator=J6 Old Footprint=HD1X5-2.00 New Footprint=HD1X5-2.54
+Change Component Footprint: Designator=J5 Old Footprint=HD1X6-2.00 New Footprint=HD1X6-2.54
+Change Component Footprint: Designator=R150 Old Footprint=R0603-S New Footprint=R0603

@@ -1,0 +1,8 @@
+Added Component: Designator=L1(L4X4-S)
+Added Component: Designator=L2(L4X4-S)
+Added Pin To Net: NetName=AV1_IN Pin=L1-1
+Added Pin To Net: NetName=NetC10_1 Pin=L1-2
+Added Pin To Net: NetName=AV2_IN Pin=L2-1
+Added Pin To Net: NetName=NetC19_1 Pin=L2-2
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component L1 3.3uH/NC
+Added Member To Class: ClassName=P11-CAMERA AVIN Member=Component L2 3.3uH/NC

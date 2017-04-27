@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SGND Pin=R99-1
+Added Pin To Net: NetName=+3.3V_S Pin=R99-1

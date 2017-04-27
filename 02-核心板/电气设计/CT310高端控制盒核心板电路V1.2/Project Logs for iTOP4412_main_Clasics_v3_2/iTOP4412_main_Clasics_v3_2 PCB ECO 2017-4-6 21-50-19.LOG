@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=C106-2
+Removed Pin From Net: NetName=VSYS Pin=FB17-1
+Removed Pin From Net: NetName=HDMI_HPD Pin=Q1-2
+Removed Pin From Net: NetName=VDD1V8_EXT Pin=Q1-3
+Removed Pin From Net: NetName=CBL_CEC Pin=R151-1
+Removed Pin From Net: NetName=GND Pin=R154-1
+Removed Pin From Net: NetName=HDMI_HPD Pin=R155-1
+Removed Pin From Net: NetName=GND Pin=R155-2
+Removed Member From Class: ClassName=P12-HDMI Member=C106
+Removed Member From Class: ClassName=P12-HDMI Member=FB17
+Removed Member From Class: ClassName=P12-HDMI Member=Q1
+Removed Member From Class: ClassName=P12-HDMI Member=R151
+Removed Member From Class: ClassName=P12-HDMI Member=R152
+Removed Member From Class: ClassName=P12-HDMI Member=R154
+Removed Member From Class: ClassName=P12-HDMI Member=R155

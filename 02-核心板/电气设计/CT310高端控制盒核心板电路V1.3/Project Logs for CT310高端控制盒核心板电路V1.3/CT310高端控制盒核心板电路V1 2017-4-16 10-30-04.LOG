@@ -1,0 +1,9 @@
+Added Component: Designator=J7(MICRO-USB)
+Added Pin To Net: NetName=XUOTGVBUS Pin=J7-1
+Added Pin To Net: NetName=XUOTGDM Pin=J7-2
+Added Pin To Net: NetName=XUOTGDP Pin=J7-3
+Added Pin To Net: NetName=XUOTGID Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J7-7
+Added Member To Class: ClassName=P09-USB_JTAG Member=Component J7 ZX62RD-AB-5P8

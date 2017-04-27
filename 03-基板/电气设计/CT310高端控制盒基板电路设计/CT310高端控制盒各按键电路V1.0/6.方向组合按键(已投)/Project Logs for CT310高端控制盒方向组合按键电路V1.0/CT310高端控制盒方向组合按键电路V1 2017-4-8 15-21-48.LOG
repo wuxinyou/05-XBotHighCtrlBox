@@ -1,0 +1,28 @@
+Added Component: Designator=S1(SW-MEC-5)
+Added Pin To Net: NetName=KEYSWIN_ED Pin=S1-4
+Added Pin To Net: NetName=KEYSWIN_ED Pin=S1-4
+Added Net: Name=KEYSWIN_ED
+Added Pin To Net: NetName=KEYSWIN_EL Pin=S1-8
+Added Pin To Net: NetName=KEYSWIN_EL Pin=S1-8
+Added Net: Name=KEYSWIN_EL
+Added Pin To Net: NetName=KEYSWIN_EM Pin=S1-10
+Added Pin To Net: NetName=KEYSWIN_EM Pin=S1-10
+Added Net: Name=KEYSWIN_EM
+Added Pin To Net: NetName=KEYSWIN_ER Pin=S1-6
+Added Pin To Net: NetName=KEYSWIN_ER Pin=S1-6
+Added Net: Name=KEYSWIN_ER
+Added Pin To Net: NetName=KEYSWIN_EU Pin=S1-2
+Added Pin To Net: NetName=KEYSWIN_EU Pin=S1-2
+Added Net: Name=KEYSWIN_EU
+Added Pin To Net: NetName=SGND Pin=S1-1
+Added Pin To Net: NetName=SGND Pin=S1-1
+Added Pin To Net: NetName=SGND Pin=S1-3
+Added Pin To Net: NetName=SGND Pin=S1-3
+Added Pin To Net: NetName=SGND Pin=S1-5
+Added Pin To Net: NetName=SGND Pin=S1-5
+Added Pin To Net: NetName=SGND Pin=S1-7
+Added Pin To Net: NetName=SGND Pin=S1-7
+Added Pin To Net: NetName=SGND Pin=S1-9
+Added Pin To Net: NetName=SGND Pin=S1-9
+Added Net: Name=SGND
+Added Class: Name=CT310高端控制盒方向组合按键电路V1.0

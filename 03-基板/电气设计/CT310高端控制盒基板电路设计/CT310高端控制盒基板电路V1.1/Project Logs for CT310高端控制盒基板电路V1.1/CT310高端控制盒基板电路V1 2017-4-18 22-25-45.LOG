@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=XUOTGVBUS Pin=R62-2
+Removed Pin From Net: NetName=XUOTGDM Pin=R63-2
+Removed Pin From Net: NetName=XUOTGDP Pin=R64-2
+Removed Pin From Net: NetName=XUOTGID Pin=R68-2
+Added Pin To Net: NetName=XUOTGID Pin=R62-2
+Added Pin To Net: NetName=XUOTGDP Pin=R63-2
+Added Pin To Net: NetName=XUOTGDM Pin=R64-2
+Added Pin To Net: NetName=XUOTGVBUS Pin=R68-2

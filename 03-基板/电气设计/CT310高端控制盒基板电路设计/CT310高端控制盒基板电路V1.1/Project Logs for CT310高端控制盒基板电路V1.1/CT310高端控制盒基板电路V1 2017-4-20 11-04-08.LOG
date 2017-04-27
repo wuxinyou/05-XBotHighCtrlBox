@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=RS485_A3 Pin=J18-17
+Removed Pin From Net: NetName=RS485_A3 Pin=J18-18
+Removed Pin From Net: NetName=RS485_B3 Pin=J18-19
+Removed Pin From Net: NetName=RS485_B3 Pin=J18-20
+Removed Pin From Net: NetName=CVBS Pin=J18-23
+Removed Pin From Net: NetName=CVBS Pin=J18-24
+Removed Pin From Net: NetName=SGND Pin=J18-25
+Removed Pin From Net: NetName=SGND Pin=J18-26
+Removed Pin From Net: NetName=LINE_IN_L Pin=J18-27
+Removed Pin From Net: NetName=LINE_IN_L Pin=J18-28
+Change Component DesignItemId : Designator=J18 Old DesignItemId=HEADER2X14 New DesignItemId=HEADER2X12
+Change Component Footprint: Designator=J18 Old Footprint=HD2X14-2.54 New Footprint=HD2X12-2.54
+Change Component Comment : Designator=J18 Old Comment=HEADER2X14 New Comment=HD2X12-2.54
+Added Pin To Net: NetName=SGND Pin=J18-17
+Added Pin To Net: NetName=SGND Pin=J18-18
+Added Pin To Net: NetName=CVBS Pin=J18-19
+Added Pin To Net: NetName=CVBS Pin=J18-20
+Added Pin To Net: NetName=LINE_IN_L Pin=J18-23
+Added Pin To Net: NetName=LINE_IN_L Pin=J18-24

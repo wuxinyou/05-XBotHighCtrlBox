@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=P07-LCD Member=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J6
+Added Pin To Net: NetName=STM_LCD_ONOFF Pin=J3-15
+Added Pin To Net: NetName=STM_LCD_PWM Pin=J3-17
+Added Member To Class: ClassName=P07-LCD Member=Component J6 HEADER1X5

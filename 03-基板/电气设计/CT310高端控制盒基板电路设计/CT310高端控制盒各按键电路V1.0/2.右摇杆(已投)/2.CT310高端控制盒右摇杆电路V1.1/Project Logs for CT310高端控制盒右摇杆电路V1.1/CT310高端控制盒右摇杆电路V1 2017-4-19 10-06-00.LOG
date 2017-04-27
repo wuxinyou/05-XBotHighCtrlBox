@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=AY Pin=J2-4
+Change Component Comment : Designator=J2 Old Comment=HEADER1X4 New Comment=ZH1X4WT-1.5
+Added Component: Designator=J1(H20JH)
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=AX Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=VCC Pin=J1-4
+Added Pin To Net: NetName=AY Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=AY Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Class: Name=CT310高端控制盒右摇杆电路V1.1

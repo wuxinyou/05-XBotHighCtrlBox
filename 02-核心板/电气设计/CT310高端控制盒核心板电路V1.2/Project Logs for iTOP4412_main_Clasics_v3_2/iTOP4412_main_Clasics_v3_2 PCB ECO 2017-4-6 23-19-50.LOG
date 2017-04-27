@@ -1,0 +1,194 @@
+Removed Pin From Net: NetName=VSYS_LCD Pin=C144-1
+Removed Pin From Net: NetName=GND Pin=C144-2
+Removed Pin From Net: NetName=VSYS_LCD Pin=C145-1
+Removed Pin From Net: NetName=GND Pin=C145-2
+Removed Pin From Net: NetName=BUF_XPWMTOUT1 Pin=J42-1
+Removed Pin From Net: NetName=VSYS_LCD Pin=J42-2
+Removed Pin From Net: NetName=VSYS_LCD Pin=J42-3
+Removed Pin From Net: NetName=VSYS_LCD Pin=J42-4
+Removed Pin From Net: NetName=VSYS_LCD Pin=J42-5
+Removed Pin From Net: NetName=VSYS_LCD Pin=J42-6
+Removed Pin From Net: NetName=VSYS_LCD Pin=J42-7
+Removed Pin From Net: NetName=VSYS_LCD Pin=J42-8
+Removed Pin From Net: NetName=VSYS_LCD Pin=J42-9
+Removed Pin From Net: NetName=GND Pin=J42-10
+Removed Pin From Net: NetName=LCD_TP1_INT Pin=J42-11
+Removed Pin From Net: NetName=GND Pin=J42-12
+Removed Pin From Net: NetName=RXCLK+ Pin=J42-13
+Removed Pin From Net: NetName=RXCLK- Pin=J42-14
+Removed Pin From Net: NetName=GND Pin=J42-15
+Removed Pin From Net: NetName=RXIN2+ Pin=J42-16
+Removed Pin From Net: NetName=RXIN2- Pin=J42-17
+Removed Pin From Net: NetName=GND Pin=J42-18
+Removed Pin From Net: NetName=RXIN1+ Pin=J42-19
+Removed Pin From Net: NetName=RXIN1- Pin=J42-20
+Removed Pin From Net: NetName=GND Pin=J42-21
+Removed Pin From Net: NetName=RXIN0+ Pin=J42-22
+Removed Pin From Net: NetName=RXIN0- Pin=J42-23
+Removed Pin From Net: NetName=LCD_SDA Pin=J42-24
+Removed Pin From Net: NetName=LCD_SCL Pin=J42-25
+Removed Pin From Net: NetName=BUF_TP_IOCTL Pin=J42-26
+Removed Pin From Net: NetName=GND Pin=J42-27
+Removed Pin From Net: NetName=GND Pin=J42-28
+Removed Pin From Net: NetName=GND Pin=J42-29
+Removed Pin From Net: NetName=GND Pin=J42-30
+Removed Pin From Net: NetName=GND Pin=J42-31
+Removed Pin From Net: NetName=GND Pin=J42-32
+Removed Member From Class: ClassName=P07-LCD Member=C144
+Removed Member From Class: ClassName=P07-LCD Member=C145
+Removed Member From Class: ClassName=P07-LCD Member=J42
+Added Component: Designator=C24(C0603-S)
+Added Component: Designator=C25(C0603-S)
+Added Component: Designator=C40(C0603-S)
+Added Component: Designator=C41(C0603-s)
+Added Component: Designator=C42(C0603-s)
+Added Component: Designator=C43(C0603-s)
+Added Component: Designator=C44(C0603-s)
+Added Component: Designator=C45(C0603-S)
+Added Component: Designator=C46(C0603-S)
+Added Component: Designator=C47(C0603-S)
+Added Component: Designator=C48(C0603-S)
+Added Component: Designator=C49(C0603-s)
+Added Component: Designator=C50(C0805-s)
+Added Component: Designator=C51(C0603-S)
+Added Component: Designator=C52(C0603-S)
+Added Component: Designator=C53(C0603-S)
+Added Component: Designator=C54(C0603-S)
+Added Component: Designator=C55(C0603-S)
+Added Component: Designator=C56(C0805-S)
+Added Component: Designator=C57(C0603-S)
+Added Component: Designator=J3(HD1X5-2.54)
+Added Component: Designator=J4(DF19G-20P)
+Added Component: Designator=J5(HD1X6-2.54)
+Added Component: Designator=R48(R0603-S)
+Added Component: Designator=R51(R0603-S)
+Added Component: Designator=R52(R0603-S)
+Added Component: Designator=U2(tssop8)
+Added Component: Designator=U3(SOT-223)
+Added Pin To Net: NetName=VDD1V8_EXT Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=DC33V Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=VSYS_LCD Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=VDD33_LCD Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=VDD33_LCD Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=VDD18_CAM Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=VDD18_CAM Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=VDD1V8_EXT Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=VDD1V8_EXT Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=XOM3 Pin=CON13-10
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=RXIN0- Pin=J4-5
+Added Pin To Net: NetName=RXIN0+ Pin=J4-6
+Added Pin To Net: NetName=GND Pin=J4-7
+Added Pin To Net: NetName=RXIN1- Pin=J4-8
+Added Pin To Net: NetName=RXIN1+ Pin=J4-9
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=RXIN2- Pin=J4-11
+Added Pin To Net: NetName=RXIN2+ Pin=J4-12
+Added Pin To Net: NetName=RXCLK+ Pin=J4-15
+Added Pin To Net: NetName=GND Pin=J4-16
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=VDD1V8_EXT Pin=R48-1
+Added Pin To Net: NetName=XOM2 Pin=SW2-1
+Added Pin To Net: NetName=XOM3 Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VDD1V8_EXT Pin=U2-3
+Added Pin To Net: NetName=TP1_INT Pin=U2-4
+Added Pin To Net: NetName=XEINT30/HDMI_CEC/ALV_DBG26 Pin=U2-5
+Added Pin To Net: NetName=DC33V Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=VSYS_LCD Pin=U3-3
+Added Pin To Net: NetName=12V Pin=C49-2
+Added Pin To Net: NetName=12V Pin=C50-2
+Added Pin To Net: NetName=12V Pin=J5-5
+Added Pin To Net: NetName=12V Pin=J5-6
+Added Net: Name=12V
+Added Pin To Net: NetName=LCD_ONOFF Pin=J5-1
+Added Pin To Net: NetName=LCD_ONOFF Pin=R51-2
+Added Net: Name=LCD_ONOFF
+Added Pin To Net: NetName=LCD_PWM Pin=J5-2
+Added Pin To Net: NetName=LCD_PWM Pin=R52-2
+Added Net: Name=LCD_PWM
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=NetC51_2 Pin=J3-5
+Added Net: Name=NetC51_2
+Added Pin To Net: NetName=NetC52_2 Pin=C52-2
+Added Pin To Net: NetName=NetC52_2 Pin=J3-4
+Added Net: Name=NetC52_2
+Added Pin To Net: NetName=NetC53_2 Pin=C53-2
+Added Pin To Net: NetName=NetC53_2 Pin=J3-3
+Added Net: Name=NetC53_2
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=NetC54_2 Pin=J3-2
+Added Net: Name=NetC54_2
+Added Pin To Net: NetName=NetC55_2 Pin=C55-2
+Added Pin To Net: NetName=NetC55_2 Pin=J3-1
+Added Net: Name=NetC55_2
+Added Pin To Net: NetName=NetR48_2 Pin=R48-2
+Added Pin To Net: NetName=NetR48_2 Pin=U2-6
+Added Net: Name=NetR48_2
+Added Pin To Net: NetName=STM_LCD_ONOFF Pin=R51-1
+Added Net: Name=STM_LCD_ONOFF
+Added Pin To Net: NetName=STM_LCD_PWM Pin=R52-1
+Added Net: Name=STM_LCD_PWM
+Added Pin To Net: NetName=TSC_IRQ Pin=C40-1
+Added Pin To Net: NetName=TSC_IRQ Pin=U2-1
+Added Net: Name=TSC_IRQ
+Added Pin To Net: NetName=TSC_RST Pin=U2-8
+Added Net: Name=TSC_RST
+Added Pin To Net: NetName=VSYS_LCD_3.3V Pin=C42-2
+Added Pin To Net: NetName=VSYS_LCD_3.3V Pin=C43-2
+Added Pin To Net: NetName=VSYS_LCD_3.3V Pin=C44-2
+Added Pin To Net: NetName=VSYS_LCD_3.3V Pin=J4-1
+Added Pin To Net: NetName=VSYS_LCD_3.3V Pin=J4-2
+Added Pin To Net: NetName=VSYS_LCD_3.3V Pin=U3-2
+Added Pin To Net: NetName=VSYS_LCD_3.3V Pin=U3-4
+Added Net: Name=VSYS_LCD_3.3V
+Added Member To Class: ClassName=P07-LCD Member=Component C24 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component C25 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component C40 0.1uF/NC
+Added Member To Class: ClassName=P07-LCD Member=Component C41 10uF
+Added Member To Class: ClassName=P07-LCD Member=Component C42 10uF
+Added Member To Class: ClassName=P07-LCD Member=Component C43 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component C44 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component C45 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component C46 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component C47 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component C48 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component C49 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component C50 22uF
+Added Member To Class: ClassName=P07-LCD Member=Component C51 1nF
+Added Member To Class: ClassName=P07-LCD Member=Component C52 1nF
+Added Member To Class: ClassName=P07-LCD Member=Component C53 1nF
+Added Member To Class: ClassName=P07-LCD Member=Component C54 1nF
+Added Member To Class: ClassName=P07-LCD Member=Component C55 1nF
+Added Member To Class: ClassName=P07-LCD Member=Component C56 10uF
+Added Member To Class: ClassName=P07-LCD Member=Component C57 0.1uF
+Added Member To Class: ClassName=P07-LCD Member=Component J3 HEADER1X5
+Added Member To Class: ClassName=P07-LCD Member=Component J4 Header 20
+Added Member To Class: ClassName=P07-LCD Member=Component J5 HEADER1X6
+Added Member To Class: ClassName=P07-LCD Member=Component R48 10K
+Added Member To Class: ClassName=P07-LCD Member=Component R51 NC
+Added Member To Class: ClassName=P07-LCD Member=Component R52 NC
+Added Member To Class: ClassName=P07-LCD Member=Component U2 TXS0102DCU
+Added Member To Class: ClassName=P07-LCD Member=Component U3 REG1117-3.3V

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=+5V_S Pin=C8-1
+Removed Pin From Net: NetName=+5V_S Pin=C53-1
+Removed Pin From Net: NetName=+5V_S Pin=C68-2
+Removed Pin From Net: NetName=+7.2V_S Pin=C70-1
+Removed Pin From Net: NetName=SGND Pin=C70-2
+Removed Pin From Net: NetName=+7.2V_S Pin=C73-1
+Removed Pin From Net: NetName=SGND Pin=C73-2
+Removed Pin From Net: NetName=+7.2V_S Pin=D8-2
+Removed Pin From Net: NetName=+5V_S Pin=L3-1
+Removed Pin From Net: NetName=+7.2V_S Pin=R35-1
+Removed Pin From Net: NetName=SGND Pin=R36-2
+Removed Pin From Net: NetName=+5V_S Pin=U3-5
+Removed Member From Class: ClassName=PowerConvert Member=R36
+Change Component DesignItemId : Designator=C53 Old DesignItemId=CAP New DesignItemId=ELECTRO
+Change Component DesignItemId : Designator=D8 Old DesignItemId=DIODE-SCHOTTKY New DesignItemId=DIODE1
+Change Component DesignItemId : Designator=C70 Old DesignItemId=ELECTRO New DesignItemId=CAP
+Change Component DesignItemId : Designator=U3 Old DesignItemId=LM2577 New DesignItemId=LM2575
+Change Component Footprint: Designator=C68 Old Footprint=C0805 New Footprint=C1206
+Change Component Footprint: Designator=C73 Old Footprint=C1206 New Footprint=C0805
+Change Component Footprint: Designator=C53 Old Footprint=C1206 New Footprint=CT7343-E-S
+Change Component Footprint: Designator=C70 Old Footprint=CT7343-E-S New Footprint=C0805
+Change Component Comment : Designator=C68 Old Comment=0.1uF New Comment=2.2uF
+Change Component Comment : Designator=C75 Old Comment=0.1uF New Comment=100pF
+Change Component Comment : Designator=R30 Old Comment=2K New Comment=16K
+Change Component Comment : Designator=R35 Old Comment=10K New Comment=3.3K
+Change Component Comment : Designator=C73 Old Comment=22uF New Comment=0.1uF
+Change Component Comment : Designator=C53 Old Comment=22uF New Comment=100uF/25V
+Change Component Comment : Designator=C70 Old Comment=100uF/25V New Comment=0.1uF
+Change Component Comment : Designator=L3 Old Comment=100uH New Comment=22uH
+Change Component Comment : Designator=U3 Old Comment=LM2577_ADJ New Comment=LM2596_ADJ
+Change Component Description : Designator=D8 Old Description=Schottky barrier rectifier New Description=Diode
+Change Component Library : Designator=D8 Old Library=Passive Components Class.SchLib New Library=*
+Change Component Library : Designator=U3 Old Library=Power Management Class.SchLib New Library=*
+Added Component: Designator=C88(C0805)
+Added Pin To Net: NetName=12V Pin=C8-1
+Added Pin To Net: NetName=12V Pin=C53-1
+Added Pin To Net: NetName=12V Pin=C68-2
+Added Pin To Net: NetName=SGND Pin=C70-1
+Added Pin To Net: NetName=12V Pin=C70-2
+Added Pin To Net: NetName=SGND Pin=C73-1
+Added Pin To Net: NetName=+7.2V_S Pin=C73-2
+Added Pin To Net: NetName=+7.2V_S Pin=C75-2
+Added Pin To Net: NetName=SGND Pin=C88-1
+Added Pin To Net: NetName=+7.2V_S Pin=C88-2
+Added Pin To Net: NetName=SGND Pin=D8-1
+Added Pin To Net: NetName=+7.2V_S Pin=L3-1
+Added Pin To Net: NetName=+7.2V_S Pin=R30-1
+Added Pin To Net: NetName=SGND Pin=R35-1
+Added Pin To Net: NetName=12V Pin=U3-1
+Added Pin To Net: NetName=SGND Pin=U3-5
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=L3-2
+Added Pin To Net: NetName=NetD8_2 Pin=U3-2
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=R35-2
+Added Pin To Net: NetName=NetR30_2 Pin=U3-4
+Added Net: Name=NetR30_2
+Added Member To Class: ClassName=PowerConvert Member=Component C75 100pF
+Added Member To Class: ClassName=PowerConvert Member=Component C88 10uF

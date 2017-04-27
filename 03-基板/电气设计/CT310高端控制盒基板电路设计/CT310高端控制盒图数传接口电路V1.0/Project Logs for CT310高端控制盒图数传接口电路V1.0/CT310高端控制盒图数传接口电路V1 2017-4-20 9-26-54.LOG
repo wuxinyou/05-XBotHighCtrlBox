@@ -1,0 +1,40 @@
+Added Component: Designator=J1(HD2X16-2.00)
+Added Pin To Net: NetName=+7.2V_S Pin=J1-9
+Added Pin To Net: NetName=+7.2V_S Pin=J1-10
+Added Net: Name=+7.2V_S
+Added Pin To Net: NetName=12V Pin=J1-5
+Added Pin To Net: NetName=12V Pin=J1-6
+Added Net: Name=12V
+Added Pin To Net: NetName=BAT1+ Pin=J1-1
+Added Pin To Net: NetName=BAT1+ Pin=J1-2
+Added Net: Name=BAT1+
+Added Pin To Net: NetName=CVBS Pin=J1-23
+Added Pin To Net: NetName=CVBS Pin=J1-24
+Added Net: Name=CVBS
+Added Pin To Net: NetName=LINE_IN_L Pin=J1-27
+Added Pin To Net: NetName=LINE_IN_L Pin=J1-28
+Added Net: Name=LINE_IN_L
+Added Pin To Net: NetName=RS485_A3 Pin=J1-17
+Added Pin To Net: NetName=RS485_A3 Pin=J1-18
+Added Net: Name=RS485_A3
+Added Pin To Net: NetName=RS485_A4 Pin=J1-13
+Added Pin To Net: NetName=RS485_A4 Pin=J1-14
+Added Net: Name=RS485_A4
+Added Pin To Net: NetName=RS485_B3 Pin=J1-19
+Added Pin To Net: NetName=RS485_B3 Pin=J1-20
+Added Net: Name=RS485_B3
+Added Pin To Net: NetName=RS485_B4 Pin=J1-15
+Added Pin To Net: NetName=RS485_B4 Pin=J1-16
+Added Net: Name=RS485_B4
+Added Pin To Net: NetName=SGND Pin=J1-3
+Added Pin To Net: NetName=SGND Pin=J1-4
+Added Pin To Net: NetName=SGND Pin=J1-7
+Added Pin To Net: NetName=SGND Pin=J1-8
+Added Pin To Net: NetName=SGND Pin=J1-11
+Added Pin To Net: NetName=SGND Pin=J1-12
+Added Pin To Net: NetName=SGND Pin=J1-21
+Added Pin To Net: NetName=SGND Pin=J1-22
+Added Pin To Net: NetName=SGND Pin=J1-25
+Added Pin To Net: NetName=SGND Pin=J1-26
+Added Net: Name=SGND
+Added Class: Name=CT310高端控制盒图数传接口电路V1.0

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Removed Member From Class: ClassName=P02-DC_JACK Member=LED1
+Removed Member From Class: ClassName=P03-UARTs_KEY Member=LED2
+Removed Member From Class: ClassName=P03-UARTs_KEY Member=LED3
+Added Component: Designator=D3(LED0603)
+Added Component: Designator=D4(LED0603)
+Added Component: Designator=D5(LED0603)
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R6-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R105-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q2-3
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R106-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q3-3
+Added Net: Name=NetD5_2
+Added Member To Class: ClassName=P02-DC_JACK Member=Component D3 LED-Red (SMD 2012)
+Added Member To Class: ClassName=P03-UARTs_KEY Member=Component D4 LED-Red (SMD 2012)
+Added Member To Class: ClassName=P03-UARTs_KEY Member=Component D5 LED-Red (SMD 2012)

@@ -1,0 +1,6 @@
+Added Component: Designator=J2(ZH1X4WT-1.5)
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=AX Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=AY Pin=J2-4
+Added Class: Name=CT310高端控制盒右摇杆电路V1.0

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=H5-1
+Removed Pin From Net: NetName=GND Pin=H6-1
+Removed Pin From Net: NetName=GND Pin=H7-1
+Removed Pin From Net: NetName=GND Pin=H8-1
+Change Component Footprint: Designator=J5 Old Footprint=HD1X6-2.00 New Footprint=DF13-6P-1.25V
+Change Component Comment : Designator=J5 Old Comment=HEADER1X6 New Comment=DF13-6P-1.25V

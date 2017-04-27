@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SGND Pin=C75-1
+Removed Pin From Net: NetName=NetC75_2 Pin=C75-2
+Change Component Comment : Designator=R38 Old Comment=330R New Comment=10R
+Change Component Comment : Designator=R43 Old Comment=330R New Comment=10R
+Change Component Comment : Designator=R52 Old Comment=330R New Comment=10R
+Change Component Comment : Designator=R57 Old Comment=330R New Comment=10R
+Added Component: Designator=C75(C0805)
+Added Component: Designator=D10(SOD-80)
+Added Pin To Net: NetName=SGND Pin=C75-1
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=12V Pin=D10-2
+Added Member To Class: ClassName=PowerConvert Member=Component C75 0.1uF
+Added Member To Class: ClassName=PowerManager Member=Component D10 1N4148

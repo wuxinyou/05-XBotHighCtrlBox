@@ -1,0 +1,34 @@
+Added Component: Designator=J2(HD2X35-2.00)
+Added Component: Designator=J3(HD2X20-2.00)
+Added Pin To Net: NetName=5V_IN Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=VDD_ETHNET_1.8 Pin=J2-15
+Added Pin To Net: NetName=DC33V Pin=J2-17
+Added Pin To Net: NetName=LINK&ACT Pin=J2-19
+Added Pin To Net: NetName=SPEED Pin=J2-21
+Added Pin To Net: NetName=RX- Pin=J2-23
+Added Pin To Net: NetName=RX+ Pin=J2-25
+Added Pin To Net: NetName=TX- Pin=J2-27
+Added Pin To Net: NetName=TX+ Pin=J2-29
+Added Pin To Net: NetName=VSYS Pin=J2-31
+Added Pin To Net: NetName=UH_DP3 Pin=J2-33
+Added Pin To Net: NetName=UH_DM3 Pin=J2-35
+Added Pin To Net: NetName=MD_USBDP Pin=J2-37
+Added Pin To Net: NetName=MD_USBDN Pin=J2-39
+Added Pin To Net: NetName=XEINT7/GPX0_7 Pin=J2-43
+Added Pin To Net: NetName=XMMC2DATA2 Pin=J2-45
+Added Pin To Net: NetName=XMMC2DATA3 Pin=J2-47
+Added Pin To Net: NetName=XMMC2CMD Pin=J2-49
+Added Pin To Net: NetName=XMMC2CLK Pin=J2-51
+Added Pin To Net: NetName=XMMC2DATA0 Pin=J2-53
+Added Pin To Net: NetName=XMMC2DATA1 Pin=J2-55
+Added Pin To Net: NetName=VDD_TF Pin=J2-57
+Added Pin To Net: NetName=VDD1V8_EXT Pin=J2-59
+Added Pin To Net: NetName=VDD_TF Pin=J2-61
+Added Pin To Net: NetName=RS232_TXD1 Pin=J3-23
+Added Pin To Net: NetName=RS232_RXD1 Pin=J3-25
+Added Pin To Net: NetName=RS232_TXD2 Pin=J3-27
+Added Pin To Net: NetName=RS232_RXD2 Pin=J3-29
+Added Pin To Net: NetName=AV1_IN Pin=J3-35
+Added Pin To Net: NetName=AV2_IN Pin=J3-39
+Added Class: Name=P16-Connector

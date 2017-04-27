@@ -1,0 +1,44 @@
+Added Component: Designator=J1(ZH1X9LT-1.5)
+Added Component: Designator=J2(±¡Ä¤°´¼ü)
+Added Component: Designator=J3(±¡Ä¤°´¼ü)
+Added Component: Designator=J4(±¡Ä¤°´¼ü)
+Added Component: Designator=J5(±¡Ä¤°´¼ü)
+Added Component: Designator=J6(±¡Ä¤°´¼ü)
+Added Component: Designator=J7(±¡Ä¤°´¼ü)
+Added Component: Designator=J8(±¡Ä¤°´¼ü)
+Added Component: Designator=J9(±¡Ä¤°´¼ü)
+Added Pin To Net: NetName=A_K1 Pin=J1-1
+Added Pin To Net: NetName=A_K1 Pin=J2-1
+Added Net: Name=A_K1
+Added Pin To Net: NetName=A_K2 Pin=J1-2
+Added Pin To Net: NetName=A_K2 Pin=J3-1
+Added Net: Name=A_K2
+Added Pin To Net: NetName=A_K3 Pin=J1-3
+Added Pin To Net: NetName=A_K3 Pin=J4-1
+Added Net: Name=A_K3
+Added Pin To Net: NetName=A_K4 Pin=J1-4
+Added Pin To Net: NetName=A_K4 Pin=J5-1
+Added Net: Name=A_K4
+Added Pin To Net: NetName=A_K5 Pin=J1-5
+Added Pin To Net: NetName=A_K5 Pin=J6-1
+Added Net: Name=A_K5
+Added Pin To Net: NetName=A_K6 Pin=J1-6
+Added Pin To Net: NetName=A_K6 Pin=J7-1
+Added Net: Name=A_K6
+Added Pin To Net: NetName=A_K7 Pin=J1-7
+Added Pin To Net: NetName=A_K7 Pin=J8-1
+Added Net: Name=A_K7
+Added Pin To Net: NetName=A_K8 Pin=J1-8
+Added Pin To Net: NetName=A_K8 Pin=J9-1
+Added Net: Name=A_K8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Net: Name=GND
+Added Class: Name=CT310¸ß¶Ë¿ØÖÆºÐAB°´¼üµçÂ·V1.0

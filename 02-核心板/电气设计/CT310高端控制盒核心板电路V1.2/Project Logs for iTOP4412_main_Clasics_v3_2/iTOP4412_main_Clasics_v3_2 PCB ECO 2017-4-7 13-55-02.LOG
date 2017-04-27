@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=TP1_EN Pin=U17-6
+Added Component: Designator=R22(R0603-S)
+Added Pin To Net: NetName=TP1_EN Pin=R22-1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U17-6
+Added Net: Name=NetR22_2
+Added Member To Class: ClassName=P07-LCD Member=Component R22 0R

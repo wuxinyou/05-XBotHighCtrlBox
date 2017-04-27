@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=VSYS_LCD Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=VSYS_LCD Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=RXIN2+ Pin=CON17-1
+Removed Pin From Net: NetName=BUF_TP_IOCTL Pin=CON17-2
+Removed Pin From Net: NetName=RXIN2- Pin=CON17-3
+Removed Pin From Net: NetName=RXIN1+ Pin=CON17-4
+Removed Pin From Net: NetName=GND Pin=CON17-5
+Removed Pin From Net: NetName=RXIN1- Pin=CON17-6
+Removed Pin From Net: NetName=RXIN0+ Pin=CON17-7
+Removed Pin From Net: NetName=GND Pin=CON17-8
+Removed Pin From Net: NetName=RXIN0- Pin=CON17-9
+Removed Pin From Net: NetName=RXCLK+ Pin=CON17-10
+Removed Pin From Net: NetName=GND Pin=CON17-11
+Removed Pin From Net: NetName=RXCLK- Pin=CON17-12
+Removed Pin From Net: NetName=VSYS_LCD Pin=CON17-13
+Removed Pin From Net: NetName=VSYS_LCD Pin=CON17-14
+Removed Pin From Net: NetName=LCD_SCL Pin=CON17-15
+Removed Pin From Net: NetName=LCD_SDA Pin=CON17-16
+Removed Pin From Net: NetName=LCD_TP1_INT Pin=CON17-17
+Removed Pin From Net: NetName=VSYS_LCD Pin=CON17-18
+Removed Pin From Net: NetName=BUF_XPWMTOUT1 Pin=CON17-19
+Removed Pin From Net: NetName=GND Pin=CON17-20
+Removed Pin From Net: NetName=GND Pin=CON17-21
+Removed Pin From Net: NetName=GND Pin=CON17-22
+Removed Pin From Net: NetName=GND Pin=CON17-23
+Removed Member From Class: ClassName=P07-LCD Member=C4
+Removed Member From Class: ClassName=P07-LCD Member=C5
+Removed Member From Class: ClassName=P07-LCD Member=CON17
+Added Pin To Net: NetName=VSYS Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C87-2
+Added Pin To Net: NetName=VSYS Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C88-2
+Added Pin To Net: NetName=GND Pin=H13-1
+Added Pin To Net: NetName=GND Pin=R119-1
+Added Pin To Net: NetName=UH_DP3 Pin=R119-2
+Added Pin To Net: NetName=GND Pin=R120-1
+Added Pin To Net: NetName=UH_DM3 Pin=R120-2
+Added Pin To Net: NetName=GND Pin=R128-1
+Added Pin To Net: NetName=MD_USBDP Pin=R128-2
+Added Pin To Net: NetName=GND Pin=R129-1
+Added Pin To Net: NetName=MD_USBDN Pin=R129-2
+Added Member To Class: ClassName=P09-USB_JTAG Member=Component C87 1uF/10V
+Added Member To Class: ClassName=P09-USB_JTAG Member=Component C88 1uF/10V
+Added Member To Class: ClassName=P02-DC_JACK Member=Component H13 TP_P0_0.8_D0
+Added Member To Class: ClassName=P09-USB_JTAG Member=Component R119 15K
+Added Member To Class: ClassName=P09-USB_JTAG Member=Component R120 15K
+Added Member To Class: ClassName=P09-USB_JTAG Member=Component R128 15K
+Added Member To Class: ClassName=P09-USB_JTAG Member=Component R129 15K
