@@ -1,0 +1,202 @@
+#include "KeyRead.h"
+#include"STM32_LedDisp.h"
+
+KEYDATA_STRUCT KEY_DATA[KEYNUM];
+		
+void KeyOneInit(uint16_t GPIO_Pin,	GPIOSpeed_TypeDef GPIO_Speed,	
+				GPIOMode_TypeDef GPIO_Mode,	GPIO_TypeDef* KEY_PORT)	
+{	
+	GPIO_InitTypeDef GPIO_InitStructure;
+	GPIO_InitStructure.GPIO_Pin = GPIO_Pin ;	
+  	GPIO_InitStructure.GPIO_Mode = GPIO_Mode; 
+  	GPIO_InitStructure.GPIO_Speed = GPIO_Speed;
+  	GPIO_Init(KEY_PORT, &GPIO_InitStructure);
+}
+void KeyRead_Init(void)
+{
+	uint8_t KeyIndex=0;
+
+	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOA, ENABLE);
+	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB, ENABLE);
+
+	KeyOneInit(__KEY_A1_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_A1_PORT);
+	KeyOneInit(__KEY_A2_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_A2_PORT);
+	KeyOneInit(__KEY_A3_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_A3_PORT);
+	KeyOneInit(__KEY_A4_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_A4_PORT);
+	KeyOneInit(__KEY_A5_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_A5_PORT);
+	KeyOneInit(__KEY_A6_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_A6_PORT);
+	KeyOneInit(__KEY_A7_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_A7_PORT);
+	KeyOneInit(__KEY_A8_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_A8_PORT);
+
+	KeyOneInit(__KEY_B1_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_B1_PORT);
+	KeyOneInit(__KEY_B2_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_B2_PORT);
+	KeyOneInit(__KEY_B3_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_B3_PORT);
+	KeyOneInit(__KEY_B4_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_B4_PORT);
+	KeyOneInit(__KEY_B5_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_B5_PORT);
+	KeyOneInit(__KEY_B6_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_B6_PORT);
+	KeyOneInit(__KEY_B7_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_B7_PORT);
+	KeyOneInit(__KEY_B8_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_B8_PORT);
+
+	KeyOneInit(__KEY_H1_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_H1_PORT);
+	KeyOneInit(__KEY_H2_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_H2_PORT);
+	KeyOneInit(__KEY_H3_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_H3_PORT);
+	KeyOneInit(__KEY_H4_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_H4_PORT);
+	KeyOneInit(__KEY_H5_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_H5_PORT);
+
+	KeyOneInit(__KEY_M2_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_M2_PORT);
+	KeyOneInit(__KEY_M3_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_M3_PORT);
+	KeyOneInit(__KEY_M4_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_M4_PORT);
+	KeyOneInit(__KEY_I1_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_I1_PORT);
+	KeyOneInit(__KEY_I2_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_I2_PORT);
+	KeyOneInit(__KEY_J1_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_J1_PORT);
+	KeyOneInit(__KEY_J2_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_J2_PORT);
+	KeyOneInit(__KEY_G1_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_G1_PORT);
+	KeyOneInit(__KEY_G2_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_G2_PORT);
+
+	KeyOneInit(__KEY_EU_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_EU_PORT);
+	KeyOneInit(__KEY_ED_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_ED_PORT);
+	KeyOneInit(__KEY_EL_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_EL_PORT);
+	KeyOneInit(__KEY_ER_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_ER_PORT);
+	KeyOneInit(__KEY_EM_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_EM_PORT);
+
+	KeyOneInit(__KEY_FU_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_FU_PORT);
+	KeyOneInit(__KEY_FD_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_FD_PORT);
+	KeyOneInit(__KEY_FL_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_FL_PORT);
+	KeyOneInit(__KEY_FR_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_FR_PORT);
+	KeyOneInit(__KEY_FM_PIN,GPIO_Speed_2MHz,GPIO_Mode_IPU,__KEY_FM_PORT);
+
+	for(KeyIndex=0;KeyIndex<KEYNUM;KeyIndex++)
+	{
+		KEY_DATA[KeyIndex].TimerTick 	= 0x00;
+		KEY_DATA[KeyIndex].PreState 		= KEY_PRESS_NULL;
+		KEY_DATA[KeyIndex].TimerTickMax 	= KEY_MAX_TIMER;
+	}
+
+	KEY_DATA[KEY_A1].KEY_Pin		= 	__KEY_A1_PIN;
+	KEY_DATA[KEY_A1].KEY_PORT		=	__KEY_A1_PORT;
+	KEY_DATA[KEY_A2].KEY_Pin		= 	__KEY_A2_PIN;
+	KEY_DATA[KEY_A2].KEY_PORT		=	__KEY_A2_PORT;
+	KEY_DATA[KEY_A3].KEY_Pin		= 	__KEY_A3_PIN;
+	KEY_DATA[KEY_A3].KEY_PORT		=	__KEY_A3_PORT;
+	KEY_DATA[KEY_A4].KEY_Pin		= 	__KEY_A4_PIN;
+	KEY_DATA[KEY_A4].KEY_PORT		=	__KEY_A4_PORT;
+	KEY_DATA[KEY_A5].KEY_Pin		= 	__KEY_A5_PIN;
+	KEY_DATA[KEY_A5].KEY_PORT		=	__KEY_A5_PORT;
+	KEY_DATA[KEY_A6].KEY_Pin		= 	__KEY_A6_PIN;
+	KEY_DATA[KEY_A6].KEY_PORT		=	__KEY_A6_PORT;
+	KEY_DATA[KEY_A7].KEY_Pin		= 	__KEY_A7_PIN;
+	KEY_DATA[KEY_A7].KEY_PORT		=	__KEY_A7_PORT;
+	KEY_DATA[KEY_A8].KEY_Pin		= 	__KEY_A8_PIN;
+	KEY_DATA[KEY_A8].KEY_PORT		=	__KEY_A8_PORT;
+
+	KEY_DATA[KEY_B1].KEY_Pin		= 	__KEY_B1_PIN;
+	KEY_DATA[KEY_B1].KEY_PORT		=	__KEY_B1_PORT;
+	KEY_DATA[KEY_B2].KEY_Pin		= 	__KEY_B2_PIN;
+	KEY_DATA[KEY_B2].KEY_PORT		=	__KEY_B2_PORT;
+	KEY_DATA[KEY_B3].KEY_Pin		= 	__KEY_B3_PIN;
+	KEY_DATA[KEY_B3].KEY_PORT		=	__KEY_B3_PORT;
+	KEY_DATA[KEY_B4].KEY_Pin		= 	__KEY_B4_PIN;
+	KEY_DATA[KEY_B4].KEY_PORT		=	__KEY_B4_PORT;
+	KEY_DATA[KEY_B5].KEY_Pin		= 	__KEY_B5_PIN;
+	KEY_DATA[KEY_B5].KEY_PORT		=	__KEY_B5_PORT;
+	KEY_DATA[KEY_B6].KEY_Pin		= 	__KEY_B6_PIN;
+	KEY_DATA[KEY_B6].KEY_PORT		=	__KEY_B6_PORT;
+	KEY_DATA[KEY_B7].KEY_Pin		= 	__KEY_B7_PIN;
+	KEY_DATA[KEY_B7].KEY_PORT		=	__KEY_B7_PORT;
+	KEY_DATA[KEY_B8].KEY_Pin		= 	__KEY_B8_PIN;
+	KEY_DATA[KEY_B8].KEY_PORT		=	__KEY_B8_PORT;
+
+	KEY_DATA[KEY_H1].KEY_Pin		= 	__KEY_H1_PIN;
+	KEY_DATA[KEY_H1].KEY_PORT		=	__KEY_H1_PORT;
+	KEY_DATA[KEY_H2].KEY_Pin		= 	__KEY_H2_PIN;
+	KEY_DATA[KEY_H2].KEY_PORT		=	__KEY_H2_PORT;
+	KEY_DATA[KEY_H3].KEY_Pin		= 	__KEY_H3_PIN;
+	KEY_DATA[KEY_H3].KEY_PORT		=	__KEY_H3_PORT;
+	KEY_DATA[KEY_H4].KEY_Pin		= 	__KEY_H4_PIN;
+	KEY_DATA[KEY_H4].KEY_PORT		=	__KEY_H4_PORT;
+	KEY_DATA[KEY_H5].KEY_Pin		= 	__KEY_H5_PIN;
+	KEY_DATA[KEY_H5].KEY_PORT		=	__KEY_H5_PORT;
+
+	KEY_DATA[KEY_M2].KEY_Pin		= 	__KEY_M2_PIN;
+	KEY_DATA[KEY_M2].KEY_PORT		=	__KEY_M2_PORT;
+	KEY_DATA[KEY_M3].KEY_Pin		= 	__KEY_M3_PIN;
+	KEY_DATA[KEY_M3].KEY_PORT		=	__KEY_M3_PORT;
+	KEY_DATA[KEY_M4].KEY_Pin		= 	__KEY_M4_PIN;
+	KEY_DATA[KEY_M4].KEY_PORT		=	__KEY_M4_PORT;	
+	KEY_DATA[KEY_I1].KEY_Pin		= 	__KEY_I1_PIN;
+	KEY_DATA[KEY_I1].KEY_PORT		=	__KEY_I1_PORT;
+	KEY_DATA[KEY_I2].KEY_Pin		= 	__KEY_I2_PIN;
+	KEY_DATA[KEY_I2].KEY_PORT		=	__KEY_I2_PORT;
+	KEY_DATA[KEY_J1].KEY_Pin		= 	__KEY_J1_PIN;
+	KEY_DATA[KEY_J1].KEY_PORT		=	__KEY_J1_PORT;
+	KEY_DATA[KEY_J2].KEY_Pin		= 	__KEY_J2_PIN;
+	KEY_DATA[KEY_J2].KEY_PORT		=	__KEY_J2_PORT;
+	KEY_DATA[KEY_G1].KEY_Pin		= 	__KEY_G1_PIN;
+	KEY_DATA[KEY_G1].KEY_PORT		=	__KEY_G1_PORT;
+	KEY_DATA[KEY_G2].KEY_Pin		= 	__KEY_G2_PIN;
+	KEY_DATA[KEY_G2].KEY_PORT		=	__KEY_G2_PORT;
+
+	KEY_DATA[KEY_EU].KEY_Pin		= 	__KEY_EU_PIN;
+	KEY_DATA[KEY_EU].KEY_PORT		=	__KEY_EU_PORT;
+	KEY_DATA[KEY_ED].KEY_Pin		= 	__KEY_ED_PIN;
+	KEY_DATA[KEY_ED].KEY_PORT		=	__KEY_ED_PORT;
+	KEY_DATA[KEY_EL].KEY_Pin		= 	__KEY_EL_PIN;
+	KEY_DATA[KEY_EL].KEY_PORT		=	__KEY_EL_PORT;
+	KEY_DATA[KEY_ER].KEY_Pin		= 	__KEY_ER_PIN;
+	KEY_DATA[KEY_ER].KEY_PORT		=	__KEY_ER_PORT;
+	KEY_DATA[KEY_EM].KEY_Pin		= 	__KEY_EM_PIN;
+	KEY_DATA[KEY_EM].KEY_PORT		=	__KEY_EM_PORT;
+
+	KEY_DATA[KEY_FU].KEY_Pin		= 	__KEY_FU_PIN;
+	KEY_DATA[KEY_FU].KEY_PORT		=	__KEY_FU_PORT;
+	KEY_DATA[KEY_FD].KEY_Pin		= 	__KEY_FD_PIN;
+	KEY_DATA[KEY_FD].KEY_PORT		=	__KEY_FD_PORT;
+	KEY_DATA[KEY_FL].KEY_Pin		= 	__KEY_FL_PIN;
+	KEY_DATA[KEY_FL].KEY_PORT		=	__KEY_FL_PORT;
+	KEY_DATA[KEY_FR].KEY_Pin		= 	__KEY_FR_PIN;
+	KEY_DATA[KEY_FR].KEY_PORT		=	__KEY_FR_PORT;
+	KEY_DATA[KEY_FM].KEY_Pin		= 	__KEY_FM_PIN;
+	KEY_DATA[KEY_FM].KEY_PORT		=	__KEY_FM_PORT;
+}
+
+	
+
+void KeyOnePress_OpTask(KEYDATA_STRUCT *pKeyData) 		
+{
+	uint8_t KeyReadState;
+	
+
+	KeyReadState = GPIO_ReadInputDataBit(pKeyData->KEY_PORT,pKeyData->KEY_Pin);
+
+	if(pKeyData->PreState != KeyReadState)
+	{
+		if(pKeyData->TimerTick>pKeyData->TimerTickMax)
+		{
+			pKeyData->PreState = KeyReadState;
+			if(pKeyData->PreState == Bit_RESET)	 	//开关按下一次
+			 	pKeyData->NowState = KEY_PRESS_DOWN;
+			else									//开关松开一次
+				pKeyData->NowState = KEY_RRESS_UP;	
+				
+			pKeyData->TimerTick=0;	
+		}
+		else
+			pKeyData->TimerTick++;
+	}
+	else
+		pKeyData->TimerTick=0;
+}
+
+
+
+
+void KeyAll_OpTask(void)
+{   
+	uint8_t KeyIndex=0;
+	for(KeyIndex=0;KeyIndex<KEYNUM;KeyIndex++)
+		KeyOnePress_OpTask(&KEY_DATA[KeyIndex]); 	
+}
+
+		
+
+
