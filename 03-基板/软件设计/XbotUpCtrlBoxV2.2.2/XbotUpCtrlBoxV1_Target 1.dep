@@ -28,7 +28,7 @@ I (.\Includes\STM32_LIB\stm32f10x_tim.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\misc.h)(0x4D783BB4)
-I (.\Includes\MySysDefine.h)(0x58F462A6)
+I (.\Includes\MySysDefine.h)(0x590C511F)
 I (.\Includes\STM32_IRQ_INIT.H)(0x4FF29B0A)
 I (.\Includes\STM32_Driver\STM32_SysTick.h)(0x4F99FD74)
 I (.\Includes\STM32_Driver\STM32_UsartInit.h)(0x4FEAC0A6)
@@ -102,7 +102,7 @@ I (.\Includes\STM32_LIB\misc.h)(0x4D783BB4)
 I (.\Includes\STM32_IRQ_INIT.H)(0x4FF29B0A)
 I (.\Includes\STM32_Driver\STM32_TimInit.h)(0x4FCDCB42)
 I (.\Includes\STM32_Driver\STM32_LedDisp.h)(0x4FCDE8D6)
-I (.\Includes\MySysDefine.h)(0x58F462A6)
+I (.\Includes\MySysDefine.h)(0x590C511F)
 I (.\Includes\App\CbCtrl.h)(0x589D1DDA)
 I (.\Includes\App\KeyRead.h)(0x5004EF3A)
 I (.\Includes\App\JoyStickAdcRead.h)(0x500519EE)
@@ -114,7 +114,7 @@ I (.\Includes\STM32_Driver\STM32_GpioInit.h)(0x5902B36E)
 I (.\Includes\STM32_Driver\STM32_UsartInit.h)(0x4FEAC0A6)
 I (.\Includes\App\SwAdcRead.h)(0x58F45647)
 F (.\Includes\STM32_IRQ_INIT.h)(0x4FF29B0A)()
-F (.\Includes\MySysDefine.h)(0x58F462A6)()
+F (.\Includes\MySysDefine.h)(0x590C511F)()
 F (.\Source\ReadMe.text)(0x4FEBCECC)()
 F (.\Source\App\BatteryAdcRead.c)(0x58F32FE1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Includes -I.\Includes\App -I.\Includes\STM32_CMSIS -I.\Includes\STM32_Driver -I.\Includes\STM32_LIB -I.\Includes\User -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\outPut\batteryadcread.o" --omf_browse "..\outPut\batteryadcread.crf" --depend "..\outPut\batteryadcread.d")
 I (.\Includes\App\BatteryAdcRead.h)(0x4FCAF7B0)
@@ -178,7 +178,7 @@ I (.\Includes\STM32_LIB\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\misc.h)(0x4D783BB4)
 I (.\Includes\STM32_Driver\STM32_Adc.h)(0x58F41197)
-I (.\Includes\MySysdefine.h)(0x58F462A6)
+I (.\Includes\MySysdefine.h)(0x590C511F)
 I (.\Includes\STM32_Driver\STM32_SysTick.h)(0x4F99FD74)
 F (.\Source\App\KeyRead.c)(0x500519EE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Includes -I.\Includes\App -I.\Includes\STM32_CMSIS -I.\Includes\STM32_Driver -I.\Includes\STM32_LIB -I.\Includes\User -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\outPut\keyread.o" --omf_browse "..\outPut\keyread.crf" --depend "..\outPut\keyread.d")
 I (.\Includes\App\KeyRead.h)(0x5004EF3A)
@@ -241,7 +241,7 @@ I (.\Includes\STM32_LIB\stm32f10x_tim.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\misc.h)(0x4D783BB4)
-I (.\Includes\MySysdefine.h)(0x58F462A6)
+I (.\Includes\MySysdefine.h)(0x590C511F)
 I (.\Includes\App\KeyRead.h)(0x5004EF3A)
 I (.\Includes\STM32_Driver\STM32_LedDisp.h)(0x4FCDE8D6)
 I (.\Includes\App\JoyStickAdcRead.h)(0x500519EE)
@@ -285,7 +285,7 @@ I (.\Includes\STM32_LIB\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\misc.h)(0x4D783BB4)
 I (.\Includes\STM32_Driver\STM32_UsartDriver.h)(0x4FF112C8)
-I (.\Includes\MySysDefine.h)(0x58F462A6)
+I (.\Includes\MySysDefine.h)(0x590C511F)
 I (.\Includes\STM32_Driver\STM32_GpioInit.h)(0x5902B36E)
 F (.\Source\App\SwAdcRead.c)(0x5902B3FF)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Includes -I.\Includes\App -I.\Includes\STM32_CMSIS -I.\Includes\STM32_Driver -I.\Includes\STM32_LIB -I.\Includes\User -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\outPut\swadcread.o" --omf_browse "..\outPut\swadcread.crf" --depend "..\outPut\swadcread.d")
 I (.\Includes\App\SwAdcRead.h)(0x58F45647)
@@ -442,7 +442,7 @@ I (.\Includes\STM32_LIB\stm32f10x_tim.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\misc.h)(0x4D783BB4)
-I (.\Includes\MySysDefine.h)(0x58F462A6)
+I (.\Includes\MySysDefine.h)(0x590C511F)
 I (.\Includes\STM32_Driver\STM32_GpioInit.h)(0x5902B36E)
 F (.\Source\STM32_Driver\STM32_UsartInit.C)(0x4FF127AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Includes -I.\Includes\App -I.\Includes\STM32_CMSIS -I.\Includes\STM32_Driver -I.\Includes\STM32_LIB -I.\Includes\User -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\outPut\stm32_usartinit.o" --omf_browse "..\outPut\stm32_usartinit.crf" --depend "..\outPut\stm32_usartinit.d")
 I (.\Includes\STM32_Driver\STM32_UsartInit.h)(0x4FEAC0A6)
@@ -475,7 +475,7 @@ I (.\Includes\STM32_LIB\stm32f10x_usart.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\stm32f10x_wwdg.h)(0x4D783BB4)
 I (.\Includes\STM32_LIB\misc.h)(0x4D783BB4)
 I (.\Includes\STM32_Driver\STM32_UsartDriver.h)(0x4FF112C8)
-I (.\Includes\MySysDefine.h)(0x58F462A6)
+I (.\Includes\MySysDefine.h)(0x590C511F)
 I (.\Includes\STM32_Driver\STM32_GpioInit.h)(0x5902B36E)
 I (.\Includes\STM32_IRQ_INIT.H)(0x4FF29B0A)
 F (.\Source\STM32_Driver\STM32_TimInit.C)(0x58F42E82)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Includes -I.\Includes\App -I.\Includes\STM32_CMSIS -I.\Includes\STM32_Driver -I.\Includes\STM32_LIB -I.\Includes\User -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\outPut\stm32_timinit.o" --omf_browse "..\outPut\stm32_timinit.crf" --depend "..\outPut\stm32_timinit.d")

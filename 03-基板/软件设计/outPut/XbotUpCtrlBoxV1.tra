@@ -38,7 +38,7 @@
 ### ADS-LD Output File: '..\outPut\XbotUpCtrlBoxV1.axf'
 ### ADS-LD Command File: '..\outPut\XbotUpCtrlBoxV1.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '..\outPut\XbotUpCtrlBoxV1.lnp', Handle=0x000006CC
+### Creating CmdFile '..\outPut\XbotUpCtrlBoxV1.lnp', Handle=0x000001C8
 ### Writing '.lnp' file
 ### ADS-LD Command file '..\outPut\XbotUpCtrlBoxV1.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.
